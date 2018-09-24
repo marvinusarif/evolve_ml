@@ -1,0 +1,77 @@
+Miastenia Gravis
+ Apa itu Miastenia Gravis??
+
+Miastenia gravis adalah penyakit langka pada celah/sambungan sel  saraf dan otot  (neuromuscular junction) dimana sel antibodi tubuh akan menyerang sambungan saraf yang mengandung acetylcholine (ACh), yaitu neurotransmiter yang mengantarkan rangsangan dari saraf satu ke saraf lainnya. Hal inilah yang disebut dengan proses autoimun. Jika reseptor mengalami gangguan maka akan menyebabkan defisiensi, sehingga komunikasi antara sel saraf dan otot terganggu dan menyebabkan kelemahan otot (otot tidak dapat berkontraksi).
+
+Seberapa sering Miastenia Gravis terjadi di masyarakat ??
+
+Miastenia gravis termasuk penyakit yang langka, kira-kira terjadi 5 kasus dari 100.000 orang. Penyakit ini dapat terjadi pada setiap kelompok umur, namun angka kejadian pada dekade pertama kehidupan  hanya sekitar 10%. Pada perempuan paling banyak dijumpai antara usia 20-30 tahun sedangkan sekitar 50-60 tahun pada pria.
+
+Apa penyebab terjadinya Miastenia Gravis?
+
+Penyebabnya  masih belum dapat dipastikan, namun berhubungan dengan proses autoimun. Pada MG telah ditemukan antibodi spesifik yang menyerang celah antara saraf dan otot. Hal ini  menyebabkan penghantaran neurotransmitter menjadi  terganggu sehingga otot mudah mengalami kelelahan.
+
+Bagaimana dengan gejala-gejala Miastenia Gravis??
+
+Aktivitas yang terus menerus dari sekelompok otot akan mengurangi kekuatan kontraksi otot sehingga menyebabkan kelemahan atau kelumpuhan otot yang progresif /cepat, dan akan membaik (sepenuhnya atau sebagian) setelah istirahat. Umumnya menyerang otot-otot kecil terlebih dahulu seperti otot kelopak mata, mata, rahang, leher, dan tenggorokan.
+
+[caption id="attachment_15926" align="alignleft" width="120"] Ptosis pada MG[/caption]
+
+&nbsp;
+
+Pada mata : Pasien akan merasakan kelopak matanya turun dan sulit dibuka (ptosis), penglihatan ganda atau kabur (diplopia). Umumnya gejala pada mata inilah yang dirasakan pertama kali oleh pasien.
+
+&nbsp;
+
+&nbsp;
+
+	Pada wajah dan otot tenggorokan : kesulitan menelan atau tersedak, kesulitan untuk mengunyah, suara berubah atau menjadi serak, senyum yang berubah/aneh.
+	Pada leher biasanya bersamaan dengan gejala pada mata, wajah, dan tenggorokan. Pasien sulit mempertahankan kepala pada posisi tegak. Pada otot lengan dan tungkai juga dapat diserang sehingga gaya jalan terlihat aneh.
+
+Segera hubungi dokter apabila anda mengalami gangguan penglihatan, kesulitan bernapas, gangguan dalam mengunyah dan menelan, kesulitan berjalan, dan mempertahankan posisi kepala.
+
+
+
+Bagaimana memastikan diagnosa Miastenia Gravis?
+
+Untuk menyingkirkan penyakit lain sekaligus untuk memastikan diagnosis MG harus dilakukan beberapa pemeriksaan tambahan :
+
+-          Memeriksa adanya anti-asetilkolin reseptor antibodi. Pemeriksaan ini sangat spesifik untuk menentukan diagnosis MG. Hampir 90% pasien dengan MG yang menyeluruh positif terhadap test ini. Pada pasien MG okular (gejala mata saja) 50-70% positif.
+
+-          Pemeriksaan anti-striated muscle (anti-SM) dan anti-muscle spesific kinase (anti Mu-SK) juga positif pada pasien dengan MG. Selain itu harus diperiksa juga Rheumatoid Factor (RF) dan antinuclear antibodi  (ANA) untuk menyingkirkan Rheumatoid arthritis dan SLE.
+
+-          Pemeriksaan roentgen atau CT scan dada (toraks) untuk mengevaluasi adanya thymoma. Selain itu CT scan atau MRI otak dapat menyingkirkan adanya lesi intrakranial.
+
+-          Tensilon test, yaitu tes dengan penyuntikan Tensilon (Edrophonium, obat golongan antikolinesterase inhibitor) diberikan 2-10 mg secara intravena. Tes ini positif apabila terdapat perubahan yang nyata dari kelelahan otot yang dirasakan membaik.
+
+-          Pemeriksaan elektromiografi (EMG) dengan repetitive nerve stimulation yang akan didapatkan sebuah pola â€œdecrementingâ€ (menurun)
+
+&nbsp;
+
+Bagaimana dengan terapinya?
+
+Pengobatan untuk Miastenia Gravis didasarkan pada gejala-gejalanya. Seperti yg sudah kita ketahui diatas, gejala tersebut antara lain kesulitan bernapas, kesulitan dalam berbicara, suara serak, kelumpuhan otot wajah, penglihatan ganda, dan ptosis (kesulitan membuka kelopak mata). Meskipun tidak mendatangkan kesembuhan 100%, pengobatan tersebut membantu pasien untuk bebas dari gejala untuk periode yang lama. Obat seperti neostigmin dan pyridogstigmin, biasa digunakan untuk mengatasi gejala-gejala nya. Obat-obat tersebut merupakan golongan asetilkolinesterase inhibitor yang dapat membantu meningkatkan fungsi dari otot dengan bekerja pada transmitter sistem sarafnya. Mycophenolate mofetil, azathioprine, prednisone, dan cyclosporine biasa digunakan sebagai kombinasi terapinya. Konsumsi obat-obatan tersebut harus dilakukan melalui konsultasi terlebih dahulu dengan dokter yang merawat, mengingat adanya efek samping dari obat-obatan tersebut.
+
+Krisis Miastenia terjadi ketika otot-otot yang mengontrol pernapasan makin melemah, sampai pada titik dimana ventilasi (pertukaran udara dalam organ pernafasan) tidak lagi adekuat, sehingga dibutuhkan penanganan di rumah sakit dengan bantuan ventilator untuk memperbaiki kondisi pasien. Kondisi krisis tersebut dapat dipicu oleh adanya infeksi, demam, atau reaksi efek samping dari obat-obatan yang dikonsumsi pasien,
+
+Timektomi (operasi untuk membuang kelenjar timus), merupakan pengobatan yang digunakan pada beberapa pasien. Kelenjar timus terletak di belakang tulang dada dan merupakan bagian yang penting dari sistem kekebalan. Ketika ditemukan tumor pada kelenjar timus tersebut (terdapat pada 10-15% pasien dengan Miastenia Gravis), maka diperlukan operasi tersebut mengingat risiko tumor tersebut untuk menjadi keganasan. Timektomi mengurangi tingkat keparahan dari kelemahan otot pada Miastenia Gravis setelah beberapa bulan.Setelah dilakukan tindakan operasi ini, kebutuhan obat-obatan nya akan sangat minimal.
+
+Plasmaferesis, atau pertukaran plasma (plasma exchange), juga dapat memberikan manfaat dalam terapi untuk penderita Miastenia Gravis. Melaui prosedur plasmaferesis, antibodi yang abnormal akan â€˜dipindahkanâ€™ dari plasma ke dalam darah. Peningkatan kekuatan otot akan terjadi secara mencolok, namun sayangnya, hal tersebut terjadi untuk jangka waktu yang tidak lama, mengingat produksi dari antibodi abnormal yang terus berlanjut. Metode Plasmaferesis ini tidak cukup sekali dilakukan, dibutuhkan pengulangan tindakan ini untuk mendapatkan manfaatnya. Pertukaran plasma khususnya bermanfaat di saat terjadi keparahan kelemahan otot penderita Miastenia Gravis atau sebelum dilakukan tindakan operasi.
+
+Keputusan pengobatan apa yang akan dipilih didasarkan pada pengetahuan akan sejarah penyakit Miastenia Gravis pada masing-masing pasien dan prediksi respon yang mungkin ditunjukkan dari masing-masing pasien tersebut terhadapat bentuk terapi tertentu. Goal dari pengobatan ini sifatnya individual pada tiap pasien, tergantung dari tingkat keparahan, usia pasien dan jenis kelamin, dan derajat kelemahan/gangguannya.
+
+Perlu diperhatikan juga, jika gangguan pada mata pasien sudah parah, dibutuhkan penanganan khusus pada mata dan direkomendasikan juga untuk dilakukan operasi mata. Pasien yg menjalani terapi medis untuk mengatasi Miastenia Gravis ini juga membutuhkan dukungan emosional dari pihak keluarga dan orang yang ada di sekitarnya, supaya situasi krisis dari penyakit ini dapat dicegah.
+
+&nbsp;
+
+&nbsp;
+
+Sumber :
+
+1. Adams &amp; Victorâ€™s Principles of Neurology, 9th Edition. Mc-Graw Hills 2009.
+
+2. Neurology and Neurosurgery Ilustrated, 3rd Edition. Livingstone Churchill.
+
+3. www.mayoclinic.com
+
+4. www.medscape.com

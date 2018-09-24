@@ -1,0 +1,12 @@
+Asthmapolis: Sistem Sensor Inhaler Asma dengan Gadget
+Penyakit asma memang penyakit yang perlu banyak diperhatikan terutama mengenai masalah kontrol dan serangan asma. Para pasiennya perlu memperhatikan betul kapan mereka serangan, apa yang menyebabkan serangan tersebut, kapan, di mana. Inilah yang akan dibantu dengan piranti Asthmapolis.
+
+
+
+Asthmapolis telah disetujui oleh FDA (BPOM-nya Amerika Serikat) sebagai sistem sensor asma yang dihubungkan dengan sistem web dan telepon seluler. Komponen utamanya adalah sistem yang dilengkapi sensor kecil yang dipasang di atas inhaler asma. Sistem ini akan menentukan lokasi dan kapan inhaler tersebut digunakan. Sensor akan menggunakan sistem GPS untuk lokalisasi tempat dan berkomunikasi melalui Bluetooth dengan ponsel yang dibawa oleh pasien. Data ini akan masuk ke server Asthmapolis.
+
+
+
+Aplikasi yang tersedia untuk Android dan iOS ini akan memungkinkan pasien untuk merekam gejala asma mereka, pemicu asma, dan penggunaan obat asma. Sistem ini akan dilengkapi dengan sistem pesan singkat yang akan mengingatkan penggunaan obat. Hal ini semuanya akan menjadi buku harian (diary) asma pasien. Dengan ini, maka akan meningkatkan kepedulian pasien dengan penyakitnya dan tentunya meningkatkan komunikasi dokter-pasien. Dokter pun akan memperoleh informasi dengan lebih baik dan akurat.
+
+Sumber: Medgadget

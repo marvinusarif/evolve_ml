@@ -1,0 +1,14 @@
+ResolutionMD Mobile Disetujui oleh FDA
+Di Amerika Serikat, kini penggunaan iOS (sistem operasi mobile dari Apple) telah semakin menjamur. Oleh karena itu, tak heran bila semakin banyak program-program iOS termasuk bidang medis yang diluncurkan.
+
+Kini, Calgary Scientific, sebuah perusahaan telah menerima persetujuan FDA (Badan POM Amerika Serikat) untuk penggunaan aplikasi pencitraan radiologis, ResolutionMD Mobile untuk iPad dan iPhone. Program ini menampilkan gambar radiologis dengan cepat dan dengan rendering yang baik.
+
+Selain itu, terdapat pula ResolutionMD Mobile versi Android, namun belum mendapat persetujuan FDA.
+
+Program ini mendukung untuk menampilkan berbagai gambar radiologis dari CT-Scan, MRI, Ehanced MRI, PET, dan lainnya. Dengan program ini, kita juga dapat menavigasi gambar 3D secara interaktif, memutar, dan memperbesar gambar.
+
+Berikut adalah demo singkatnya yang dijalankan dari iPad generasi pertama:
+
+
+
+Disarikan dari Medgadget

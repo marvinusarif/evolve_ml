@@ -1,0 +1,65 @@
+Ayahku Atau Bukan Ya? Apakah Anakku?
+Sering kita dengar di televisi tentang kasus seorang pria yang dituduh sebagai ayah dari seorang anak atau penyangkalan dari seseorang tentang statusnya sebagai ayah dari seorang anak. Apalagi bila hal ini menimpa seorang public figure atau selebriti, biasanya akan menimbulkan kehebohan tersendiri di masyarakat. Tentu kita ingin tahu bagaimana cara terbaik dalam menyelesaikan kasus tersebut dan seakurat apa hasil yang didapat dalam pembuktian status ayah dari anak itu agar tidak ada pihak yang dirugikan.
+
+Untuk membuktikan ke-ayah-an (kasus ragu ayah) atau ibu dapat digunakan beberapa metode untuk membuktikannya, biasanya dimulai dari metode yang sederhana hingga yang rumit. Semakin banyak tes yang dilakukan maka semakin akurat hasil yang dicapai.
+
+Salah satu cara yang paling mudah dalam kasus ragu ayah adalah menggunakan kelompok sistem golongan darah. Pada prinsipnya, metode ini dilakukan berdasarkan hukum Mendel yang menyatakan bahwa semua sifat yang terdapat pada anak merupakan gabungan dari sifat ayah dan ibunya. Jadi dalam tes-tes yang dilakukan, kita mencoba mencari kemiripan antara sifat yang ada pada anak dengan sifat yang terdapat pada ayah atau ibunya. Perlu diingat bahwa hukum Mendel tetap berdasarkan kemungkinan (probabilitas), sehingga penentuan ke-ayah-an dari seorang anak tidak dapat dipastikan, namun sebaliknya kita dapat memastikan seseorang bukanlah ayah dari seorang anak (singkir ayah/paternity exclusion). Sistem golongan darah terbagi menjadi 5 yaitu:
+
+	Antigen pada permukaan sel darah merah, misalnya sistem ABO, rhesus, MNS, Kell, Duffy, Lutheran, Lewis, Kidd, P.
+	Sistem protein serum, misalnya sistem Gm, Gc, haptoglobin, dll.
+	Sistem enzim sel darah merah yang terdapat dalam serum, misalnya fosfogluomutase (PGM), adenilat kinase (AK), pseudokolinesterase (PCE/PKE), adenosin deaminase (ADA), fosfatase asam eritrosit (EAP), glutamat piruvat transaminase (GPT), 6-fosfo glukonat dehidrogenase (6PGD), glukosa 6 fosfatase dehidrogenase (G6PD).
+	Antigen pada sel darah putih, misalnya human limfositit antigen (HLA).
+	Lain-lain, misalnya sekretoe-nonsekretor, antigen trombosit.
+
+Bila Anda menggunakan sistem ABO, MNS, dan rhesus maka kemungkinan keakuratan hasil yang keluar sekitar 50-60%. Tetapi bila Anda menggunakan semua sistem yang ada untuk penentuan ke-ayah-an maka keakuratannya meningkat menjadi lebih dari 90%.
+
+Berikut ini kita akan membahas ketiga sistem yang paling mudah dan paling sering dipakai.
+
+Sistem ABO
+Sistem ini memakai golongan darah manusia sebagai cara untuk penentuan ke-ayah-an. Manusia memiliki 4 golongan darah yaitu A, B, AB, dan O. Untuk golongan darah A dan B terbagi menjadi dua kategori, yaitu:
+
+	Homozigot yang berarti kedua alelnya baik yang bersifat dominan (ditulis dengan huruf besar) maupun yang resesif (ditulis dengan huruf kecil) bersifat sama, misalnya: Aa, Bb.
+	Heterozigot yang berarti kedua alelnya memiliki sifat yang berbeda dimana sifat dominan muncul sebagai jenis golongan darahnya, misalnya: Ao, Bo.
+
+Untuk golongan darah AB, kedua alelnya muncul ke permukaan dengan proporsi yang sama, sedangkan golongan darah O memiliki sifat alel yang sama yaitu Oo.
+
+Golongan darah anak ditentukan dari campuran yang terbentuk dari golongan darah ayah dan ibunya. Hal ini dapat digambarkan sebagai berikut:
+
+	Bila golongan darah ayah dan ibu sama dan sifatnya homozigot, maka 100% anaknya akan bergolongan darah sama dengan kedua orang tuanya. Contoh:
+
+
+
+	Bila golongan darah ayah sama dengan ibu tapi sifatnya heterozigot, maka 75% anaknya akan bergolongan sama dengan kedua orang tuanya dan 25% akan bergolongan darah berbeda dengan sifat resesif yang muncul. Contoh:
+
+
+
+	Bila golongan darah ayah berbeda dengan ibu dengan salah satu homozigot sedangkan yang lain heterozigot, maka 50% anaknya bergolongan darah sama dengan ayah dan 50 % sama dengan ibunya kecuali untuk salah satu orang tuanya bergolongan darah AB. Contoh:
+
+
+
+	Bila golongan darah ayah dan ibu berbeda dan sama-sama heterozigot maka kemungkinan golongan darah anak yang muncul adalah:
+
+ Sistem MNS
+Sistem ini menggunakan antigen M, N, S yang terdapat pada sel darah merah sebagai penentu ke-ayah-an. Bila sang anak memiliki salah satu atau dua atau ketiganya dalam darahnya, maka salah satu dari orang tuanya dalam hal ini ayahnya harus memiliki antigen tersebut. Contoh:
+
+
+
+Maka pria 2 dan 3 dapat disingkirkan sebagai ayah dari sang anak karena pria 2 tidak punya unsur N dalam darahnya dan pria 3 bergolongan darah A sehingga tidak mungkin anaknya bergolongan darah B bila sang ibu juga bergolongan darah A. Oleh karena itu pria 1 mungkin adalah ayah sang anak.
+
+Sistem Rhesus
+Sistem ini menggunakan rhesus sebagai penentu ke-ayah-an. Manusia memiliki dua jenis rhesus yaitu: rhesus +(positif) yang bersifat dominan dan rhesus -(negatif) yang bersifat resesif. Artinya, bila sang anak memiliki rhesus + maka salah satu dari orang tuanya atau keduanya memiliki rhesus +. Sedangkan bila sang anak memiliki rhesus - maka kedua orang tuanya mutlak harus memiliki rhesus -.
+
+Seiring dengan perkembangan ilmu genetik, maka dikembangkan cara baru dalam menentukan ke-ayah-an dari seseorang yaitu dengan menggunakan DNA (Deoksiribo Nucleic Acid). Seperti yang kita ketahui sifat yang diturunkan ayah dan ibu kepada anaknya dibawa oleh DNA yang berupa kode genetik untuk membentuk struktur protein dan enzim yang akan membentuk sifat dari anak tersebut. DNA tersusun dalam kromosom-kromosom manusia yang berupa kromosom 46XX untuk wanita dan kromosom 46XY untuk pria. Kromosom anak merupakan campuran dari setengah kromosom ayah dan ibunya yaitu 23X dari ibu dan 23X atau 23Y dari ayahnya. Jadi pada prinsipnya bila setengah dari pita DNA sang anak sama dengan pita DNA pria yang dicurigai maka hampir 100% pria tersebut adalah ayah dari sang anak.
+
+Penentuan ke-ayah-an dengan menggunakan DNA lebih unggul daripada sistem golongan darah karena:
+
+	DNA bersifat sangat spesifik sehingga cukup menggunakan satu pemeriksaan saja sudah dapat memastikan ke-ayah-an seseorang.
+	Distribusi DNA sangat luas meliputi seluruh sel tubuh sehingga bahan pemeriksaan dapat diambil dari setiap bagian tubuh yang ada, misalnya: rambut atau kulit sehingga tidak menyakiti sang anak.
+	Lebih cepat dan mudah.
+
+Akan tetapi karena di indonesia hanya terdapat sedikit institusi yang dapat melakukan pemeriksaan DNA, akibatnya biaya pemeriksaan ini cukup mahal walaupun sangat akurat.
+
+Penggunaan sistem golongan darah dan DNA tidak hanya digunakan untuk menentukan ke-ayah-an pada kasus ragu ayah, tetapi juga dapat dipakai pada kasus bayi tertukar, penculikan ayah, pemerkosaan, dan identifikasi personal pada kasus-kasus kejahatan. Jadi bila kedepannya muncul kasus yang sehubungan dengan status ayah dari seorang anak maka lebih baik digunakan salah satu cara di atas demi menjamin tidak adanya pihak yang dirugikan.
+
+Sumber pustaka:
+Bagian kedokteran Forensik FK UI.1997.Ilmu Kedokteran Forensik. Jakarta

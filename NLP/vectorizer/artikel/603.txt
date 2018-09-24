@@ -1,0 +1,10 @@
+Penurunan Kebahagiaan Diantara Pengguna Twitter
+Para ilmuwan menganalisis miliaran tweets selama hampir tiga tahun dan menemukan bahwa kebahagiaan cenderung menurun. “Pengguna Twitter mungkin tidak se-bahagia dulu”, kata ilmuwan dari Universitas Vermont. Ini tidak biasa bagi para peneliti untuk menggunakan Twitter untuk merasakan suasana hati orang, meskipun studi lain baru-baru ini juga melakukannya. Penelitian ini dipublikasikan online dalam jurnal PLoS ONE.
+
+Dalam studi baru, para ilmuwan menganalisis isi lebih dari 4 miliar tweet yang diposting oleh 63 juta pengguna Twitter di seluruh dunia. Tweets keluar antara September 2008 sampai pertengahan September 2011. Relawan membaca tweets tersebut dan kemudian menilai "kebahagiaan" kualitas kata-kata dalam tweets, menggunakan skala dari satu (paling menyedihkan) sampai sembilan (paling senang). Sebagai contoh, kata "tawa" mendapat nilai rata-rata 8,5, "makanan" mencetak 7,44, "ketamakan" masuk pada 3,06, dan "teroris" di 1,30.
+
+Para ilmuwan ini menerapkan skala rating kata sedih ke senang ini dan formula matematika lainnya ke dalam miliaran tweets yang mereka kumpulkan. Mereka mengamati bahwa untuk kebahagiaan, "setelah tren yang cenderung meningkat dari Januari sampai April 2009 diikuti oleh tren menurun bertahap. Penurunan ini semakin cepat selama semester pertama tahun 2011," para peneliti menulis.
+
+Data Twitter juga memberikan wawasan menarik lainnya, seperti hari terbahagia dalam seminggu adalah hari Sabtu, diikuti oleh hari Jumat dan Minggu. Sedangkan hari paling tidak bahagia dalam seminggu adalah hari Selasa. Satu jam terindah dalam sehari adalah jam 5-6 sore. Pada saat itulah terdapat tweet berisi kata-kata yang lebih banyak positif ketimbang yang negatif. Kebahagiaan menurun tajam sampai siang hari, dan kemudian penurunan itu sedikit mereda sampai titik rata-rata terrendah hari itu pada pukul 10-11 malam. Bahkan penggunaan kata-kata makian dalam tweets memiliki siklus harian yang dapat ditebak: mencapai titik tinggi sekitar jam 1 pagi dan titik terrendah antara jam 5 dan 6 pagi
+
+Sumber: MedicineNet

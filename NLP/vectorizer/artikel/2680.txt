@@ -1,0 +1,28 @@
+Stem Cells: Introduction
+
+
+Stem cell, is hardly a new thing nowadays as its research has already begun since 1960s. Yet, public attention as well as awareness is still low to moderate about this discovery. Aside from those who are scientists and doctors, not many people, who know what stem cell is; even if all the researches have been so excited these past few years consequent with more new discoveries that have led them to understand more and more about the complexity of the stem cells. The science excitement versus public unawareness is so ironic. Therefore, it is quite a challenge to share this knowledge to public using simple descriptions and succinct information that is suitable for public to read without making them yawning every sentences!
+
+Stem cells are cells that can develop to many different type of cells in the body. In short, they are like internal repair system of human’s body; it will repair any tissue damages for the whole life. These cells are unique because:
+
+	They are unspecialized cells which is capable of renewing themselves through cell division, even after a long periods of inactivity.
+	They can be induced to become tissue- or organ-specific cells with the specific functions.
+
+Hence, these characteristics have made them capable of becoming the “repair man”.
+
+There are two types of stem cells. First, the embryonic stem cells that are isolated from blastocysts, the 3 to 5 days old embryo. Second is the adult stem cells or the somatic stem cells that are found in adult tissues. The later comes from adult’s bone marrow which then are divided again into two kinds, the hematopoetic stem cells and the stromal bone marrow stem cells or more popularly known as the mesenchymal stem cells.
+
+Then comes the important question: why scientists bother so much about the stem cells?
+
+The answer is that by gaining more information about the stem cells characteristics and understanding the process behind it, will be a major benefit in medical field, especially in finding the cure for some incurable diseases like cancer and birth defects. It is possible through the generation of the same cells or tissues for replacing the defected cells or tissues from the stem cells. This therapy is known as gene-based therapy.
+
+Another potential usage of the stem cells is on pharmaceutical�field on the testing of the new drugs. Currently, there are only few type of cells that can be generate for the testing, however, if the scientists are able to manipulate the stem cells for generating other type of cells, then the testing will cover more type of cells thus, more side effects of the drug that can be known.
+
+Nevertheless, as promising as it can be and as exciting as it is expected, most of the studies are still limited in the laboratoriums as the application of these studies for clinical trial phase I has been approved by FDA, United States Food and Drug Administration, just recently. Shortly, it is sufficient to say that stem cells offer exciting promise for future therapies, however there are still significant technical hurdles that can only be overcome after years of intensive researches that will bring us closer to the key of these questions.
+
+References:
+
+	Stem Cell Basics, available on: http://stemcells.nih.gov/
+	Tuch BE (2006). "Stem cells—a      clinical update". Australian Family Physician 35 (9):      719-21
+ 
+	"Stem Cell FAQ". US      Department of Health and Human Services. 2004. Available on:      

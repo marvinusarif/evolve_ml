@@ -1,0 +1,38 @@
+Deteksi Kanker Lewat Pemeriksaan Darah
+Kanker masih menjadi penyakit yang ditakuti oleh masyarakat karena belum ada obatnya dan sering menimbulkan kematian. Yang lebih menyulitkan adalah kanker tidak memberikan gejala spesifik pada stadium awal sehingga seringkali kita terlambat menyadarinya. Mungkin anda pernah mendengar pemeriksaan laboratorium yang dapat melakukan deteksi kanker secara dini melalui darah. Pemeriksaan ini biasa disebut penanda tumor (tumor marker). Apa saja jenis kanker yang dapat dideteksi? Seberapa efektif sih pemeriksaan ini dan apa memang harus dilakukan?
+
+Sebelum membahas lebih lanjut tentu kita harus mengetahui dahulu apa penanda tumor ini. Penanda tumor adalah substansi yang dihasilkan oleh sel kanker atau oleh sel tubuh yang bereaksi terhadap sel kanker atau kondisi jinak lainnya. Penanda tumor ini dapat ditemukan pada jaringan kanker tersebut atau bersirkulasi dalam cairan tubuh anda seperti darah, air kemih, ludah, cairan otak, dll. Kali ini kita akan membahas secara spesifik penanda tumor yang dilepaskan di darah.
+
+Lalu bagaimana penanda tumor ini melakukan deteksi kanker?
+
+Karena penanda tumor dihasilkan oleh sel kanker atau sel tubuh yang bereaksi terhadap kanker, maka kadar penanda tumor ini akan meningkat bila timbul sel kanker dalam tubuh. Masalahnya adalah penanda tumor ini tidaklah spesifik untuk satu kanker saja, jadi satu penanda tumor dapat dilepaskan oleh berbagai jenis kanker yang berbeda. Belum lagi pada stadium awal kanker biasanya belum ada penanda tumor yang dilepas dan ditambah lagi berbagai kelainan yang bersifat jinak dapat juga meningkatkan kadar penanda tumor dalam darah.
+
+Kalau begitu perlukah melakukan pemeriksaan penanda tumor?
+
+Bila hanya berdasarkan tingginya kadar penanda tumor maka hasil ini tidak dapat dipakai sebagai dasar pendugaan adanya kanker. Penanda tumor menjadi bermakna bila digunakan sebagai pemeriksaan pelengkap, artinya bila dari riwayat penyakit, pemeriksaan fisik, dan pemeriksaan penunjang seperti foto rontgen, USG, CT scan dll menunjukkan adanya dugaan kanker maka bila ditambah dengan hasil penanda tumor yang tinggi, maka dugaan adanya kanker semakin positif.
+
+Saat ini penanda tumor lebih sering digunakan sebagai sarana untuk menilai kesuksesan terapi kanker dan untuk mendeteksi timbulnya kanker ulangan.
+
+Apa saja sih penanda tumor ini?
+
+	Cancer Antigen (CA-125) : penanda tumor ini dihasilkan oleh berbagai sel, tapi terutama oleh sel kanker indung telur. CA-125 digunakan untuk mengetahui keberhasilan terapi kanker indung telur terutama melalui kemoterapi. CA-125 kurang terbukti untuk digunakan sebagai deteksi kanker indung telur dini tapi dapat digunakan untuk memonitor apakah anda terkena kanker kembali.
+	Cancer Antigen (CA 15-3) atau CA 27-29 atau Truquant RIA : penanda tumor ini biasanya tinggi pada kanker payudara. Penanda ini digunakan untuk melihat keberhasilan terapi kanker payudara yang sudah metastase dan mendeteksi adanya kanker ulangan pada kanker payudara stadium 2 dan 3. Karena CA 15-3 dan CA 27-29 dapat dilepaskan oleh berbagai sel kanker lainnya, maka tidak dapat digunakan sebagai deteksi kanker payudara.
+	Calcitonin : ini merupakan satu-satunya penanda tumor yang dapat digunakan untuk melakukan deteksi kanker kelenjar gondok (tiorid) jenis medullary secara dini.
+	Chromogranin A (CgA) : ini merupakan penanda tumor yang dapat membantu diagnosa kanker neuroendokrin misalnya kanker paru dan neuroblastoma (kanker pada mata).
+	Prostate-Specific Antigen (PSA) : penanda tumor ini meninggi baik dalam kondisi tumor jinak maupun tumor ganas pada prostat. PSA berguna dalam menilai keberhasilan terapi bedah ataupun radiasi pada kanker prostat.
+	Human Chorionic Gonadotropin (HCG) : penanda tumor ini meninggi pada kanker testis, kanker indung telur dll. HCG dapat digunakan untuk menilai keberhasilan terapi pada kanker tersebut. Tapi HCG dapat digunakan sebagai deteksi kanker choriocarcinoma (kanker pada rahim) pada kehamilan anggur dan menilai keberhasilan terapinya.
+	Carcinoembryonic Antigen (CEA): penanda tumor ini meninggi pada kanker kolon (usus besar), pankreas, lambung dan rectum. CEA digunakan untuk menilai apakah terjadi penyebaran sel kanker (metastase) pada kanker kolon-rektum dan menilai keberhasilan terapi.
+	Alpha-fetaprotein (AFP) : penanda tumor ini meninggi pada kanker hati (hepatoseluler) dan kanker indung telur dan testis (jenis germ cell). AFP digunakan untuk mendiagnosa dan memonitor kanker hati (hepatoma).
+	Beta-2-microglobulin (B2M) : penanda tumor ini meninggi pada multiple myeloma, kanker darah (leukemia limfositik kronik) dan limfoma. B2M berguna untuk menentukan tingkat keparahan kanker, semakin tinggi maka semakin jelek peluang kedepannya. B2M juga digunakan untuk menilai keberhasilan terapi multiple myeloma.
+
+Jadi bagaimana memastikan saya terkena kanker?
+
+Cara terbaik adalah dengan melakukan biopsy jaringan. Biopsy ini dilakukan dengan operasi yaitu mengambil sedikit jaringan tumor lalu dilakukan pemeriksaan histopatologi dengan bantuan mikroskop untuk menentukan ini sel ganas atau bukan.
+
+Sumber :
+
+CIGNA. 2007. Tumor Marker For Diagnosis and Management of Cancer. Available at http://www.cigna.com/customer_care/healthcare_professional/coverage_positions/medical/mm_0172_coveragepositioncriteria_tumor_markers_for_diagnosis_and_management_of_cancer.pdf
+
+http://www.tc-cancer.com/tumormarkers.html
+
+http://www.cancer.org/docroot/ped/content/ped_2_3x_tumor_markers.asp

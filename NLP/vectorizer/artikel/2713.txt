@@ -1,0 +1,73 @@
+Pemanfaatan Radiologi Diagnostik
+Radiologi diagnostik adalah ilmu kedokteran yang memiliki spesialisasi dalam pencitraan tubuh manusia untuk mendiagnosa berbagai kelainan dengan menggunakan alat yang berhubungan dengan radiasi, magnetik, gelombang suara ultrasonik, nuklir, dan teknologi lainnya. Radiologi memegang peranan penting sebagai sarana penunjang diagnosis klinis. Sayangnya, pemanfaatan radiologi yang tepat belum diketahui secara luas oleh masyarakat, oleh karenanya, tulisan ini akan membahas 4 modalitas radiologis utama yang paling sering digunakan. 
+
+&nbsp;
+
+Radiologi Konvensional
+
+Merupakan suatu pemeriksaan sederhana menggunakan sinar Roentgen (sinar X) dengan berbagai posisi pemeriksaan. Dapat dilakukan dengan menggunakan kontras atau tanpa kontras.
+
+Keunggulan: Mudah, cepat, dan biaya relatif lebih murah.
+
+Penyulit: Terkadang gambaran yang dihasilkan tidak terlalu jelas, karena superposisi (tumpang-tindih) dengan organ lain. Untuk beberapa jenis pemeriksaan, harus dilakukan dengan mengubah posisi pasien, agar diperoleh gambaran yang jelas.
+
+Pemakaian klinis: Pemeriksaan tanpa kontras, dapat dilakukan pada jantung dan paru, serta tulang - tulang pada seluruh bagian tubuh. Pemeriksaan dengan kontras, lebih lanjut dapat digunakan untuk memeriksa saluran cerna, saluran kemih, organ kandungan, saluran kelenjar liur, pembuluh darah, saluran getah bening, dan sumsum tulang belakang.
+
+&nbsp;
+
+Ultrasonografi (USG)
+
+Merupakan salah satu alat pemeriksaan diagnostik yang menggunakan gelombang suara ultrasonik untuk menghasilkan gambaran mengenai bentuk, gerak, ukuran suatu organ tubuh.
+
+Keunggulan: Tidak menggunakan radiasi sinar X, sehingga aman bagi wanita hamil.
+
+Penyulit: Tidak dapat digunakan untuk melihat bagian tubuh seperti tulang atau ruangan berongga yang berisi gas, seperti usus.
+
+Pemakaian klinis: Digunakan untuk menemukan dan menentukan letak massa dalam rongga perut / panggul, membedakan kista dengan massa padat, mempelajari pergerakan organ maupun pergerakan dan pertumbuhan janin.
+
+&nbsp;
+
+Computerized Tomography (CT)
+
+Merupakan pemeriksaan sinar X yang lebih canggih dengan bantuan komputer, sehingga memperoleh gambaran yang lebih detail. Dapat dilakukan dengan kontras dan tanpa kontras.
+
+Keunggulan: Dapat memberikan gambaran penampang tubuh yang tidak mungkin dilihat dengan menggunakan alat Rontgen biasa. Dengan menggunakan sistem komputer, maka dapat juga dibuat gambaran secara 3 dimensi. Dapat menghitung perkiraan jumlah perdarahan pada kasus - kasus tertentu.
+
+Penyulit: Radiasi yang jauh lebih besar jika dibandingkan dengan radiologi konvensional, biaya yang harus dikeluarkan pun relatif lebih mahal, sulit diterapkan pada pasien yang memiliki fobia pada tempat sempit (Klaustrofobi).
+
+Pemakaian klinis: Dapat digunakan untuk melihat berbagai organ tubuh seperti tulang - tulang kepala, otak, jantung dan paru, perut, pada berbagai kasus seperti kecelakaan (trauma), tumor, infeksi, dan lain - lain.
+
+&nbsp;
+
+Magnetic Resonance Imaging (MRI)
+
+Merupakan suatu alat diagnostik mutakhir untuk memeriksa dan mendeteksi tubuh dengan menggunakan medan magnet yang besar dan gelombang frekuensi radio, tanpa sinar X ataupun zat radioaktif.
+
+Keunggulan: Memberikan gambaran yang dapat menunjukkan perbedaan sangat jelas dan lebih sensitif untuk menilai anatomi jaringan lunak, terutama otak, sumsum tulang belakang, dan susunan saraf dibandingkan dengan pemeriksaan sinar X biasa.
+
+Penyulit: Tidak dapat digunakan (kontraindikasi) pada pasien dengan alat pacu jantung, alat dengar implan, pasien dengan pen-logam, pasien fobia ruangan sempit (Klaustrofobia).
+
+Pemakaian klinis: Digunakan untuk menilai anatomi jaringan lunak, seperti otak, sumsum tulang belakang, susunan saraf. Selain itu, dapat juga untuk menilai jaringan lainnya seperti otot, ligamen, tendon, tulang rawan, ruang sendi.
+
+&nbsp;
+
+Daftar pustaka:
+
+	Sjahriar Rasad. Radiologi Diagnostik. Jakarta:2005.
+	Mulyono Notosiswoyo, Susy Suswati. Pemanfaatan Magnetic Resonance Imaging (MRI) sebagai sarana diagnosa pasien. Media litbang kesehatan;14:2004: 8 - 13
+	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1498553/
+	http://radiology.rsna.org/content/252/3/663.2.extract
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

@@ -1,0 +1,20 @@
+Mengontrol Diabetes dan Glaukoma dengan Lensa Kontak
+Pernahkah anda membayangkan hidup di jaman seperti di film The Terminator? Dimana teknologi sudah demikian maju, bahkan lensa kontak pun mampu memberikan data dan informasi langsung ke mata anda. Pada sebuah studi yang dipublikasikan di Journal of Micromechanics and Microengineering, University of Washington,  ilmuwan tengah mengujicobakan keamanan lensa kontak yang demikian pada mata kelinci percobaan. Ya, prototipe lensa kontak tersebut telah hadir di tengah-tengah kita. Walaupun saat ini resolusi nya hanya berupa satu piksel, namun lensa kontak yang menggunakan teknologi light emitting diode (LED) tersebut diramalkan dapat dikembangkan untuk dapat menampilkan informasi seperti email, teks, dan lainnya langsung ke mata pemakai. Bahkan lensa kontak ini diperkirakan juga dapat memperbaiki teknologi hands-free communication yang saat ini telah ada.
+
+Ilmuan di University of Washington bekerja sama dengan Aalto University mengembangkan lensa kontak bionik ini dengan sirkuit metal yang hanya setebal beberapa nanometer, atau kira-kira seperseribu tebal rambut manusia. Antena sirkuler pada pinggir lensa tersebut menarik frekuensi gelombang radio dari sumber eksternal untuk dipindahkan dan disimpan dalam bentuk informasi kedalam sirkuit. Informasi tersebut lalu ditampilkan ke chip transparan yang terbuat dari olahan batu mulia sapphire yang terdapat micro-LED setebal sepertiga milimeter.
+
+Penelitian ini bukanlah tanpa kendala. Jarak fokus minimal dari mata manusia, yang membutuhkan beberapa sentimeter, tidak dapat mencitrakan tampilan pada lensa kontak ini dengan sempurna. Di masa depan, untuk memfokuskan tampilan akan dicoba digunakan teknologi lensa Fresnel, lensa yang digunakan untuk memfokuskan sinar pada mercusuar. Lensa ini tebalnya kurang dari 1 mikron. Para peneliti juga sedang mencari cara untuk menurunkan kebutuhan tenaga untuk tampilan setiap piksel nya.
+
+Lensa kontak yang masih jauh dari sempurna ini terbuat dari Polyethylene terephthalate (PET), plastic keras yang mencegah aliran air mata untuk dapat membasahi mata, sehingga penggunaannya hanya terbatas untuk beberapa menit. Meskipun perangkat ini bisa dioperasikan dari sekitar tiga meter jauhnya saat berada di luar mata, tetapi jarak ini menyempit saat kontak di mata sebenarnya menjadi sekitar 1 inci.
+
+Peluang bisnis sangatlah bergejolak untuk teknologi ini, mulai dari GPS, video game, film 3 dimensi, sampai medis. Jika berhasil, lensa kontak ini kelak akan dikembangkan menjadi biosensor, sehingga dapat membantu dalam menampilkan informasi-informasi kesehatan penggunanya. Implementasi yang akan dicoba pertama kali adalah menampilkan kadar gula darah dari pengguna dan mendeteksi glaukoma.
+
+Perusahaan Sensimed tengah mengembangkan teknologi Triggerfish Lens, yang menginkorporasikan teknologi lensa kontak biosensor ini untuk mendeteksi kelengkungan kornea, sehingga dapat memperkirakan tekanan bola mata. Informasi tekanan bola mata adalah penting untuk mendiagnosis penyakit glaucoma. Setiap lensa kontak ini hanya dapat digunakan maksimal 24 jam per hari, dan proses ini diulangi satu sampai dua kali per tahunnya. Informasi ini lalu dapat digunakan untuk menganalisa waktu peningkatan tekanan bola mata pada pasien, sehingga dapat membantu pengaturan waktu pengobatan.
+
+Sensor gula darah yang tengah dikembangkan oleh Parviz menggunakan elektroda yang mengalirkan aliran listrik kecil ke air mata dan mengukur kadar gulanya. Antena tenaga tinggi tengah dikembangkan untuk dihubungkan ke alat eksternal. Percobaan awal membuktikan bahwa alat ini bisa mendeteksi kadar gula darah yang sangat rendah sekalipun.
+
+&nbsp;
+
+Sumber:
+
+eCouterre, Discovery News, Time Healthland, NewScientist, Knovel

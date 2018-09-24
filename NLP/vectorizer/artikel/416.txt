@@ -1,0 +1,6 @@
+Bluetooth 4.0 Akan Dukung Khusus Peralatan Medis
+Diperkirakan bahwa kini ada 40juta peralatan medis yang terhubung dengan teknologi Bluetooth. Bluetooth adalah teknologi nirkabel yang memungkina peralatan mobile kita terhubung satu sama lain. Bluetooth akan segera merilis standar baru yaitu versi 4.0, yang akan membuat peralatannya lebih sedikit menggunakan energi dan transmisi yang lebih cepat dan mumpuni. Dalam rilis pres, dikatakan pula perlatan medislah yang akan pertama kali menggunakan teknologi Bluetooth 4.0!
+
+Bluetooth akan memasukkan profil Health Thermometer dan Heart Rate sebagai profil kesehatan mobile yang menggunakan Bluetooth 4.0. Kesemuanya ini direncanakan dirilis pada akhir Juli ini.
+
+Disarikan dari Medgadget

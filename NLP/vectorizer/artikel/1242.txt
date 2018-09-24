@@ -1,0 +1,130 @@
+Cara Praktis Menghitung Kebutuhan Kalori Tubuh
+Tidak hanya untuk mereka yang ingin menurunkan berat badan, tetapi semua orang ternyata juga harus mengatur menu diet atau menu makanan sehari-harinya. Terlalu banyak makan dapat menyebabkan kelebihan berat badan, dan sebaliknya, terlalu sedikit makan dapat menyebabkan kekurangan gizi.
+
+Bagi yang sudah terlanjur memiliki berat badan berlebih, mereka harus menyusun menu dietnya agar tetap mencukupi kebutuhan metabolisme sehari-harinya, namun tidak menyebabkan penumpukan makanan berlebih dalam tubuh. Begitu juga sebaliknya bagi mereka yang kekurangan gizi.
+
+Oleh karena itu, pengaturan menu diet sebaiknya diterapkan pada semua orang, dengan memperhatikan proporsi karbohidrat, protein, lemak, vitamin, dan mineral, serta zat-zat lain dalam tubuh, sehingga seluruhnya berada dalam porsi yang seimbang.
+
+Lalu, bagaimana caranya mengatur sendiri menu diet Anda? Sebelumnya, mari menghitung kebutuhan kalori tubuh anda.
+
+Untuk menghitung kebutuhan kalori basal/KKB (kalori yang Anda butuhkan untuk kegiatan sehari-hari) dapat ditentukan dengan rumus sebagai berikut:
+
+LAKI-LAKI = 66,47 + (13.75 x BB) + (5 x TB) - (6.76 x U)
+WANITA = 655,2 + (9.56 x BB) + (1.7 x TB) - (4.77 x U)
+
+Keterangan:
+BB = Berat Badan ideal (kg)
+TB = Tinggi Badan (cm)
+U = Umur (tahun)
+
+Dengan perhitungan KKB seperti cara di atas, maka baik kelebihan maupun kekurangan berat badan dapat diatasi dengan mengkonsumsi makanan sesuai dengan kebutuhan kalorinya untuk berat badan yang ideal.
+
+Selain itu, di Indonesia juga sering digunakan perhitungan Kebutuhan Kalori Basal yang lebih simpel, yaitu:
+
+KKB = 40 x (TB - 100)
+Dengan faktor koreksi:
+Stress ringan (1) : 1.3 x KKB
+Stress sedang (2) : 1.5 x KKB
+Stress berat (3) : 2.0 x KKB
+
+Sementara itu, ada 2 cara sederhana menghitung berat badan ideal:
+
+Cara 1: BB ideal = (TB - 100) - (0.1 x (TB - 100))
+
+Cara 2: Menggunakan Body Mass Index(BMI)/Indeks Massa Tubuh (IMT)
+
+
+
+IMT ideal pada pria dan wanita:
+
+Wanita
+
+	13-17 : dibawah ideal (terlalu kurus/anoreksia)
+	19-24 : IDEAL
+	26-31 : Obesitas (kegemukan)
+
+Pria
+
+	14-18 : dibawah ideal
+	20-25 : IDEAL
+	28-33 : Obesitas
+
+MENYUSUN MENU DIET ANDA
+
+Setelah mengetahui kebutuhan kalori, Anda dapat memulai menyusun menu diet Anda sesuai proporsi zat-zat makanan yang seimbang, yaitu:
+
+	Karbohidrat 60-75%
+	Protein 10-15%
+	Lemak 10-25%
+
+Kalau Anda sudah menghitung jumlah kalori ideal untuk Anda, Anda dapat menghitung jumlah masing-masing kalori untuk karbohidrat, protein, dan lemak berdasarkan persentase di atas.
+
+Kemudian, jumlah kalori yang Anda dapatkan per jenis zat dapat dibagi lagi menjadi beberapa jenis makanan. Misalnya, untuk karbohidrat dapat diperoleh dengan mengkonsumsi nasi, kentang, makaroni, ataupun roti.
+
+Yang menyenangkan, setiap jenis makanan tersebut dapat diganti menjadi makanan lain dengan satuan penukar, sehingga Anda tidak bosan memakan jenis makanan yang itu-itu saja. Bahan makanan pada tiap golongan bernilai gizi hamper sama, oleh karena itu satu sama lain dapat salong menukar dan disebut satuan penukar.
+
+Berikut adalah contoh beberapa daftar satuan penukar yang digunakan.
+
+GOLONGAN I
+Sumber Karbohidrat
+1 satuan penukar = 175 kalori, 4 g protein, 40 g karbohidrat.
+
+Bahan Makanan Ukuran Rumah Tangga Berat (g)
+Nasi 1 gelas 200
+Roti putih 3 potong kecil 70
+Singkong 1 potong 120
+Kentang 2 buah sedang 210
+Makaroni ½ gelas 50
+
+GOLONGAN II
+Sumber Protein Hewani
+1. Rendah Lemak
+1 satuan penukar = 50 kalori, 7 g protein, 2 g lemak.
+
+Bahan Makanan Ukuran Rumah Tangga Berat (g)
+Ikan 1 potong sedang 40
+Ayam tanpa kulit 1 potong sedang 40
+Udang segar 5 ekor sedang 35
+
+2. Lemak Sedang
+1 satuan penukar = 75 kalori, 7 g protein, 5 g lemak.
+
+Bahan Makanan Ukuran Rumah Tangga Berat (g)
+Bakso 10 biji sedang 170
+Daging kambing 1 potong sedang 40
+Daging sapi 1 potong sedang 35
+Telur ayam 1 butir 55
+
+3. Tinggi Lemak
+1 satuan penukar = 150 kalori, 7 g protein, 3 g lemak.
+
+Bahan Makanan Ukuran Rumah Tangga Berat (g)
+Ayam dengan kulit 1 potong sedang 55
+Bebek 1 potong sedang 45
+Sosis ½ potong sedang 50
+Daging babi 1 potong sedang 50
+Kuning telur ayam 4 butir 45
+
+GOLONGAN III
+Sumber Protein Nabati
+1 satuan penukar = 75 kalori, 5 g protein, 3 g lemak, 7 g karbohidrat.
+
+Bahan Makanan Ukuran Rumah Tangga Berat (g)
+Kacang hijau 2 sendok makan 20
+Kacang kedelai 2 ½ sendok makan 25
+Tahu 1 biji besar 110
+Tempe 2 potong sedang 50
+Kacang tanah 2 sendok makan 15
+
+Daftar lainnya dapat dilihat pada buku-buku Ilmu Gizi atau pada Referensi.
+
+Dengan menhitung jumlah kebutuhan kalori basal, Anda kini dapat menyusun sendiri menu yang anda inginkan sesuai dengan proporsi zat-zat makanan bagi tubuh.
+
+REFERENSI:
+http://www.fitnessandfreebies.com/fitness/foodex.html
+http:// health/public/heart/obesity/lose_wt/fd_exch.htm
+http://www.info-sehat.com/
+http://www.kalbe.co.id/cdk
+http://www.nhlbi.nih.gov/
+http://rjthoughts.wordpress.com/
+Cerra FB. Pocket Mannual of Integral Nutrition. Princeton: MosbyCo. 1984

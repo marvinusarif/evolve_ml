@@ -1,0 +1,55 @@
+CT Scan : Perlu atau Tidak Sih?
+Bila ada korban kecelakaan atau suatu penyakit tertentu diduga timbul pada anda, maka tak jarang dokter menyarankan agar anda melakukan pemeriksaan CT Scan. CT Scan sendiri sudah dikenal sebagai salah satu pemeriksaan radiologi yang cukup akurat dalam menggambarkan kondisi tubuh manusia. Tapi sebenarnya perlu tidak sih pemeriksaan ini? Kapan kita perlu melakukannya? Aman tidak untuk tubuh?
+
+Sebelum membahas lebih lanjut, kita perlu mengetahui apa itu CT scan. CT scan merupakan singkatan dari computerized axial tomography scan yaitu salah satu tekhnik radiologi yang menggunakan sinar X sebagai sarana untuk menampilkan gambaran bagian dalam tubuh manusia. Gambaran yang dihasilkan berupa potongan tubuh beserta organ dalamnya secara dua dimensi,. Jadi seperti memotong roti, kita jadi dapat melihat bagian dalam roti dari potongan roti tersebut.
+
+Bagaimana CT scan bekerja ?
+
+Untuk menghasilkan gambar yang baik, CT scan memerlukan dua alat yaitu tabung sebagai alat pemancar sinar X dan detektor penangkap sinar X berupa cincin bulat 3600 yang mengelilingi objek yang direkam gambarnya. Saat hendak merekam objek yang dinilai, tabung akan bergerak berputar 3600 sambil melepas sinar X ke segala sudut. Kemudian detektor cincin akan menangkap transmisi radiasi yang dihasilkan setelah melewati tubuh. Transmisi radiasi dalam berbagai sudut itu kemudian direkonstruksi oleh komputer menjadi gambaran tubuh beserta organ dalamnya.
+
+
+
+Awalnya CT scan hanya mampu menghasilkan satu gambar tiap kali bekerja (single slice). Akan tetapi teknologi sekarang mampu membuat potongan tubuh hingga 360 (multiple slice) dengan rotasi putar berkali-kali sambil objek digerakkan maju. Jadi anda tidak usah kaget bila saat melakukan pemeriksaan CT scan, anda diminta untuk tidak bergerak, lalu tempat berbaring anda bergerak memasuki ruangan bulat seperti cincin untuk memulai proses perekaman.
+
+
+
+
+
+Proses perekaman sendiri biasanya hanya berlangsung 15-45 menit tergantung seberapa banyak potongan tubuh yang diambil. Anda mungkin diminta menahan nafas selama beberapa detik agar tidak muncul artefak dalam gambar. Jika anda tidak fobia ruangan sempit seharusnya proses perekaman gambar CT scan berlangsung aman dan nyaman bagi anda.
+
+Kapan kita melakukan pemeriksaan CT scan ini?
+
+CT scan hampir dapat digunakan untuk menilai semua organ dalam tubuh, bahkan di luar negeri sudah digunakan sebagai alat skrining menggantikan foto rontgen dan ultrasonografi. Yang penting pada pemeriksaan CT scan adalah pasien yang akan melakukan pemeriksaan bersikap kooperatif artinya tenang dan tidak bergerak saat proses perekaman. CT scan sebaiknya digunakan untuk :
+
+	Menilai kondisi pembuluh darah misalnya pada penyakit jantung koroner, emboli paru, aneurisma (pembesaran pembuluh darah) aorta dan berbagai kelainan pembuluh darah lainnya.
+	Menilai tumor atau kanker misalnya metastase (penyebaran kanker), letak kanker, dan jenis kanker.
+	Kasus trauma/cidera misalnya trauma kepala, trauma tulang belakang dan trauma lainnya pada kecelakaan. Biasanya harus dilakukan bila timbul penurunan kesadaran, muntah, pingsan ,atau timbulnya gejala gangguan saraf lainnya.
+	Menilai organ dalam, misalnya pada stroke, gangguan organ pencernaan dll.
+	Membantu proses biopsy jaringan atau proses drainase/pengeluaran cairan yang menumpuk di tubuh. Disini CT scan berperan sebagai “mata” dokter untuk melihat lokasi yang tepat untuk melakukan tindakan.
+	Alat bantu pemeriksaan bila hasil yang dicapai dengan pemeriksaan radiologi lainnya kurang memuaskan atau ada kondisi yang tidak memungkinkan anda melakukan pemeriksaan selain CT scan.
+
+Apa sih keuntungan dari CT scan ini?
+
+	Gambar yang dihasilkan memiliki resolusi yang baik dan akurat.
+	Tidak invasive (tindakan non-bedah).
+	Waktu perekaman cepat.
+	Gambar yang direkontruksi dapat dimanipulasi dengan komputer sehingga dapat dilihat dari berbagai sudut pandang.
+
+Apa kekurangan dari CT scan ini?
+
+	Paparan radiasi akibat sinar X yang digunakan yaitu sekitar 4% dari radiasi sinar X saat melakukan foto rontgen. Jadi ibu hamil wajib memberitahu kondisi kehamilannya sebelum pemeriksaan dilakukan.
+	Munculnya artefak (gambaran yang seharusnya tidak ada tapi terekam). Hal ini biasanya timbul karena pasien bergerak selama perekaman, pasien menggunakan tambalan gigi amalgam atau sendi palsu dari logam, atau kondisi jaringan tubuh tertentu.
+	Reaksi alergi pada zat kontras yang digunakan untuk membantu tampilan gambar.
+	Harganya masih tergolong mahal.
+
+Jadi pemeriksaan CT scan ini perlu atau tidak?
+
+Hal ini tergantung pada kondisi klinis dan keadaan pasien sendiri. Bila memang sesuai dengan indikasi maka CT scan harus dilakukan.
+
+Sumber :
+
+Ronald G. Grainger dkk. 2001. Grainger &amp; Allison's Diagnostic Radiology: A Textbook of Medical Imaging, 4th Ed. Churchill Livingstone
+
+
+
+http://www.emedicinehealth.com/ct_scan/article_em.htm

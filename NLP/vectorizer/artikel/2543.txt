@@ -1,0 +1,9 @@
+Seminar on International Standard of Medical Record (HL7), 8 Juli 2011
+Background
+
+Currently, the development of innovative use of eHealth and Information Communication Technology (ICT) in health increasingly encouraging. Ministry of Health also very actively encourage and develop the various initiatives, but there are still shortcomings that the absence of standards governing various aspects of regulating the implementation of eHealth. Ministry of Health has issued a regulation in the form ‘Keputusan Menteri Kesehatan’ about Data Standards and Health codefication No. 844 of 2006, but the code was just set. Data exchange standard until now has not existed. Health informatics standards vary and there are a variety of organizations (profit or non profit) who pioneered its development. One of them is HL7, a health data exchange standards, non-profit organization in charge of the development and promotion of the implementation of these standards. They are active in international meetings to discuss the latest development regarding the standards by involving its members. There are many countries who are already members proactively HL 7 which then formed the group in the country by involving academics, practitioners informatics, vendors, hospitals and government to adapt the standards of HL7 and subsequently prepare a document for recommendation to the government. Indonesia until now there has been a member of the organization regarding informatics standards everywhere, so that all matters related to the problem of standardization of data exchange is still partially implemented and not integrated.
+
+
+
+&nbsp;
+

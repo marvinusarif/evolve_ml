@@ -1,0 +1,40 @@
+TORCH : Screening Test untuk Kehamilan 
+“Mencegah lebih baik daripada mengobati”. Pepatah ini sering kita dengar dalam kehidupan sehari-hari. Begitu pula dengan tes TORCH. Tes ini dicanangkan untuk mendeteksi infeksi tertentu dalam tubuh anda sebelum anda memutuskan hamil, sehingga pada akhirnya dapat mencegah akibatnya pada janin anda.
+
+Apa itu tes TORCH ?
+
+TORCH merupakan akronim untuk Toxoplasma, Rubella, Cytomegalovirus, Herpes Simpleks Virus (HSV). Jadi tes TORCH adalah tes yang dilakukan untuk mengetahui apakah anda terpapar dengan salah satu patogen diatas.
+
+Bagaimana tes ini bekerja ?
+
+Tes ini bekerja dengan mendeteksi antibodi yang dihasilkan oleh tubuh anda untuk melawan patogen yang masuk dalam tubuh, dalam hal ini adalah toxoplasma, rubella, cytomegalovirus dan HSV. Antibodi yang dideteksi adalah immunoglobulin M (IgM) dan immunoglobulin G (IgG).
+
+Kenapa tes ini penting ?
+
+Keempat patogen diatas dikenal sebagai salah satu penyebab persalinan prematur, keguguran ataupun infeksi kongenital pada janin anda hingga kematian janin. Bila anda dapat mendeteksi infeksi ini sebelum hamil, maka diharapkan anda dapat mengobati penyakit yang diderita terlebih dahulu sebelum anda memutuskan untuk hamil, sehingga anda terhindar dari resiko diatas. (untuk mengetahui resiko infeksi keempat patogen diatas, anda dapat membacanya di artikel terkait)
+
+Kapan saya melakukan tes ini ?
+
+Sebaiknya anda melakukan tes ini sebelum anda memutuskan untuk hamil. Bila anda sudah hamil, anda masih dapat melakukan tes ini, dan sebaiknya dilakukan pada awal masa kehamilan, sehingga masih dapat dilakukan tindakan bila ternyata hasilnya positif.
+
+Apa yang harus saya lakukan ?
+
+Tentu anda mengharapkan hasil negative untuk setiap patogen yang dites sehingga anda dapat hamil tanpa resiko. Tapi bila hasilnya positif, tindakan yang dilakukan tergantung pada patogen mana yang hasilnya positif dan immunoglobulin mana yang positif.
+
+Pada toxoplasma, kadar IgM dan IgG meningkat pada waktu yang hampir bersamaan dan bertahan untuk waktu yang lama. Bila titer IgM dan IgG positif (tinggi), artinya anda sedang terinfeksi, dan sebaiknya anda menunda kehamilan dan melakukan pengobatan. Bila titer IgG tinggi (positif) tetapi IgM (-) maka anda sudah memiliki kekebalan dan dapat hamil walaupun resiko infeksi kecil. Anda dapat mengkomsumsi spyramycin untuk mengurangi resiko infeksi kongenital pada janin.
+
+Pada Rubella, jika IgM (+) dan IgG (-) yang berarti anda sedang terinfeksi, maka anda sebaiknya menunda kehamilan minimal 3 bulan hingga terbentuk kekebalan terhadap virus ini sehingga kehamilan lebih aman. Bila hasilnya IgG (+) dan IgM (-), maka anda pernah terinfeksi dan memiliki kekebalan terhadap rubella, sehingga anda dapat hamil. Bila IgM (+) dan IgG (+), maka anda sedang mengalami infeksi berulang yang tidak akan membahayakan janin sehingga tidak perlu tindakan apapun. Bila hasil IgM dan IgG negative, maka anda sebaiknya divaksinasi rubella untuk mencegah infeksi selama kehamilan dan menunda kehamilan setidaknya 3 bulan setelah vaksinansi.
+
+Pada cytomegalovirus, karena tidak adanya pengobatan spesifik dan vaksinasi yang dapat mencegah infeksi dan bila anda terinfeksi ulang, kekebalan yang terbentuk tidak akan mencegah infeksi kongenital pada janin anda, maka hanya hasil IgG (+) dengan IgM (-) atau keduanya negative �yang memungkinkan kehamilan anda aman. Bila hasil IgM (+) dan IgG (-) atau IgM dan IgG (+), maka diperlukan pengawasan ketat selama kehamilan terhadap perkembangan janin.
+
+Pada herpes simpleks virus, hasil imunologi menjadi lebih �berguna bila disertai dengan gejala klinis yang muncul saat ini atau sebelumnya. Baik infeksi pertama kali (IgM +, IgG -) atau infeksi berulang (IgM dan IgG +) tetap memberikan resiko infeksi kongenital pada janin walau kemungkinan lebih besar pada infeksi pertama kali. Karena itu sebaiknya anda mengobati terlebih dahulu sebelum hamil. Selain itu karena HSV termasuk infeksi menular seksual, maka pasangan anda juga harus diobati supaya tidak terjadi penularan “pingpong” selama kehamilan. Bila anda sudah hamil, maka pengobatan tetap dapat dilakukan baik untuk anda dan pasangan (acyclovir aman untuk kehamilan).
+
+Terlepas dari intrepetasi hasil tes TORCH, riwayat kesehatan sebelumnya dan kondisi fisik anda perlu menjadi pertimbangan sebelum memutuskan tindakan selanjutnya. Lebih baik anda berkonsultasi langsung dengan dokter spesialis kandungan anda sebelum dan sesudah tes dilakukan untuk penanganan yang tepat dan menyeluruh.
+
+Sumber :
+
+Ravel Richard.1995. Clinical Laboratory Medicine: Clinical Applications of Laboratory Data 6th edition.
+
+Cunningham F. Gary, dkk : Williams Obstetrics. 22nd.2002.McGraw-Hill
+
+Kasper L Dennis, dkk : Harrison’s 16th edition Principle of Internal Medicine. 2004.McGraw-Hill

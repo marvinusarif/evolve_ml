@@ -1,0 +1,15 @@
+Kinect Gesture Control untuk Pencitraan Medis
+Teknologi pencitraan atau imaging medis memang sedang dalam tahap perkembangan yang sangat luar biasa.
+
+Kali ini adalah ide untuk memanfaatkan kamera Microsoft Kinect 3D yang digunakan untuk menavigasi pencitraan radiologis seperti yang digunakan dengan perangkat lunak Osirix.
+
+Hal ini diharapkan dapat memudahkan ahli bedah untuk melakukan peninjauan terhadap pencitraan saat sedang melakukan bedah pada pasien, dimana dokter tak perlu menggunakan alat browser untuk menjaga sterilitas.
+
+Gestur tangan dari dokter dapat digunakan sebagai fungsi kontrol gerak, termasuk gestur dengan jari. Diharapkan teknologi ini dapat selesai pada tahun ini.
+
+&nbsp;
+
+&nbsp;
+
+
+Disarikan dari Medgadget

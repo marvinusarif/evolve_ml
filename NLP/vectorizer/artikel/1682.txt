@@ -1,0 +1,83 @@
+Identifikasi Forensik: Menyusun Puzzle dari Serangkaian Data
+Identifikasi forensik merupakan upaya yang dilakukan dengan tujuan membantu penyidik untuk menentukan identitas seseorang, yang mana hal ini lazimnya dilakukan oleh dokter spesialis forensik maupun dokter gigi yang mendalami bidang forensik. Identifikasi personal sering menjadi suatu masalah dalam kasus pidana maupun perdata. Oleh sebab itu, penentuan identitas personal seseorang dengan tepat menjadi suatu hal yang sangat penting dalam proses penyidikan, karena adanya kekeliruan sekecil apapun dapat berakibat fatal dalam proses peradilan.
+
+Tanggung jawab penentuan identitas seorang korban mati pada umumnya berada di tangan pihak kepolisian, hal ini mengingat kaitannya dengan hukum dan medikolegal serta kemampuan instansionalnya. Meskipun demikian, dalam pelaksanaannya pihak kepolisian akan meminta bantuan tenaga kesehatan. Di negara-negara dengan sistim hukum Anglo-Saxon, kewenangan ini dimiliki oleh seorang coroner, dibantu oleh medical examinernya.
+
+Penentuan identitas korban dengan baik dan kemudian mengembalikan jasad korban kepada keluarganya yang berhak adalah tindakan masyarakat yang beradab dan menghormati hak-hak individu sebagai bagian dari hak asasi manusia.
+
+Peran ilmu kedokteran forensik dalam identifikasi terutama terlihat jelas pada penanganan kasus-kasus di mana jenazah yang diterima tersebut tidak dikenal, jenazah yang sudah membusuk, rusak, hangus terbakar, kecelakaan/bencana alam massal, huru-hara yang mengakibatkan banyak korban mati, serta kasus-kasus di mana yang ditemukan hanyalah berupa potongan tubuh manusia/kasus mutilasi maupun berupa kerangka. Di samping itu, identifikasi forensik juga berperan dalam kasus-kasus, seperti penculikan anak, bayi yang tertukar, atau yang diragukan orang tuanya.
+
+&nbsp;
+
+KEGUNAAN IDENTIFIKASI FORENSIK
+
+	Kebutuhan etis dan kemanusiaan terhadap keluarganya
+	Pemastian kematian seseorang secara resmi dan yuridis
+	Pencatatan identitas untuk keperluan administratif (akte kematian) dan pemakaman
+	Untuk pengurusan klaim di bidang hukum publik dan perdata (harta warisan, menikah lagi, dll)
+	Untuk pembuktian klaim asuransi, pensiun, deposito, dll
+	Sebagai upaya awal dari suatu penyelidikan kriminal, bila ada
+
+&nbsp;
+
+METODE IDENTIFIKASI FORENSIK
+
+Identifikasi forensik pada dasarnya terdiri dari 2 (dua) metode utama, yaitu:
+
+	Identifikasi komparatif, yaitu apabila tersedia data post-mortem (pemeriksaan jenazah) dan ante-mortem (data sebelum meninggal, mengenai ciri-ciri fisik, pakaian, identitas khusus berupa tahi lalat, bekas luka/operasi, dll), dalam suatu komunitas yang terbatas.
+	Identifikasi rekonstruktif, yaitu apabila tidak tersedia data ante-mortem dan dalam komunitas yang tidak terbatas/plural.
+
+Identitas seseorang dapat dipastikan apabila paling sedikit 2 (dua) metode yang digunakan memberikan hasil yang positif (tidak meragukan), dari 9 (sembilan) metode yang akan dijelaskan satu per satu berikut ini.
+
+1.       Metode Identifikasi Visual
+
+Metode ini dilakukan dengan cara memperlihatkan jenazah pada orang-orang yang merasa kehilangan anggota keluarga atau temannya. Cara ini hanya efektif pada jenazah yang belum membusuk sehingga masih memungkinkan untuk dikenali wajahnya dan bentuk tubuhnya oleh lebih dari satu orang. Hal ini perlu diperhatikan mengingat adanya kemungkinan faktor emosi yang turut berperan untuk membenarkan atau sebaliknya menyangkal identitas jenazah tersebut.
+
+2.       Metode Identifikasi Dokumen
+
+Dokumen seperti kartu identitas/KITAS, baik berupa SIM, KTP, paspor, dsb. yang kebetulan dijumpai dalam saku pakaian yang dikenakan jenazah akan sangat membantu mengenali jenazah tersebut. Namun demikian, perlu diingat bahwa pada kasus-kasus kecelakaan massal - gempa Padang 2009 contohnya - dokumen yang terdapat dalam tas atau dompet yang berada di dekat jenazah belum tentu adalah milik jenazah yang bersangkutan. Oleh sebab itu, tim SAR ataupun tim pencari jenazah lainnya hendaknya berhati-hati dalam mengeluarkan pernyataan, karena di lapangan umumnya masyarakat langsung bertanya perihal identitas jenazah yang ditemukan. Dalam kasus-kasus bencana massal, kita hendaknya mengikuti prosedur DVI (Disaster Victim Identification) yang berlaku secara internasional, yang mana hal ini diterapkan pada kasus Bom Bali I dan II.
+
+3.       Metode Identifikasi Properti
+
+Properti berupa pakaian dan perhiasan yang dikenakan jenazah mungkin dapat diketahui merk atau nama pembuat, ukuran, inisial nama pemilik, badge, ataupun hal lainnya, yang dapat membantu identifikasi walaupun telah terjadi pembusukan pada jenazah tersebut. Khusus anggota TNI, masalah identifikasi dipermudah dengan adanya nama serta NRP yang tertera pada kalung logam yang dipakainya. Data mengenai properti ini juga hendaknya digali dari pihak keluarga yang merasa kehilangan anggota keluarganya yang lain pada kasus-kasus bencana massal, sehingga nantinya proses identifikasi komparatif dapat dilaksanakan.
+
+4.       Metode Identifikasi Medik
+
+Metode ini menggunakan parameter berupa tinggi badan, berat badan, warna rambut, warna mata, cacat/kelainan khusus, tato/rajah, dll. Secara singkat, bisa dikatakan bahwa ciri-ciri fisik korban yang diperhatikan. Metode ini mempunyai nilai yang tinggi, karena selain dilakukan oleh tenaga ahli dengan menggunakan berbagai cara atau modifikasi (termasuk pemeriksaan dengan sinar X, USG, CT-scan, laparoskopi, dll. bila diperlukan), sehingga ketepatannya cukup tinggi. Bahkan pada kasus penemuan tengkorak/kerangka pun masih dapat dilakukan metode identifikasi ini. Melalui metode ini, dapat diperoleh data tentang jenis kelamin, ras, perkiraan umur, tinggi badan, kelainan pada tulang, dan data-data lainnya dari korban yang ditemukan.
+
+5.       Metode Identifikasi Serologik
+
+Pemeriksaan serologik bertujuan untuk menentukan golongan darah jenazah. Penentuan golongan darah pada jenazah yang telah membusuk dapat dilakukan dengan memeriksa rambut, kuku, dan tulang.
+
+6.       Metode Identifikasi Gigi
+
+Pemeriksaan ini meliputi pencatatan data gigi (odontogram) dan rahang yang dapat dilakukan dengan menggunakan pemeriksaan secara manual, sinar X, dan pencetakan gigi serta rahang. Odontogram tersebut memuat data tentang jumlah, bentuk, susunan, tambalan, protesa (gigi palsu), dan lain sebagainya. Seperti halnya dengan sidik jari, maka setiap individu memiliki susunan gigi yang khas. Dengan demikian, dapat dilakukan identifikasi komparatif dengan cara membandingkan data temuan post-mortem dengan data ante-mortem korban. Akan tetapi, di Indonesia, hal ini belum sepenuhnya dapat diterapkan, karena data gigi ante-mortem hanya bisa diperoleh dari dokter gigi yang pernah menangani korban semasa hidup saja, belum ada sistim pencatatan wajib secara nasional bagi setiap warga negaranya pada periode tertentu.
+
+7.       Metode Identifikasi Sidik Jari
+
+Metode ini membandingkan gambaran sidik jari jenazah dengan data sidik jari ante-mortem orang tersebut. Pemeriksaan sidik jari merupakan salah satu dari 3 (tiga) metode primer identifikasi forensik, di samping metode identifikasi DNA dan gigi. Oleh sebab itu, penanganan terhadap jari-jari tangan jenazah harus dilakukan sebaik dan sehati-hati mungkin, misalnya dengan melakukan pembungkusan kedua tangan jenazah dengan kantong plastik. Sistim sidik jari yang sekarang dipakai dikenal dengan sistim Henry. Menurut Henry, pada tiap jari terdapat suatu gambar sentral yang terbagi menjadi 4 (empat) macam, yaitu busur (arc), tented arc, gelung (loop), ikal (whorl), serta bisa pula merupakan campuran/majemuk (composite). Selanjutnya, garis-garis tersebut dapat membentuk berbagai maxam konfigurasi (ciri), seperti delta, tripod, kait, anastomose, dll. Identifikasi sidik jari dinyatakan positif bila terdapat minimal 16 (enam belas) ciri yang sama, di mana secara matematis untuk memperoleh sidik jari yang persis sama (dengan 16 ciri yang sama tersebut) kemungkinannya adalah 1:64.000.000.000 (satu berbanding enam puluh empat milyar).
+
+8.       Metode Identifikasi DNA
+
+Metode ini merupakan salah satu dari 3 metode primer identifikasi forensik. Metode ini menjadi semakin luas dikenal dan semakin banyak digunakan akhir-akhir ini, khususnya pada beberapa kasus bencana alam dan kasus-kasus terorisme di Indonesia, misalnya kasus Bom Bali I dan II, Bom JW Marriott, Bom Kuningan, kasus tenggelamnya KMP Levina, dll. Kasus bom bunuh diri di GBIS Solo pun menggunakan metode ini. Pemeriksaan sidik DNA diperkenalkan pertama kali oleh Jeffreys pada tahun 1985. Metode ini umumnya membutuhkan sampel darah dari korban yang hendak diperiksa, namun demikian dalam keadaan tertentu di mana sampel darah tidak dapat diambil, maka dapat pula diambil dari tulang, kuku, dan rambut meskipun jumlah DNA-nya tidak sebanyak jumlah DNA dari sampel darah. DNA dapat ditemukan pada inti sel tubuh (DNA inti) ataupun pada mitokondria (organ dalam sel yang berperan untuk pernafasan sel-sel tubuh) yang biasa disebut DNA mitokondria. Untuk penentuan identitas seseorang berdasarkan DNA inti, dibutuhkan sampel dari keluarga terdekatnya. Misalnya, pada kasus Bom GBIS Solo baru-baru ini, sampel DNA yang didapat dari korban tersangka pelaku bom bunuh diri akan dicocokkan dengan sampel DNA yang didapat dari istri dan anaknya. DNA inti anak pasti berasal setengah dari ayah dan setengah dari ibunya. Namun demikian, pada kasus-kasus tertentu, bila tidak dijumpai anak-istri korban, maka dicari sampel dari orang tua korban. Bila tidak ada juga, dicari saudara kandung seibu, dan diperiksakan DNA mitokondrialnya karena DNA mitokondrial diturunkan secara maternalistik (garis ibu).
+
+9.       Metode Eksklusi
+
+Metode ini digunakan pada kasus kecelakaan massal yang melibatkan sejumlah orang yang dapat diketahui identitasnya, misalnya penumpang pesawat udara, kapal laut, kereta api, dll. Bila sebagian besar korban telah dapat dipastikan identitasnya dengan menggunakan metode-metode tersebut di atas, sedangkan identitas sisa korban tidak dapat ditentukan, maka sisa korban diidentifikasi menurut daftar penumpang.
+
+&nbsp;
+
+KESIMPULAN
+
+Identifikasi forensik merupakan proses yang sangat vital dalam setiap kasus forensik. Ada sekian banyak metode yang dapat digunakan untuk membantu proses identifikasi forensik tersebut, namun hanya 3 (tiga) metode saja yang merupakan metode identifikasi primer, yaitu gigi, DNA, dan sidik jari. Maksudnya, salah satu dari metode identifikasi gigi, DNA, atau sidik jari saja positif, maka identitas orang tersebut dapat dipastikan. Akan tetapi, alangkah lebih baiknya lagi bila ditunjang oleh hasil pemeriksaan metode lain, sehingga kepastian identitas menjadi lebih sahih. Keseluruhan proses tersebut juga untuk kebaikan semua pihak serta memenuhi rasa keadilan masyarakat.
+
+&nbsp;
+
+SUMBER:
+
+	Sampurna B, Samsu Z, Siswaja TD. Peranan ilmu forensik dalam penegakan hukum: Sebuah pengantar, cetakan pertama. Jakarta; Februari 2008.
+	Tjondroputranto H. Pokok-pokok ilmu kedokteran forensik, cetakan ketiga (diperbaiki). Jakarta: Medicina Forensis; 1988.
+	Budijanto A, Widiatmaka W, Sudiono S, Winardi T, Idries AM, Hertian S, et al. Ilmu kedokteran forensik, cetakan kedua. Jakarta: Bagian Kedokteran Forensik Fakultas Kedokteran Universitas Indonesia; 1997.
+	Idries AM. Pedoman praktis ilmu kedokteran forensik bagi praktisi hukum, cetakan pertama. Jakarta: Sagung Seto; 2009.
+
+&nbsp;

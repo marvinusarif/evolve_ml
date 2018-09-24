@@ -1,0 +1,12 @@
+Mikrochip Untuk Melihat Dunia
+Dalam sebuah percobaan kecil yang melibatkan 11 pasien, para peneliti di Jerman mampu mengembalikan kemampuan visual dalam tiga pasien buta dengan menanamkan chip bertenaga baterai di belakang retina. Ketiga pasien, yang masing-masing menderita kehilangan penglihatan sejak lahir, mampu membedakan bentuk dan mengenali obyek dalam beberapa hari setelah menjadi eksperimen mikrochip ini.
+
+Penelitian dilakukan di Institute for Ophthalmic Research di University of Tübingen dan diterbitkan dalam Proceedings of the Royal Society B. Chip eksperimental bertindak sebagai retina buatan, meniru aktivitas sel peka cahaya yang telah rusak pada orang buta karena degenerasi retina. Chip ini mengubah cahaya yang memasuki mata menjadi impuls listrik, yang kemudian dikirimkan ke saraf optik dan kemudian ke otak. Dengan cara ini, alat ini menggunakan hampir keseluruhan kerja mekanika alami dari bola mata, hanya menggantikan sel-sel dari mata yang berperan untuk menerima cahaya.
+
+Jika hasil dari studi ini dapat diujicoba ulang, suatu hari nanti alat ini dapat membantu meningkatkan kemampuan penglihata pada pasien dengan kondisi termasuk retinitis pigmentosa, choroideraemia dan degenerasi makula yang berkaitan dengan usia, yang menghancurkan sel sensitif cahaya, tetapi organ mata dan sistem pandangan masih utuh.
+
+Dr Eberhart Zrenner, direktur pendiri Retinal Implant AG, perusahaan yang membuat chip subretinal, dan direktur dan ketua Rumah Sakit Mata Universitas Tübingen, menulis dengan rekan-rekannya di koran:"Hasil dari penelitian percobaan ini memberikan bukti kuat bahwa fungsi penglihatan pada pasien yang buta karena distrofi retina turunan dapat dikembalikan ke tingkat yang cukup untuk digunakan dalam kehidupan sehari-hari. "
+
+&nbsp;
+
+Sumber: Time Healthland

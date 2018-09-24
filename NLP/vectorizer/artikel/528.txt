@@ -1,0 +1,8 @@
+High Tech 'Fertility Chip'
+
+
+Apakah Anda (kaum Adam) sudah mengetahui tingkat kesuburan Anda? Anda akan dikategorikan subur, jika ejakulat Anda mengandung 20 juta sampai dengan 150 juta sperma. Nah, bagaimana mungkin kita menghitung jumlah yang sedemikian banyak ini dengan akurat? Jawabannya adalah teknologi.
+
+Loes Segerink, peneliti asal Belanda, menemukan 'fertility chip' yang bias menghitung jumlah sperma Anda secara akurat! Tidak hanya jumlahnya, namun juga motilitas sperma itu sendiri. Hal yang lebih mengejutkan pengukuran itu dapat dilakukan Anda sendiri di rumah.
+
+Segerink menjelaskan bahwa prinsip kerja dari chip itu adalah resistansi elektrik. Di dalam chip itu terdapat saluran tempat sperma lewat dan elektroda. Setiap kali sebuah sel (sperma ) melewatinya, maka resistansi elektrik akan terjadi. Dengan mengukur jumlah resistansi elektrik yang terjadi maka jumlah sperma dapat terukur. Saat ini, Segerink sedang bekerja sama dengan BIOS Lab untuk mengembangkan chip tersebut. Nah kita tunggu saja kapan chip tersebut akan beredar di market. (PC)/news.cnet

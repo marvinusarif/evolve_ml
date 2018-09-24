@@ -1,0 +1,10 @@
+Hati-hati Kuman TBC Kebal Pirazinamid
+Usaha melawan kuman tuberkulosis alias TBC memang dikenal amat sulit dan perlu usaha yang tidak kecil. Salah satu masalah utama yang dihadapi adalah kuman yang resisten terhadap obat-obatan yang kini banyak dipakai, salah satunya pirazinamid atau PZA.
+
+Johns Hopkins Bloomberg School of Public Health dan Universitas Fudan menemukan mekanisme kekebalan kuman TBC terhadap pirazinamid ini. Kelompok Johns Hopkins sebelumnya telah menemukan mutasi gen pada pncA dan rpsA yang berkaitan dengan penyebab resistensi pirazinamid pada kuman. Mutasi ini menyebabkan gangguan pengodean enzim nikotinamidase atau pirazinamidase yang diperlukan untuk mengaktifkan pirazinamid menjadi asam pirazinoat. Asam pirazinoat akan berikatan dengan RpsA untuk menghambat proses translasi yang diperlukan kuman dalam keadaan tertekan.
+
+Studi terbaru memperkirakan adanya hubungan pula dengan gen panD yang mengode aspartat dekarboksilase yang terlibat dlam sintesis asam amino beta-alanin dan biosintensis ko-enzim A. Mutasi gen panD ini ditemukan pada kuman-kuman TBC lainnya.
+
+Menurut, penulis senior, Ying Zhang, penemuan proses ini meningkatkan wawasan para ahlu dalam memahami resistensi obat TBC sehingga dapat dicari obat lain yang dapat lebih mampu untuk melawan kuman, misalnya obat kelak yang dapat ditujukan ke gen panD tersebut.
+
+Disarikan dari Medindia

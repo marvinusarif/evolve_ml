@@ -1,0 +1,10 @@
+Uji Sederhana untuk Mendiagnosis Kanker !
+Sebuah kalkulator online sederhana dapat membantu dokter keluarga untuk mendeteksi kanker pankreas dan kanker usus.  Akademisi dari Universitas Nottingham dan ClinRisk Ltd telah menciptakan dua algoritma yang paling mungkin untuk mendeteksi kanker pankreas dan kanker usus dalam tubuh seseorang. Hal ini dapat membantu dokter untuk mendiagnosa penyakit ini lebih cepat dan berpotensi menyelamatkan ribuan nyawa setiap tahun.
+
+Alat ini diharapkan dapat membantu dokter untuk mengidentifikasi pasien yang berpotensi menderita kanker sehingga dapat membantu deteksi dini kanker.
+
+&nbsp;
+
+Sumber-ANI
+
+&nbsp;

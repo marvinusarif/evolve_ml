@@ -1,0 +1,362 @@
+Pintar Atur Kalori dan Kalkulator Kalori
+Hidup seimbang dan sehat bisa terwujud dari melakukan 3 langkah ini: hidup aktif, hidrasi cukup dan bijak mengatur kalori. Hasil dari melakukan 3 langkah ini adalah tubuh yang lebih sehat dan pengaturan berat badan.
+
+Memiliki berat badan ideal adalah impian seluruh wanita. Tidak sedikit orang yang rela merogoh dompet lebih dalam demi mendapatkan berat badan idaman. Padahal, prinsip memiliki berat badan idaman adalah keseimbangan antara kalori yang masuk dan yang keluar selain dari melakukan latihan fisik secara rutin dan memenuhi kebutuhan hidrasi tubuh.
+
+Apa sih kalori itu? Kalori adalah unit untuk mengukur tenaga yang dibutuhkan tubuh dalam melakukan aktivitas. Jika kalori yang kita makan lebih besar daripada yang kita gunakan untuk beraktivitas, kalori tersebut akan diubah menjadi lemak yang ditumpuk di dalam tubuh kita.
+
+Nah kali ini akan dijelaskan cara menghitung kebutuhan kalori harian anda dan menghitung kalori, sehingga anda bisa mengatur pola makan dan pola hidup sehat.
+
+A. Menghitung kebutuhan kalori 1
+
+Penentuan BB yang ideal menggunakan rumus Broca, yaitu
+
+BB ideal = (TB – 100) – 10% (TB-100)
+TB : Tinggi badan. NB untuk wanita &lt;150 cm dan pria &lt;160 cm, tidak dikurangi 10% lagi
+
+
+Total energi yang yang diperlukan tubuh untuk menjalani seluruh aktivitas sehari-hari termasuk pertumbuhan, perkembangan dan perlindungan tubuh, dinyatakan sbb :
+
+
+Pengeluaran energy total harian (Total daily Energy Expenditure TDEE) :
+
+BMR + TEA + TEF
+
+
+
+	Basal Metabolic Rate (BMR) : Energi yang dibutuhkan pada saat istirahat
+	Thermic Effect of Activity (TEA) : Energi yang dibutuhkan untuk beraktivitas
+	Thermic Effect of Feeding (TEF) : Energi yang dibutuhkan untuk pencernaan dan penyerapan makanan
+
+
+
+
+
+Basal Metabolic Rate (BMR)
+Pria : 6.5 + (13.7 x Bb ideal kg) + (5 x TB cm) – (6.8 x umur tahun)
+
+Wanita : 655 + (9.6 x BB ideal kg) + (1.8 x TB cm) – (4.7 x umur tahun)
+= ………kkal
+
+
+
+Thermic Effect of Activity (TEA)
+Aktivitas normal sehari-hari : BMR x 1.12
+
+Aktivitas ringan : BMR x 1.375
+
+Aktivitas cukup aktif : BMR 1.55
+
+Aktivitas aktif : BMR x 1.725
+
+Aktivitas ekstra aktif : BMR x 1.9
+=…………kkal
+
+
+
+Thermic Effect of Feeding (TEF)
+10 % x TEA
+= +………kkal
+
+
+
+&nbsp;
+
+Misalnya: anda wanita, 22 tahun, dengan BB 52 kg, TB 150 cm, bekerja sebagai sekretaris yang banyak bekerja di depan komputer, jadi perhitungan kebutuhan kalori anda adalah
+
+BB ideal = (150 – 100) – 10% (150 – 100) = 50 – 5 = 45 kg + 2 kg (Kita ambil 45 kg).
+
+
+
+
+BMR
+655 + (9.6 x 45) + (1.8 x 150) – (4.7 x 22)
+= 1253.6 kkal
+
+
+
+
+TEA
+Aktivitas sehari-hari : BMR x 1.12
+1253.6 x 1.12
+
+1404 kkal
+
+
+
+
+TEF
+
+1404 x 10%
+
++ 140.4 kkal
+
+
+
+
+ 
+
+Total
+
+1544.4 kkal
+
+
+
+
+Pusing melihat rumus di atas? Tidak perlu pusing! Cek laman ini Kalkulator Kebutuhan Kalori (http://beverageinstitute.org/indonesia/calories-needs-calculator/) untuk bisa menghitung perkiraan kebutuhan kalorimu tanpa harus memasukkan rumus-rumus yang rumit ini!
+B. Menghitung kalori makanan dan minuman2
+&nbsp;
+
+Langkah selanjutnya, kita harus menyiasati makanan kita agar tetap terkendali dengan menghitung kalori dari setiap makanan dan minuman yang kita konsumsi. Berikut daftar bahan makanan penukar yang sering kita konsumsi.
+
+
+
+
+Bahan makanan
+
+
+Berat (gr)
+
+
+Ukuran rumah tangga (URT)
+
+
+
+A. Sumber karbohidrat. Satu satuan penukar mengandung 175 kkal
+
+
+Nasi
+
+100
+
+¾ gelas belimbing
+
+
+Kentang
+
+200
+
+2 biji sedang
+
+
+Roti putih
+
+80
+
+4 iris
+
+
+B. Sumber protein hewani. Satu satuan penukar mengandung 95 kkal
+
+
+Daging sapi
+
+50
+
+1 ptg sedang
+
+
+Daging ayam
+
+100
+
+1 ptg sedang
+
+
+Daging babi
+
+25
+
+1 ptg kecil
+
+
+Ikan
+
+50
+
+1 ptg sedang
+
+
+C. Sumber Protein nabati. Satu satuan penukar mengandung 80 kkal
+
+
+Tahu
+
+100
+
+1 biji besar
+
+
+Tempe
+
+50
+
+2 ptg sedang
+
+
+D. SayuranUntuk 100 g sayuran yang tunggal (bayam saja, buncis saja) atau campuran (kurang lebih 1 gelas setelah dimasak dan ditiriskan), mengandung 50 kkal
+
+
+E. Buah-buahan. Satu satuan penukar mengandung 40 kkal
+
+
+Alpukat
+
+50
+
+½ buah besar
+
+
+Apel
+
+75
+
+½ buah sedang
+
+
+Jeruk manis
+
+100
+
+2 buah sedang
+
+
+F. Minyak. Satu satuan penukar mengandung 45 kkal
+
+
+Minyak goreng
+
+5
+
+½ sdm
+
+
+Margarin
+
+5
+
+½ sdm
+
+
+G. Gula. Satu satuan penukar mengandung 37 kkal
+
+
+Gula pasir
+
+10
+
+1 sdm
+
+
+Madu
+
+15
+
+1 ¼ sdm
+
+
+
+&nbsp;
+
+Nah, cara menghitung kalori dalam satu makanan, misalnya menu makan siang anda adalah nasi putih dengan 1 potong sedang ayam panggang, 1 potong kecil tempe goring, capcay dan minum jus jambu dengan gula, maka perhitungan kalori sebagai berikut:
+
+&nbsp;
+
+
+
+
+Menu
+
+
+Gram / URT
+
+
+Satuan penukar
+
+
+Kalori/porsi
+
+
+Kalori
+
+
+
+Nasi
+¾ gelas belimbing
+1 porsi
+175
+175
+
+
+Ayam panggang
+1 ptg sedang
+1 porsi
+95
+95
+
+
+Tempe
+1 ptg kecil
+¼ porsi
+80
+20
+
+
+Capcay (sayuran campur)
+¾ gelas belimbing/ 75 g
+¾ porsi
+50
+37
+
+
+Minyak(utk menggoreng dan menumis)
+1 sdm
+2 porsi
+45
+90
+
+
+Jambu air
+2 buah sedang
+1 porsi
+40
+40
+
+
+Gula
+1 sdm
+1 porsi
+37
+37
+
+
+ 
+Total
+ 
+ 
+494 kkal
+
+
+
+&nbsp;
+
+Nah cukup mudah bukan… Berikut beberapa tips untuk menghitung kalori makanan :
+
+	Hitunglah secara terinci untuk setiap bahan makanan yang dimakan. Untuk makanan yang digoreng atau menggunakan gula, jangan lupa menghitung kalori dari minyak atau gula.
+	Rajinlah mengecek kalori yang terkandung pada susu kemasan, minuman bersoda atau makanan ringan yang kita konsumsi (dapat dicek di label bagian belakang produk).
+	Jika anda sudah mengetahui kebutuhan kalori dalam sehari, maka anda dapat merancang diet anda dengan sehat (Misalnya kebutuhan kalori 1500 kkal. Untuk menurunkan BB, dapat diturunkan 10-20% menjadi 1200 kkal, sehingga dapat dibagi dalam menu sehari-hari : sarapan 300 kkal, makan siang 450 kkal, makan malam 250 kkal, snack 2x 100 kkal)
+
+Selamat berhitung!
+
+&nbsp;
+
+Referensi:
+
+	Gibson RS. Principles of Nutritional Assessment,  2nd edition. 2005. Australia: OUP Australia and New Zealand.
+	Direktur Jenderal Bina Kesehatan Masyarakat. Pedoman umum gizi seimbang, edisi kedua. 2002 Jan. Jakarta : Departemen Kesehatan Republik Indonesia.
+	Beverage Institute for Health &amp; Wellness Indonesia. Keseimbangan Energi. [homepage on the Internet]. 2012 [cited 2014 Mar 12]. Available from: The Coca-Cola Company, Web site: http://beverageinstitute.org/indonesia/landing_page/energy-balance/?exp=experts
+	The Beverage Institute for Health &amp; Wellness Indonesia [Internet]. Jakarta: The Beverage Institute for Health &amp; Wellness Indonesia; c2013. Tips untuk mengelola kalori dari minuman; 2013 [cited 2014 March 1]; [about 2 screens]. Available from: http://beverageinstitute.org/indonesia/article/tips-for-managing-beverage-calories/
+	Kalkulator Kebutuhan Kalori - The Coca-Cola Company Beverage Institute for Health and Wellness Indonesia. [homepage on the Internet]. 2013 [cited 2014 Apr 11]. Available from: The Coca-Cola Company Beverage Institute for Health and Wellness Indonesia, Web site: http://beverageinstitute.org/indonesia/calories-needs-calculator/
+	Adisaputri G. Bijak Mengatur Asupan Kalori Minuman - TanyaDok.com Konsultasi Tanya Dokter. [homepage on the Internet]. Maret 2014 [cited 2014 Apr 11]. Available from: TanyaDok, Web site: http://www.tanyadok.com/adv/bijak-mengatur-asupan-kalori-minuman
+	Edisworo MW. Hidrasi dan Kalkulator Hidrasi - TanyaDok.com Konsultasi Tanya Dokter. [homepage on the Internet]. Maret 2014 [cited 2014 Apr 11]. Available from: TanyaDok, Web site: http://www.tanyadok.com/adv/hidrasi-dan-kalkulator-hidrasi
+	Susanto A. Fakta Minuman dengan Gula Tambahan - TanyaDok.com Konsultasi Tanya Dokter. [homepage on the Internet]. Maret 2014 [cited 2014 Apr 11]. Available from: TanyaDok, Web site: http://www.tanyadok.com/adv/fakta-minuman-dengan-gula-tambahan

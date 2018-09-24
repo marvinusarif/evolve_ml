@@ -1,0 +1,140 @@
+Golongan Darah dan Kecocokannya untuk Donor Darah
+Tentunya anda pernah mendengar bahwa terdapat beberapa macam golongan darah bukan? Atau bahkan mungkin anda telah mengetahui golongan darah anda. Sebetulnya mengapa terdapat penggolongan darah? Apakah efeknya terutama untuk kecocokan donor darah?
+
+Untuk ratusan tahun, manusia telah melakukan berbagai macam eksperimen terkait dengan transfusi atau donor darah. Para ilmuwan bahkan telah mencoba memecah komponen darah tersebut untuk dicoba diberikan kepada orang yang memerlukan. Banyak orang yang tertolong dengan tindakan medis tersebut, namun juga banyak yang justru mengalami kematian. Sampai akhirnya pada tahun 1901, Karl Landsteiner dari Austria menemukan penggolongan darah, yang kemudian membuat teknik transfusi darah menjadi lebih aman.
+
+Setiap manusia memiliki 4-6 liter darah pada tubuhnya. Darah mempunyai peran yang sangat penting bagi tubuh, yaitu mengirimkan oksigen ke berbagai organ dan bagian tubuh lainnya, sehingga dapat berfungsi dengan optimal. Darah tersebut lebih kita kenal dengan darah merah. Namun selain darah merah, sebetulnya terdapat beberapa jenis darah lagi yang turut tercampur bersama dengan darah merah tersebut sehingga membentuk satu kesatuan komponen darah secara keseluruhan. Antara lain adalah sel darah putih yang membantu melawan infeksi, platelet atau trombosit yang membantu pembekuan darah pada saat terjadi luka, dan plasma yang mengandung natrium dan berbagai macam protein.
+
+Mengapa ada penggolongan darah? Pada sistem darah manusia terdapat molekul protein, yaitu antigen dan antibodi. Keberadaan jenis antigen dan antibodi inilah yang menggolongkan darah manusia. Jenis golongan darah yang anda miliki diturunkan dari campuran golongan darah kedua orang tua anda.
+
+Sebetulnya terdapat lebih dari 20 golongan darah yang telah diketahui. Namun sistem penggolongan ABO dan Rh (Rhesus) adalah yang paling penting, karena mempunyai kepentingan yang bermakna terhadap transfusi darah. Tidak semua golongan darah cocok dengan golongan darah yang lain. Mencampurkan golongan darah yang tidak cocok dapat menyebabkan darah tersebut justru menggumpal dan berubah sifat menjadi racun untuk tubuh. Apabila darah menggumpal, maka darah tidak akan dapat mengalir dengan lancar di tubuh, sehingga tentu saja juga memberikan dampak kesehatan yang sangat berbahaya. Karl Landsteiner menemukan penggolongan ABO pada tahun 1901, dan penggolongan Rh pada tahun 1937.
+Jenis golongan darah ABO yang dapat ditemukan antara lain:
+
+ 	Golongan darah A: mempunyai antigen A pada sel darah merah dan antibodi B pada plasma
+ 	Golongan darah B: mempunyai antigen B pada sel darah merah dan antibodi A pada plasma
+ 	Golongan darah AB: mempunyai kedua antigen A dan B pada sel darah merah, namun tidak memiliki antibodi pada plasma
+ 	Golongan darah O: tidak mempunyai antigen pada sel darah merah, namun memiliki antibodi A dan B pada plasma.
+
+Apabila ingin mendapatkan transfusi darah, maka darah yang didonorkan harus cocok dengan penerimanya. Orang dengan golongan darah AB dapat menerima darah dari semua jenis golongan darah. Itulah mengapa orang dengan golongan darah AB disebut sebagai resipien (penerima) universal. Sedangkan orang dengan golongan darah O hanya dapat menerima darah dari orang yang juga memiliki golongan darah O. Akan tetapi, orang dengan golongan darah O dapat mendonorkan darahnya untuk segala jenis golongan darah. Oleh karenanya, orang bergolongan darah O disebut sebagai donor universal. Orang dengan golongan darah A dapat memberikan darah ke golongan A dan AB, dan dapat menerima darah dari golongan A dan O. Sedangkan orang dengan golongan darah B, dapat memberikan darah ke golongan B dan AB, dan dapat menerima darah dari golongan B dan O.
+
+Sedangkan untuk penggolongan darah Rh, sistem ini hanya melihat keberadaan faktor Rh pada sel darah merah. Jika seseorang mempunyai antigen ini maka akan dikatakan Rh+, sedangkan jika tidak mempunyai akan dikatakan Rh-. Terkadang, penulisan golongan darah Rh hanya disingkat sebagai + (positif) atau - (negatif). Apabila seorang dengan Rh- mendapatkan donasi darah dari orang dengan Rh+, orang tersebut dapat mencetuskan produksi antibodi Rh, yang kemudian justru dapat merusak sel darah merah orang tersebut. Sedangkan orang dengan Rh+ dapat menerima donasi darah dari orang dengan Rh- tanpa masalah apa pun. Sebagai patokan, kebanyakan orang Asia adalah Rh+, sedangkan kebanyakan orang kaukasian (bule) adalah Rh-.
+
+Sebagai ringkasan, berikut tabel skema kecocokan golongan darah yang harus diperhatikan sebelum memberi atau menerima donor darah.
+
+
+
+Golongan Darah
+Bisa mendonorkan ke
+Bisa mendapat donor dari
+
+
+A+
+A+  AB+
+A+  A-  O+  O-
+
+
+O+
+O+  A+  B+  AB+
+O+  O-
+
+
+B+
+B+  AB+
+B+  B-  O+  O-
+
+
+AB+
+AB+
+Semua orang
+
+
+A-
+A+  A-  AB+  AB-
+A-  O-
+
+
+O-
+Semua orang
+O-
+
+
+B-
+B+  B-  AB+  AB-
+B-  O-
+
+
+AB-
+AB+  AB-
+AB-  A-  B-  O-
+
+
+
+&nbsp;
+
+Tahukah anda, tidak semua orang memiliki rasio golongan darah yang sama. Apakah anda termasuk orang yang memiliki tipe golongan darah yang langka? Cek tabel berikut:
+
+
+
+
+
+
+
+
+TIPE     
+
+
+DISTRIBUSI
+
+
+RASIO
+
+
+
+
+O
+
+
+1 diantara 3 orang
+
+
+40,77%
+
+
+
+
+A
+
+
+1 diantara 4 orang
+
+
+25,48%
+
+
+
+
+B
+
+
+1 diantara 4 orang
+
+
+26,68%
+
+
+
+
+AB
+
+
+1 diantara 15 orang
+
+
+6,66%
+
+
+
+
+
+
+

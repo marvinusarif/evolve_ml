@@ -1,0 +1,8 @@
+Intubasi Lebih Mudah dengan GuideIN Tube Robotik
+Proses intubasi, atau memasukkan selang nafas dari mulut atau hidung ke trakea di paru-paru untuk mempertahankan jalan nafas, sering kali menyulitkan. Proses ini, selain sulit karena dapat malah masuk ke kerongkongan, harus dilakukan dengan cepat untuk menyelamatkan nyawa pasien yang mengalami gagal nafas dan harus dipasang ventilator.
+
+Para peneliti dari Universitas Ibrani di Yerusalem tengah mengembangkan alat yang disebut GuideIN Tube. Alat intubasi robotik ini menghasilkan cahaya inframerah untuk mengenal jalan napas dan memandu pemasukan selang intubasi. Mereka menemukan bahwa ada pedoman cara atau algoritma yang dapat memandu pada kasus atau keadaan sulit. Alat akan memandu secara otomatis sehingga selang dapat masuk ke dalam paru-paru dengan intervensi yang kecil oleh operatornya.
+
+
+
+Disarikan dari Medgadget

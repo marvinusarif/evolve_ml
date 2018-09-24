@@ -1,0 +1,107 @@
+Mengenal Antiretroviral (ARV) sebagai Terapi AIDS
+
+Mengenal penyebab AIDS : Human Immunodeficiency Virus
+AIDS merupakan penyakit yang terkenal berbahaya dan belum ditemukan obatnya. AIDS disebabkan oleh HIV (human immunodeficiency virus), sejenis retrovirus yang terus memperbanyak diri dalam tubuh penderita sejak awal infeksi.
+Pada mulanya, respon imun penderita menahan jumlah virus hingga fase stabil. Namun pada rata-rata penderita, beberapa milyar partikel virus diproduksi setiap harinya hingga akhirnya jumlah limfosit CD4, sel darah putih yang melawan infeksi, terus menurun. CD4 merupakan pedoman yang sering dipakai untuk menentukan progresivitas penyakit dan juga pilihan terapi.
+Saat jumlah CD4 kurang dari 200 sel per mm3 maka akan terjadi peningkatan risiko infeksi oportunis.1 Infeksi oportunis inilah sebagai penyebab terbanyak kematian pada penderita AIDS. Pada orang dengan sistem imun normal, infeksi tersebut hanya menyebabkan penyakit ringan atau perkembangan penyakitnya lebih lambat.
+Terapi AIDS dengan obat golongan Antiretrovirus (ARV)
+
+Terapi yang kini diberikan pada penderita bertujuan menekan perbanyakan (replikasi) virus sebanyak dan selama mungkin. Dengan obat yang ada saat ini, pemusnahan total HIV tidaklah mungkin karena terdapat banyak sel inaktif dalam tubuh yang menjadi tempat bersemayam DNA virus.1
+Namun terapi AIDS berkembang dari sekedar hanya menunda kematian hingga adanya terapi jangka panjang terhadap HIV/AIDS yang memungkinkan penderitanya dapat bertahan hidup, melawan virus tersebut.
+Beberapa jenis obat ARV yang saat ini digunakan adalah:
+
+
+	
+Penghambat transkriptase pembalik nukleosida dan nukleotida (Nucleoside and Nucleotide Reverse Transcriptase Inhibitors). Transkriptase pembalik adalah sejenis enzim yang mengubah RNA virus menjadi DNA provirus yang dapat masuk ke kromosom sel tubuh penderita.1
+
+
+Menghambat enzim tersebut berarti mencegah masuknya partikel virus ke dalam sel.                        Dengan begitu, obat ini tidak bisa berpengaruh apapun terhadap sel yang sudah terinfeksi.
+Sayangnya, terapi ARV ini menimbulkan beberapa efek samping yang berat.2  karena penggunaan obat ini dalam jangka lama juga mengganngu enzim dalam sel tubuh penderita sehingga mengganggu proses normal dalam sel tersebut.
+Contoh efek sampingnya adalah:
+
+
+	
+Anemia
+
+	
+Pankreatitis
+
+	
+Gangguan saraf tepi
+
+	
+Gangguan otot seperti lemah atau nyeri,
+
+	
+Disfungsi metabolik seperti obesitas abdomen
+
+	
+Hipertrigliseridemia
+
+	
+Tekanan darah tinggi
+
+	
+Gula darah tinggi.2
+
+	
+Gangguan hati adalah akibat paling fatal, namun jarang terjadi.1
+
+
+
+
+	
+Penghambat transkriptase pembalik non-nukleosida (Nonnucleoside Reverse Transcriptase Inhibitors) . Jika obat sebelumnya menghambat enzim transkriptase dengan cara ‘menyamar’ menjadi nukleosida virus, obat ini mengubah sebuah unit dalam enzim transkriptase dan menjadikan enzim tersebut kurang aktif.
+
+
+Efek samping utama obat ini adalah:
+
+
+	Kemerahan pada kulit
+	Paling berat adalah sindrom Stevens-Johnson.
+	Selain itu juga sering terjadi kelainan fungsi hati
+	Reaksi pada saluran cerna (diare, mual muntah),
+	Gangguan saraf tepi.
+	Dilaporkan juga munculnya plak putih pada bibir dan rasa terbakar ada mulut.2
+
+
+	
+Penghambat HIV protease (HIV Protease Inhibitors)
+
+
+Protease merupakan enzim penting yang memecah protein dalam virus menjadi strukur-struktur penting. Menghambat protease berarti mencegah perubahan partikel virus menjadi bentuk matangnya yang infeksius. Untungnya, protease dalam sel tubuh manusia memiliki struktur yang berbeda dengan protease HIV sehingga tidak terpengaruh oleh obat ini.
+Penderita yang mengonsumsi obat jenis ini seringkali mengalami mual muntah, tidak nafsu makan, dan diare. Efek samping yang lebih berat adalah gangguan metabolik seperti peningkatan gula darah dan kolesterol.
+
+
+	
+Penghambat proses masuk (Entry Inhibitors)
+
+
+Ketika masuk ke dalam sel tubuh manusia, membran virus dan membran sel menyatu sehingga isi virus dapat berpindah ke dalam sel. ARV jenis ini menghambat proses penyatuan membran tersebut. Karena cara kerjanya yang unik, obat ini cenderung tetap berfungsi ketika obat ARV lainnya sudah resisten terhadap HIV.
+Efek samping utamanya adalah reaksi pada tempat penyuntikan obat: nyeri, kemerahan, timbulnya nodul dan kista. Sebagian kecil pasien menjadi tidak tahan dan memilih menghentikan terapi dengan obat ini. Selain itu, dilaporkan juga peningkatan risiko pneumonia dan gangguan kelenjar getah bening. Namun hubungan dan mekanismenya masih diteliti.1
+Terapi ARV kombinasi efektif untuk menurunkan perkembangan Virus HIV
+ARV yang diberikan dalam kombinasi terbukti menurunkan replikasi HIV tipe 1 dan meningkatkan kemungkinan hidup penderita. Jumlah virus yang ditemukan dalam sekret genital menurun, sehingga diduga terapi ARV dapat menurunkan angka perpindahan virus secara seksual.
+
+
+	
+Sebagai catatan, terdapat 2 family besar virus imunodefisiensi manusia: tipe 1 dan tipe 2. HIV-1 merupakan yang paling epidemic.1
+
+	
+Terapi ARV kombinasi sendiri diperkirakan menurunkan angka kematian rata-rata pada orang yang terinfeksi HIV hingga separuhnya.
+
+	
+Selain itu, ditemukan bahwa terapi kombinasi juga dapat menurunkan efek samping dan toksisitas obat ARV tersebut.2
+
+
+Penggunanan obat ARV sebagai profilaksis merupakan strategi yang menjanjikan untuk mencegah penularan HIV-1 pada orang yang belum terinfeksi, diberikan pada mereka yang mengalami kontak dengan virus karena risiko pekerjaan ataupun non-pekerjaan. Sebuah penelitian menunjukkan bahwa terapi ARV yang diberikan pada pria dan wanita heteroseksual dengan partner yang diketahui menderita HIV-1 menurunkan risiko sebesar 67-75%.
+Demikian smengenai Obat Anti HIV / Anti retroviral yang digunakan dalam penlatalaksannaan pasien HIV-AIDS. Dengan adanya obat ARV para pengidap HIV positif bisa menghambat perjalanan penyakitnya agar tidak timbul kondisi AIDS.
+Ini merupakan secercah harapan bagi para penderita HIV positif untuk bisa terus hidup selayaknya orang normal dan tetap berkarya dalam hidupnya. Akkhir kata, tetaplah kita pembali pada  prinsip daripada mengobati selamanya akan lebih baik lagi bila kita bisa mencegahnya bersama-sama!  Selamat Hari AIDS Sedunia!
+Referensi :
+
+
+	Antiretroviral Agents and Treatment of HIV Infection. In: Brunton L, Parker K, editors. Goodman and Gilman’s Manual of Pharmacology and Therapeutics. 11th ed. McGraw-Hill; 2008.
+	Chen WT, Shiu CS, Yang JP, Simoni JM, Fredriksen-Goldsen KI, et al. (2013) Antiretroviral Therapy (ART) Side Effect Impacted on Quality of Life, and Depressive Symptomatology: A Mixed-Method Study. J AIDS Clin Res 4: 218. doi: 10.4172/2155-6113.1000218.
+	Cohen MS, Chen YQ, McCauley M, Gamble T, Hosseinipour MC, Kumarasarny N, et al. Prevention of HIV-1 Infection with Early Antiretroviral Therapy. N Engl J Med [Internet]. 2011 [cited on Oct 2013]; 365(6): 493-505.
+	Ray M, Logan R, Sterne JAC, Hernandez-Diaz S, Robins JM, Sabin C, et al. The effect of combined antiretroviral therapy on the overall mortality of HIV-infected individuals. AIDS [Internet]. 2010 [cited on Oct 2013]; 24(1): 123–137. doi:10.1097/QAD.0b013e3283324283.
+	Baeten JM, Donnell D, Ndase P, Mugo NR, Campbell JD, Wangisi J, et al. Antiretroviral Prophylaxis for HIV Prevention in Heterosexual Men and Women. N Engl J Med [Internet]. 2012 [cited on Oct 2013];367:399-410. DOI: 10.1056/NEJMoa1108524.
+

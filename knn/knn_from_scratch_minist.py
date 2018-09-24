@@ -1,0 +1,100 @@
+import csv
+import random
+import math
+import operator
+from week3.minist_dataset import generate_training_test, split_into_x_and_y_minist, subsample
+
+
+def loadDataset(filename, split):
+    trainingSet = []
+    testSet = []
+    with open(filename, 'rb') as csvfile:
+        lines = csv.reader(csvfile)
+        dataset = list(lines)
+        for i in range(len(dataset) - 1):
+            for y in range(4):
+                dataset[i][y] = float(dataset[i][y])
+            if random.random() < split:
+                trainingSet.append(dataset[i])
+            else:
+                testSet.append(dataset[i])
+
+    return trainingSet, testSet
+
+
+def split_into_x_and_y(data):
+    x=map(lambda item:item[:4], data)
+    y=map(lambda item: item[4], data)
+    return x, y
+
+def euclideanDistance(instance1, instance2):
+    distance = 0
+    for i in range(len(instance1)):
+        distance += pow((instance1[i] - instance2[i]), 2)
+    return math.sqrt(distance)
+
+def getAccuracy(y_set, predictions):
+    correct = 0
+    for i in range(len(y_set)):
+        print('predicted = '+str(predictions[i])+'   actual = '+str(y_set[i]))
+        if y_set[i] == predictions[i]:
+            correct += 1
+    return (correct / float(len(y_set))) * 100.0
+
+
+def getNeighbors(x_train, y_train, x_test_Instance, k):
+    distances = []
+    for i in range(len(x_train)):
+        dist = euclideanDistance(x_test_Instance, x_train[i])
+        distances.append((y_train[i], dist))
+    distances.sort(key=operator.itemgetter(1))
+    neighbors = []
+    for i in range(k):
+        neighbors.append(distances[i][0])
+    return neighbors
+
+
+def getResponse(neighbors):
+    classVotes = {}
+    for response in neighbors:
+        if response in classVotes:
+            classVotes[response] += 1
+        else:
+            classVotes[response] = 1
+    sortedVotes = sorted(classVotes.items(), key=operator.itemgetter(1), reverse=True)
+    return sortedVotes[0][0]
+
+
+def predict(x_test, x_train, y_train, k):
+    predictions = []
+    for i in range(len(x_test)):
+        neighbors = getNeighbors(x_train, y_train, x_test[i], k)
+        result = getResponse(neighbors)
+        predictions.append(result)
+
+    return predictions
+
+
+def main_minist():
+    # prepare data
+    split = 0.9999
+    trainingSet, testSet=generate_training_test(split)
+    #subsampledtestset=subsample(testSet, 0.001)
+
+    x_train, y_train=split_into_x_and_y_minist(trainingSet)
+    x_test, y_test=split_into_x_and_y_minist(testSet)
+
+
+    print('Train set: ' + str(len(trainingSet)))
+    print('Test set: ' + str(len(testSet)))
+    # generate predictions
+    k=3
+    predictions = predict(x_train, x_train, y_train, k)
+    accuracy_train = getAccuracy(y_train, predictions)
+    print('Accuracy train: ' + str(accuracy_train) + '%')
+    print('============================')
+    predictions = predict(x_test, x_train, y_train, k)
+    accuracy_test = getAccuracy(y_test, predictions)
+    print('Accuracy test: ' + str(accuracy_test) + '%')
+
+main_minist()

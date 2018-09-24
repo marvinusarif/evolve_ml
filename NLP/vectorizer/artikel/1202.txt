@@ -1,0 +1,27 @@
+Gas CO : Sulit Dikenali Tapi Mematikan
+Kasus keracunan CO sebenarnya sudah berulang kali masuk pemberitaan di media massa lokal ibukota. Sebut saja kasus sepasang muda-mudi yang ditemukan tewas dalam mobil di pinggir pantai Ancol yang sempat menghiasi halaman depan salah satu media massa lokal beberapa waktu lalu. Kedua sejoli tersebut ditemukan dalam kondisi mesin mobil menyala dan posisi tubuh selayaknya orang tertidur biasa. Sebab kematian resmi yang dikeluarkan oleh Bagian Forensik RSCM menyatakan bahwa kedua korban mengalami keracunan gas karbon monoksida (CO) dengan kadar CO ± 900 ppm. Selain itu, pihak penyidik juga menemukan kebocoran pada sistem pembuangan asap knalpot mobil korban.
+
+Racun didefinisikan sebagai zat yang bekerja pada tubuh secara kimiawi dan fisiologik yang dalam dosis toksik akan menyebabkan gangguan kesehatan atau mengakibatkan kematian. Salah satu racun yang banyak dijumpai dalam kehidupan sehari-hari adalah yang berbentuk gas yang berasal dari sisa pembakaran, di antaranya adalah gas karbon monoksida (CO), nitrogen oksida, sulfur dioksida, dll.
+
+Karbon monoksida (CO) merupakan racun yang tertua dalam sejarah manusia. Sumber terpenting gas CO adalah asap kendaraan bermotor, alat pemanas berbahan bakar gas, lemari es gas, kompor gas, dan cerobong asap. Di Amerika Serikat, CO merupakan gas urutan pertama yang paling banyak menyebabkan kematian. Sayers melaporkan bahwa dari 400.000 orang pekerja yang diteliti, 26.000 di antaranya diduga terpapar gas CO dalam dosis yang berbahaya. Di Indonesia, kebijakan pemerintah yang tidak tegas dalam hal pembatasan jumlah kendaraan sebagaimana dilakukan oleh negara lain menyebabkan tingginya resiko masyarakat terhadap paparan CO yang berlebihan. Di negara tetangga, Singapura misalnya, kendaraan yang laik jalan hanyalah kendaraan yang berumur maksimal 5 tahun sejak tanggal dibelinya, sedangkan di Indonesia tidak demikian halnya. Masih banyak kita temui bus-bus kota yang sudah beroperasi dari tahun 1980-an sampai sekarang. Hal ini merupakan momok bagi masyarakat masa kini yang menghabiskan sebagian besar waktunya di jalanan.
+
+Gas CO adalah gas yang tidak berwarna, tidak berbau, tidak berasa, tidak merangsang selaput lendir, dan sedikit lebih ringan dari udara sehingga mudah menyebar. CO berikatan dengan Hb darah 210-300 kali lebih kuat daripada O2 terhadap Hb, sedangkan untuk proses pembakaran dalam tubuh dan pernafasan, oksigen perlu berikatan dengan Hb darah. Oleh sebab itu, bila kadar ikatan CO-Hb melampaui batas tertentu, orang dapat meninggal akibat kurangnya pasokan oksigen dalam darah. Namun demikian, CO bukan merupakan racun yang kumulatif. Ikatan CO-Hb tidak permanen (reversible) dan setelah CO dilepaskan oleh Hb, sel darah merah tidak mengalami kerusakan. TLV (Threshold Limit Value, Nilai Ambang Batas) gas CO, yaitu konsentrasi CO dalam udara lingkungan yang dianggap aman pada inhalasi selama 8 jam setiap hari dan 5 hari setiap minggu untuk jumlah tahun yang tidak terbatas adalah sebesar 50 ppm (0,005%).
+
+Faktor resiko terjadinya keracunan CO:
+
+	Konsentrasi dan jumlah gas CO di udara. Semakin tinggi konsentrasi dan jumlah gas CO yang terdapat di udara, semakin besar kemungkinan terjadinya keracunan gas CO.
+	Karakteristik personal
+
+	Jenis kelamin, Pria lebih mudah mengalami keracunan gas CO
+	Umur, Bayi dan anak-anak lebih rentan terhadap terjadinya keracunan gas CO
+	Kondisi umum, Adanya penyakit paru dan jantung mengakibatkan resiko terhadap terjadinya keracunan gas CO menjadi lebih tinggi
+	Berat badan, Semakin ringan berat badan, volume darah akan berkurang, sehingga dengan konsentrasi dan jumlah yang kecil, gas CO dapat menyebabkan keracunan
+	Ras kulit hitam beresiko keracunan 20% lebih tinggi dibandingkan ras lainnya
+
+
+	Kombinasi paparan dengan zat kimia lain. Bila terpapar dengan zat kimia lain bersama-sama dengan gas CO, maka gejala keracunan yang terjadi akan lebih berat dibandingkan bila terpapar dengan gas CO saja
+	Lamanya paparan yang terjadi. Semakin lama terpapar dengan gas CO, maka gejala keracunan akan semakin berat.
+
+Gejala keracunan CO biasanya diawali dengan rasa pusing atau sakit kepala ringan, mudah tersinggung, dan mual-muntah. Semakin banyak gas CO yang terhirup, gejala akan semakin berat, hingga dengan pingsan, sesak nafas, bahkan sampai dengan kematian. Diagnosis keracunan CO pada korban hidup biasanya berdasarkan anamnesis adanya kontak dan ditemukannya gejala keracunan CO. Pada korban yang mati tidak lama setelah keracunan CO, ditemukan lebam mayat berwarna merah terang (cherry red colour), yang tampak jelas bila kadar CO-Hb mencapai 30% atau lebih. Warna lebam mayat seperti itu juga dapat ditemukan pada mayat yang didinginkan ataupun pada korban keracunan sianida (HCN).
+
+Penanganan korban keracunan gas CO pada prinsipnya adalah memberikan oksigen murni sebanyak mungkin untuk menetralisir ikatan CO-Hb yang ada dalam peredaran darah. Selain itu, kondisi umum korban juga perlu diperhatikan. Segera larikan ke rumah sakit bila perlu, sehingga keadaan korban tidak semakin memburuk, termasuk mencegah kematian akibat keracunan gas CO.

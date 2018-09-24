@@ -1,0 +1,16 @@
+Permainan Seperti Tetris Membantu Dokter Mengobati Sepsis
+Para peneliti di Stanford University telah merancang permainan interaktif online untuk membantu dokter mencegah dan mengobati sepsis, infeksi yang mengancam jiwa yang mengambil lebih dari 200.000 jiwa setiap tahunnya.
+
+Aktivitas online tersebut disebut Septris, dan terinspirasi oleh permainan populer Tetris. Permainan ini berjalan terbaik pada iPad, iPhone atau Android. Pada PC desktop membutuhkan Firefox 5 +, Google Chrome, atau Apple Safari. Internet Explorer tidak didukung, menurut desainer permainan.
+
+Kegiatan ini memberikan pendekatan praktis untuk identifikasi awal sepsis dan penerapan manajemen berbasis bukti dan Pedoman Sepsis Stanford. Skenario kasus interaktif digunakan untuk menempatkan prinsip-prinsip ini dalam praktek. Permainan ini adalah alat pendidikan dan informasi klinis yang ditemukan dalam permainan ini adalah bagian bahan pendidikan.
+
+Permainan ini dirancang untuk perawatan medis dan bedah, intensif dan dokter gawat darurat dan perawat berbasis rumah sakit. Dokter dan peserta didik yang memenuhi spesifikasi tertentu dapat memperoleh kredit pendidikan berkelanjutan medis di Amerika dengan memainkan permainan ini.
+
+Sean-Xavier Neath, MD, seorang dokter ruang gawat darurat di University of California di San Diego Medical Center, mencoba permainan ini dan menikmatinya. Unsur-unsur sepsis sangat baik mencakup dalam permainan, termasuk tes dan terapi obat. Sebagai seorang dokter ruang gawat darurat, Neath mengatakan itu adalah umum untuk mengobati 25 pasien sekaligus. Dalam permainan, pemain harus bergerak relatif cepat bolak-balik antara pasien. "Ini adalah alat yang berguna untuk belajar sepsis secara otodidak" katanya.
+
+Neath mengatakan bagaimana bergunanya permainan ini, dan berharap bahwa hal itu akan membantu dokter untuk cepat mengingat kembali dasar-dasar mengobati sepsis. Permainan ini menggarisbawahi seberapa cepat seorang dokter harus bertindak untuk mengobati sepsis secara efektif, katanya.
+
+&nbsp;
+
+Sumber: HealthcareIT News

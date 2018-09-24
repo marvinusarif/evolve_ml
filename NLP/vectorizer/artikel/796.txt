@@ -1,0 +1,16 @@
+Prototipe Pankreas Buatan Berhasil
+Kita semua sudah tahu bahwa kunci utama dari memperlambat komplikasi diabetes mellitus (terutama tipe I yang disebabkan gangguan pankreas) adalah mengontrol kadar glukosa darah. Yang kini terjadi adalah memeriksa kadar glukosa dengan sedikit darah ujung jari dengan jarum saat makan dan sebelum tidur, kemudian baru memasukkan jumlah insulin yang sesuai. Tentu hal ini sangat merepotkan diabetisi (penderita diabetes).
+
+
+
+Kini tengah dikembangkan sebuah pompa insulin yang dimasukkan dalam kulit yang berbentuk seperti pager. Alat ini akan diprogramkan untuk memasukkan dosis insulin secara otomatis. Alat ini juga akan memeriksa gula darah secara otomatis dan kontinu.
+
+Kini tengah dikembangkan dalam proyek The Hypoglycemia-Hyperglycemia Minimizer (HHM) System dari Animas Corporation yang membuat sistem mirip pankreas, dengan pompa insulin, penghitung glukosa kontinu, dan perangkat lunak pengontrol.
+
+Mereka sudah mencobakan alat ini pada 13 pasien selama 20 jam. Alat ini dilaporkan dapat memeriksa insulin dengan tepat, dan pada pasien tidak ada komplikasi glukosa darah yang terlalu tinggi atau rendah.
+
+Menurut dokter dari Animas, dr. Henry Anhalt, keberhasilan ini merupakan sebuah langkah kemajuan lagi dalam pengembangan sistem pankreas buatan.
+
+Sumber: Medgadget
+
+&nbsp;

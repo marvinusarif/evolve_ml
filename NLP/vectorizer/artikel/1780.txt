@@ -1,0 +1,48 @@
+Asma
+Asma merupakan salah satu penyakit kronis yang paling sering ditemukan di seluruh dunia dan angka kejadiannya mempunyai kecenderungan meningkat, terutama pada anak-anak.
+
+
+
+GEJALA
+
+Asma menyebabkan episode mengi (wheezing) suara seperti siulan yang terdengar saat penderita membuang napas), sesak napas, rasa seperti tertekan pada dada, dan batuk. Gejala-gejala tersebut terjadi atau memburuk terutama pada malam hari atau waktu subuh hingga pagi hari, hingga dapat membuat pasien terbangun. Gejala-gejala ini terjadi atau memburuk dengan adanya kontak pasien dengan alergen (zat-zat yang dapat menimbulkan alergi) seperti rambut hewan, asap, debu, polen, dan bahan kimia aerosol. Eksim pada pasien dan riwayat asma atau penyakit atopi pada keluarga sering dikaitkan dengan asma.
+
+PATOFISIOLOGI
+
+Serangan asma sendiri bersifat episodik (sewaktu-waktu). Namun inflamasi (peradangan) saluran napas yang mendasarinya merupakan keadaan kronis. Asma dapat dipicu oleh berbagai stimulus: alergen, infeksi virus, obat-obatan (misal: Î²-blocker, ACE inhibitor), stres, perubahan suhu, dan aktivitas fisik. Stimulus-stimulus tersebut menimbulkan peradangan pada mukosa saluran napas, dari trakea hingga ke bronkiolus terminal, terutama di bronkus.
+
+Peradangan atau inflamasi ini menyebabkan jalur napas penderita menjadi hiperresponsif, yang berarti saluran napas menjadi lebih mudah berkonstriksi dan menghasilkan mukus lebih banyak (hipersekresi mukus). Inflamasi yang kronis ini dapat berlangsung selama bertahun-tahun walaupun belum jelas mekanisme persistensinya ”sehingga terjadi kerusakan epitel saluran napas”yang semakin memperparah keadaan hiperresponsif serta  penebalan dinding dan otot polos saluran napas. Kondisi tersebut mengarah ke airway remodeling, yakni perubahan struktur saluran napas hingga menyempit permanen.
+
+DIAGNOSIS
+
+Dokter dapat mendiagnosis asma dengan menilai riwayat pasien, pola gejala, serta pemeriksaan fungsi paru (menggunakan alat spirometri dan peak flow meter). Pemeriksaan status alergi dapat mengidentifikasi faktor risiko pasien. Faktor risiko terjadinya perburukan asma di masa mendatang mencakup bila pasien mempunyai keadaan klinis yang buruk, sering mengalami eksaserbasi, pernah dirawat di unit perawatan intensif karena asma, mempunyai hasil pemeriksaan fungi paru yang kurang baik (FEV1 rendah), sering terpapar asap rokok, atau menggunakan obat-obatan dosis tinggi.
+
+Tingkat keparahan asma diklasifikasikan menjadi : intermiten dan persisten. Asma persisten dibagi menjadi asma ringan, sedang, dan berat. Hal ini berdasarkan seberapa seringnya serangan, serangan malam hingga pasien terbangun, penggunaan Î²2-agonis untuk meredakan serangan,  serta terganggunya aktivitas dan penilaian fungsi paru. Klasifikasi ini digunakan dokter untuk menentukan terapi yang diberikan kepada pasien serta memperkirakan risiko perburukan penyakit.
+
+TERAPI
+
+Obat asma dibagi menjadi dua: pengontrol (controller) untuk mencegah gejala dan serangan asma serta pelega (reliever) yang bekerja dengan cepat untuk mengatasi serangan dan meredakan gejala. Terapi inhalasi merupakan pilihan karena konsentrasi tinggi yang dapat langsung menuju ke jalur napas dan efek samping sistemik yang rendah.
+
+Sesuai GINA (Global Initiative for Asthma), penanganan asma yang tepat mencakup 6 bagian:
+
+	Edukasi: pasien harus mengetahui dan menghindari faktor risiko yang dapat memicu serangan asma. Pada pasien dengan asma persisten yang membutuhkan obat pengontrol (controller) harian, dokter perlu yakin ia menonsumsi/menggunakannya (bila inhaler) dengan benar. Pasien juga perlu mengetahui tanda-tanda perburukan asma dan tindakan yang harus dilakukan. Tanda-tanda tersebut adalah: batuk yang semakin parah, rasa tertekan di dada, kesulitan bernapas, mengi, sulit tidur. Pada keadaan-keadaan tersebut, pasien dapat menggunakan obat pelega (reliever) dan glukokortikoid.
+	Menilai dan memantau tingkat keparahan asma: kunjungan teratur (tiap 1-6 bulan) ke dokter penting dilakukan, walaupun pengendalian asma sudah tercapai. Pada tiap kunjungan ini, dokter kembali menilai tingkat keparahan asma, menanyakan seberapa sering Anda membutuhkan obat pelega, atau apakah Anda pernah berhenti mengonsumsi obat karena merasa lebih baik. Selain itu, dokter juga mungkin meminta Anda menunjukkan bagaimana Anda menggunakan inhaler. Anda juga dapat mengonsultasikan keluhan yang dirasakan.
+	Menghindari faktro risiko: pada pasien yang alergi terhadap debu, dianjurkan mencuci seprai, sarung bantal guling dan selimut seminggu sekali dengan air hangat dan dikeringkan dengan sinar matahari langsung atau pengering panas. Ganti karpet dengan linoleum atau lantai kayu terutama di ruang tidur. Gunakan furnitur berbahan vinil, kulit, atau kayu, bukannya furnitur yang dilapisi busa. Jika memungkinkan, gunakan vacuum cleaner dengan penyaring. Sedangkan pada pasien yang mempunyai faktor risiko berupa aktivitas fisik, tidak dianjurkan untuk tidak melakukan aktivitas fisik. Gejala asma dapat dicagah dengan inhaler agonis-Î²2 kerja cepat seperti salbutamol sebelum melakukan aktivitas berat. Sedangkan untuk alergen yang lain, hindari pajanan sebisa mungkin. Imunoterapi spesifik dapat dipertimbangkan bila tidak mungkin menghindari pajanan atau pengobatan yang tepat gagal mengontrol gejala asma.
+	Buat rencana medis untuk terapi jangka panjang: pada pasien dengan asma persisten, terapi jangka panjang untuk menekan peradangan lebih efektif untuk mengontrol asma dibandingkan dengan terapi akut untuk meredakan gejala. Glukokortikoid yang diinhalasi saat ini merupakan obat paling efektif untuk pengobatan pencegahan jangka panjang ini dan dalam mengurangi serangan asma. Biasanya, perbaikan gejala akan terjadi setelah 2 bulan terapi (dengan catatan pasien menggunakan inhaler dengan benar, tidak terpajan faktor risiko, serta tidak ada penyakit penyerta yang memperberat keadaan). Jika gejala telah terkontrol selama setidaknya 3 bulan, tingkat keparahan asma dapat dipertimbangkan untuk diturunkan dan modifikasi obat dapat dilakukan. Tujuan akhirnya adalah menurunkan terapi hingga dosis yang paling kecil yang diperlukan untuk menjaga pengendalian gejala dan serangan.
+	Buat rencana individual untuk menangani serangan asma: bila terjadi serangan yang tiba-tiba, sesak napas saat beristirahat (laju napas &gt;30x/menit), hanya dapat berbicara beberapa kata, gelisah, kebingungan, detak jantung menurun, mengi sangat keras atau justru menghilang, nadi &gt;120x/menit atau &gt;160x menit pada bayi, dan mulai kelelahan, pasien harus mencari pertolongan medis. Obat dapat diberikan sebagai pertolongan pertama. Selain itu juga bila terjadi serangan namun tidak membaik dengan pemberian obat hingga lebih dari 3 jam atau membaik namun terjadi lagi dalam waktu kurang dari 3 jam.
+	Tindak lanjut perawatan: setelah asma terkontrol, kunjungan lanjutan reguler tetaplah penting setidaknya 6 bulan sekali. Bila pasien pindah keluar kota, ia perlu meminta surat keterangan dari dokter sebelumnya mengenai keadaanya untuk memudahkan dokter di tempat yang baru memahami kondisinya dan melanjutkan perawatan.
+
+Tujuan akhir terapi asma adalah:
+
+	Tidak ada gejala atau minimal, termasuk gejala malam hari
+	Serangan asma minimal
+	Tidak ada lagi kunjungan emergensi ke tenaga medis
+	Dosis minimal obat pelega
+	Tidak ada batasan aktivitas fisik serta olahraga
+	Fungsi paru mendekati normal
+	Tidak ada efek samping obat atau minimal
+
+
+PENCEGAHAN
+
+Asma dapat dicegah. Untuk bayi dengan riwayat keluarga asma atau atopi, penghindaran pajanan seperti asap rokok, debu, bulu hewan, dipercaya dapat mencegah perkembangan awal asma. Sedangkan pada orang dewasa, penghindaran terhadap stimulan asma terutama di tempat kerja sangatlah membantu.

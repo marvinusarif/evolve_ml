@@ -1,0 +1,10 @@
+ControlStation, Telemedicine dengan iPad
+Perusahaan InTouch Health telah meluncurkan aplikasi ControlStation untuk iPad. Apliksi ini adalah lamanmuka untuk dokter dalam memberi pelayanan waktu-nyata atau real-time dan konsultasi telemedicine (praktik kedokteran jarak jauh).
+
+
+
+Aplikasi ini mengintegrasi video streaming dengan dilengkapi data klinis pasien dan alat pencitraan radiologi melalui login pengguna tunggal. Aplikasi ini dapat terkoneksi dengan aplikasi InTouch lainnya seperti RP-VITA.
+
+Aplikasi ini akan dilengkapi dengan gestur tekan Point-to-Se dan Box-Zoom, dan telah dinyatakan aman untuk keselamatan pasien oleh FDA. Aplikasi ini tersedia untuk iPad2, iPad3, iPad mini, dan iPad dengan Retina display.
+
+Disarikan dari Medgadget.

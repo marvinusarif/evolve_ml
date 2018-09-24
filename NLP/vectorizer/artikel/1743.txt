@@ -1,0 +1,64 @@
+Introduction: Management Clinical Care for Patient with Sepsis
+
+
+Reality check: How many people have been affected by Sepsis? Is the actual conditions that bad?
+
+Sepsis occurs 3 : 1000 persons affecting nearly 900.000 persons every year in the USA and nearly 20.000.000 Worlwide. Sepsis is one of the leading cause of death in ICU non cardiac's patients.  Recent data shows numbers of people that suffered from it which is  sadly increasing along with the aging population, the increasing of immunosupresant drug (such as Steroid etc.), emerge in HIV and the most important thing is the increasing of MICROBIAL resistance (abuse in antibiotics usage). All of this factors will automatically increasing the incidence of Sepsis globally.
+
+What is Sepsis?
+
+Sepsis is a systemic inflammatory syndrome (defined  by change in two or more abnormal clinical findings: such as Temperature, Heart Rate, Respiratory Rate and White blood cell count) and also infection disease. Sepsis is not easy to diagnosed, particularly in earlier stage when the symptoms may subtle.  Here are the complete Definition and Term of sepsis and others critical illness:
+
+
+
+[caption id="attachment_12334" align="aligncenter" width="298"] Table 1. taken from : http://jrd.consultantlive.com/display/article/1145425/1372119[/caption]
+What are the biomarkers for sepsis? Any specific lab founding?
+Various biomarkers have been evaluated and studied nowadays for the accuracy diagnose of Sepsis. Until now, there are four biomarkers for sepsis: Procalcitonin, c-reactive Protein ( CRP ), B-Type Natriuretic Peptide and Protein C. Some studies proofed that Procalcitonin and CRP is the most widely use for diagnosing sepsis patients.
+Mechanism of disease: How is the actual process of this disease? What happened to our body? 
+
+To simplified what really happened to our body when weâ€™re diagnosed with Sepsis is that it is an exaggerated inflammation, complex reaction between: microbe (infectious agent) , host immune respond (our immune system), the inflammatory process itself and the coagulation pathway.
+
+This abnormality process makes various effects on the body system, especially Coagulation system. This will produced many problematic in blood clotting times, internal bleeding and global microvascular thrombosis. Worst case scenario, it could lead into Multi organ Dysfunction or multi organ failure.
+
+The Protein C pathway usually inhibits thrombosis and inflammation, it serves the coagulation system, promoting fibrinolysis. When sepsis happened, it will changed and disturbing this protein pathway so that produced many problem and symptom in our body.
+
+
+Multi Organ Dysfunction : all the main organs in our body is damaged
+
+Its caused by relative host immunosupression: the damaged in our system immune in the body. In this process the body produce Cytokines and it is produced bu endotoxin and immunosuprresion. And this complex pathway in the end will lead to tissue injury, after that Organ injuries and in the end, multi organ dysfunction.
+
+Management Therapy: what are the best steps to handle sepsis? How?
+
+Initial resuscitation
+
+By means, it is make an optimum  volume fluid management in oneâ€™s body. The goal is to stabilized fluid level in the patientâ€™s body with infused fluid therapy.  We need to set the Early Goal therapy for the patient with evaluating important components, like :
+
+	Cardiovascular function monitoring ( CVP : 8-12 mmHg, Mean Arterial Pressure -MAP: &gt; 65 mmHg  )
+	Stabilized Kidney system, by measuring the Urinary Output : &gt; 0,5 ml
+	Maintain Oxygen consumption ( SvO2 &gt; 70-65 % )
+	Monitoring the blood coagulation, Hematocrit : 30%
+
+Initial resuscitation achieved with a targeted fluid resuscitation and measures of O2 delivery throughout our body. The critical hours is 6 Hours before early diagnosed and before ICU admission. The best therapy is by the patients must receive more fluids, PRBCs ( blood transfusion ) and inotropic support.
+
+
+Antibiotic Therapy 
+
+The most important aspect that we have to focused is that the failure to initiate adequate anti-microbial therapy correlates with the increasing morbidity and mortality in patients with sepsis who is admitted to the ICU.
+
+The combination therapy of antibiotics  should NOT used more than 3-5 days.  Ordinary antimicrobial therapy (single antibiotics) usually used with the range 7-10 days.
+
+Newest updated of managing Sepsis
+
+The Society of critical care Medicine have founded some new step to manage Sepsis.
+
+Recombinant Human Activated Protein C ( rhAPC )
+
+Many Patients that received rhAPC therapy, have been studied and the result was positive: decreasing mortality rate and decreasing the sepsis-induced organ failure.
+
+Corticosteroids
+
+!! High dose of corticosteroids therapy is ineffective in patients with severe Sepsis/ septic shock.
+
+Past couples of years have brought many important changes and improvements towards the diagnosis and management of Sepsis. Initial treatments such as fluid resuscitation / management, antibiotics and source control is similar with what have found many years ago, but now its realize that time saving is the important key element to critical management of Sepsis.
+
+New paths and steps to stabilized failing organs systems, introduction of therapy agent to reduce mortality rate have given physicians new hope and optimism in treating Sepsis in a better and righteous steps with accurate evidence based medicine and of course, to reach the goal: improvements in clinical care for the Patient.

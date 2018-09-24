@@ -1,0 +1,92 @@
+Informed Consent: Cermin Otonomi Pasien
+Salah satu hak pasien yang disahkan dalam Declaration of Lisbon dari World Medical Association (WMA) adalah: â€œthe rights to accept or to refuse treatment after receiving adequate informationâ€. Secara implisit, amandemen UUD 1945 pasal 28G ayat (1) juga menyebutnya demikian, â€œSetiap orang berhak atas perlindungan diri pribadi,...dstâ€. Selanjutnya, UU No. 36 tahun 2009 tentang Kesehatan pasal 56 juga memberikan hak kepada pasien untuk memberikan persetujuan atas tindakan medis yang akan dilakukan terhadapnya. Hak ini kemudian diuraikan di dalam Permenkes tentang Persetujuan Tindakan Medis (PTM).
+
+Prinsip otonomi pasien ini dianggap sebagai dasar dari doktrin informed consent. Tindakan medis terhadap pasien harus mendapat persetujuan (otorisasi) dari pasien tersebut, setelah ia menerima dan memahami informasi yang diperlukan. Suatu tindakan medis terhadap seorang pasien tanpa memperoleh persetujuan terlebih dahulu dari pasien tersebut dapat dianggap sebagai penyerangan atas hak orang lain atau perbuatan melanggar hukum (tort).
+
+Definisi Informed Consent
+
+Informed consent adalah suatu proses yang menunjukkan komunikasi yang efektif antara dokter dengan pasien, dan bertemunya pemikiran tentang apa yang akan dan apa yang tidak akan dilakukan terhadap pasien. Informed consent dapat dianggap sebagai â€œa patient with substantial understanding and in substantial absence of control by others, intentionally authorizes a professional to do somethingâ€. Informed consent dilihat dari aspek hukum bukanlah sebagai perjanjian antara dua pihak, melainkan lebih ke arah persetujuan sepihak atas layanan yang ditawarkan pihak lain.
+
+Elemen Informed Consent
+
+ Informed consent memiliki 3 elemen, yaitu:
+
+1. Threshold elements
+
+Elemen ini sebenarnya tidak tepat dianggap sebagai elemen, oleh karena sifatnya lebih ke arah syarat, yaitu pemberi consent haruslah seseorang yang kompeten. Kompeten di sini diartikan sebagai kapasitas untuk membuat keputusan (medis). Kompetensi manusia untuk membuat keputusan sebenarnya merupakan suatu kontinuum, dari sama sekali tidak memiliki kompetensi hingga memiliki kompetensi yang penuh. Di antaranya terdapat berbagai tingkat kompetensi membuat keputusan tertentu (keputusan yang reasonable berdasarkan alasan yang reasonable).
+
+Secara hukum, seseorang dianggap cakap (kompeten) adalah apabila telah dewasa, sadar, dan berada dalam keadaan mental yang tidak di bawah pengampuan. Dewasa diartikan sebagai usia telah mencapai 21 tahun atau telah pernah menikah. Sedangkan, keadaan mental yang dianggap tidak kompeten adalah apabila ia mempunyai penyakit mental sedemikian rupa atau perkembangan mentalnya terbelakang sedemikian rupa, sehingga kemampuan membuat keputusannya terganggu.
+
+2.     Information elements
+
+Elemen ini terdiri dari 2 bagian, yaitu disclosure (pengungkapan) dan understanding (pemahaman). Pengertian â€œ...berdasarkan pemahaman yang adekuatâ€ membawa konsekuensi kepada tenaga medis untuk memberikan informasi (disclosure) sedemikian rupa agar pasien dapat mencapai pemahaman yang adekuat.
+
+Dalam hal ini, seberapa â€œbaikâ€ informasi harus diberikan kepada pasien, dapat dilihat dari 3 standar, yaitu:
+
+	Standar Praktik Profesi: Bahwa kewajiban memberikan informasi dan kriteria ke-adekuat-an (kecukupan-red) informasi ditentukan oleh bagaimana biasanya dilakukan dalam komunitas tenaga medis (costumary practices of a professional community, Faden and Beauchamp, 1986). Standar ini terlalu mengacu kepada nilai-nilai yang ada di dalam komunitas kedokteran, tanpa memperhatikan keingintahuan dan kemampuan pemahaman individu yang diharapkan menerima informasi tersebut. Dalam standar ini ada kemungkinan bahwa kebiasaan tersebut di atas tidak sesuai dengan nilai-nilai sosial setempat, misalnya risiko yang â€˜tidak bermaknaâ€™ (menurut medis) tidak diinformasikan, padahal mungkin bermakna dari sisi sosial/pasien.
+
+
+	Standar Subyektif: Bahwa keputusan harus didasarkan atas nilai-nilai yang dianut oleh pasien secara pribadi, sehingga informasi yang diberikan harus memadai untuk pasien tersebut dalam membuat keputusan. Sebaliknya dari standar sebelumnya, standar ini sangat sulit dilaksanakan atau hampir mustahil. Adalah mustahil bagi tenaga medis untuk memahami nilai-nilai yang secara individual dianut oleh pasien.
+
+
+	Standar pada Reasonable Person: Standar ini merupakan hasil kompromi dari kedua standar sebelumnya, yaitu dianggap cukup apabila informasi yang diberikan telah memenuhi kebutuhan pada umumnya orang awam. Banyak ahli berpandangan bahwa apabila elemen ini tidak dilakukan, maka dokter dianggap telah lalai melaksanakan tugasnya memberikan informasi yang adekuat.
+
+3.     Consent elements
+
+Elemen ini juga terdiri dari 2 bagian, yaitu voluntariness (kesukarelaan, kebebasan) dan authorization (persetujuan). Kesukarelaan mengharuskan tidak adanya tipuan, misrepresentasi, ataupun paksaan. Pasien juga harus bebas dari â€˜tekananâ€™ yang dilakukan tenaga medis yang bersikap seolah-olah akan â€˜dibiarkanâ€™ apabila tidak menyetujui tawaran pelayanan yang akan dilakukannya. Banyak ahli masih berpendapat bahwa melakukan persuasi yang â€˜tidak berlebihanâ€™ masih dapat dibenarkan secara moral.
+
+Consent dapat diberikan secara:
+
+	Dinyatakan (expressed), dapat secara:
+
+	Lisan
+	Tertulis
+
+
+
+Pernyataan tertulis diperlukan apabila dibutuhkan bukti di kemudian hari, umumnya pada tindakan yang invasif atau yang berisiko mempengaruhi kesehatan pasien secara bermakna. Permenkes tentang PTM menyatakan bahwa semua jenis tindakan operatif harus memperoleh persetujuan tertulis.
+
+	Tidak dinyatakan (implied)
+
+Pasien tidak menyatakannya, baik secara lisan maupun tertulis, namun melakukan tingkah laku/gerakan yang menunjukkan jawabannya. Meskipun consent jenis ini tidak memiliki bukti, namun consent jenis inilah yang paling banyak dilakukan dalam praktik sehari-hari. Misalnya adalah seseorang yang menggulung lengan bajunya dan mengulurkan lengannya ketika akan diambil darahnya di laboratorium.
+
+&nbsp;
+
+Kondisi Tertentu untuk Informed Consent           
+
+Informed consent memiliki lingkup terbatas pada hal-hal yang telah dinyatakan sebelumnya, tidak dapat dianggap sebagai persetujuan atas semua tindakan yang akan dilakukan oleh tenaga medis. Dokter dapat bertindak melebihi hal-hal yang telah disepakati hanya apabila dalam keadaan gawat darurat dan keadaan tersebut membutuhkan waktu yang singkat untuk mengatasinya.
+
+Doktrin informed consent tidak berlaku pada 5 keadaan secara umum, yaitu (1) keadaan darurat medis; (2) ancaman terhadap kesehatan masyarakat; (3) pelepasan hak memberikan consent (waiver); (4) kekhususan medis (clinical privilege); dan (5) pasien yang tidak kompeten memberikan consent.
+
+Contextual circumstances juga seringkali mempengaruhi pola perolehan informed consent. Seseorang yang dianggap sudah pikun, orang yang dianggap memiliki mental yang lemah untuk dapat menerima kenyataan, ataupun orang yang berada dalam keadaan terminal (stadium lanjut dari penyakitnya) seringkali dianggap tidak â€˜cakapâ€™ menerima informasi yang benar - apalagi membuat keputusan medis. Banyak keluarga pasien melarang para dokter untuk berkata benar kepada pasien tentang keadaan sakitnya.
+
+Pengaruh budaya Indonesia atau budaya Timur pada umumnya sangat terasa dalam praktik informed consent. Budaya, kebiasaan, dan tingkat pendidikan juga mempengaruhi cara dan ke-adekuat-an komunikasi antara dokter-pasien. Kazumasa Hoshino menuliskan bahwa orang Jepang cenderung untuk menyerah kepada pendapat umum dalam kelompoknya. Umumnya, keputusan medis dipahami sebagai proses dalam keluarga, pasien sendiri umumnya mendesak untuk berkonsultasi dahulu dengan keluarganya untuk menjaga keharmonisan keluarga. Budaya sebagian besar suku bangsa di Indonesia tampaknya sangat sesuai dengan budaya bangsa Jepang tersebut. Persetujuan tindakan medis umumnya diberikan oleh keluarga dekat pasien, oleh karena pasien cenderung untuk menyerahkan permasalahan medisnya kepada keluarga terdekatnya. Nilai yang lebih bersifat kolektif seperti ini juga terlihat pada konteks rahasia kedokteran.
+
+Keluhan Mengenai Informed Consent
+
+Umumnya, keluhan pasien tentang proses informed consent adalah sebagai berikut:
+
+	bahasa yang digunakan untuk menjelaskan terlalu teknis
+	perilaku dokter yang terlihat terburu-buru atau tidak perhatian, atau tidak ada waktu untuk proses tanya-jawab
+	pasien sedang mengalami stres emosional, sehingga tidak mampu mencerna informasi
+	pasien dalam keadaan tidak sadar atau mengantuk
+
+Sebaliknya, dokter juga mengeluhkan hal-hal berikut di bawah ini:
+
+	pasien tidak mau diberitahu
+	pasien tak mampu memahami
+	risiko terlalu umum atau terlalu jarang terjadi, sehingga sering diabaikan tanpa diinformasikan kepada pasien
+	situasi gawat darurat atau waktu yang sempit untuk memperoleh keputusan, sedangkan pasien ingin berkonsultasi dahulu dengan keluarganya
+
+Kesimpulan
+
+Suka tidak suka, mau tidak mau, doktrin informed consent hendaknya menjadi pegangan bagi para dokter maupun tenaga medis lainnya dalam melakukan pelayanan kesehatan. Hal tersebut untuk â€˜keamanan dan kenyamananâ€™ dokter dan tenaga medis juga, karena dapat dijadikan â€˜senjataâ€™ untuk menghadapi tuduhan malpraktik yang marak terjadi di masyarakat kita akhir-akhir ini. Dokter juga manusia yang tidak luput dari kesalahan, namun alangkah baiknya apabila dokter sudah melakukan langkah-langkah antisipatif terhadap tindakan medis yang dilakukannya bagi para pasiennya, sesuai dengan hukum dan peraturan perundang-undangan yang berlaku. Sebaliknya, bagi pasien, doktrin informed consent ini pun berguna untuk â€˜keamanan dan kenyamananâ€™ dirinya.
+
+Pastikan bahwa Anda sudah mendapatkan informasi secara detil dan terperinci mengenai tindakan medis yang akan dilakukan dokter ataupun tenaga medis lainnya, baru Anda bubuhkan tanda tangan Anda pada lembaran informed consent yang diberikan. Ingat, baca dengan teliti apapun dokumen yang diberikan kepada Anda!
+
+&nbsp;
+
+Sumber:
+
+	Sampurna B, Samsu Z, Siswaja TD. Peranan ilmu forensik dalam penegakan hukum: Sebuah pengantar, cetakan pertama. Jakarta; Februari 2008.
+	Sampurna B, Samsu Z, Siswaja TD. Bioetik dan hukum kedokteran: Pengantar bagi mahasiswa kedokteran dan hukum, cetakan pertama. Jakarta; Oktober 2005.

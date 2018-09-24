@@ -1,0 +1,38 @@
+Software untuk Tes Buta Warna
+Tes buta warna adalah salah satu tes yang diwajibkan dalam tes kesehatan. Dan metode tes buta warna yang sering digunakan adalah metode tes Ishihara oleh dr. Shinobu Ishihara. Dokter mata biasanya memiliki buku Ishihara yang terdiri dari 38 gambar (38 plates) untuk diuji pada pasiennya. Nah, gambar-gambar ini lah yang dimasukkan ke dalam satu software untuk dijadikan sebagai software tes buta warna.
+
+Kali ini, software yang saya buat adalah tes buta warna dengan metode Ishihara, tes singkat buta warna (8 gambar yang diambil dari koleksi buku Ishihara), dan tes buta warna dengan bentuk bangun dua dimensi.
+
+Hasil tes dari software ini ada tiga. Yaitu normal, buta warna parsial dan buta warna total. Ketiga hasil ini bisa diperoleh dari pengujian terhadap 38 gambar metode Ishihara. Gambar nomor satu hingga 25 merupakan soal tebak angka. Seseorang dengan berpenglihatan normal harus menjawab normal dari soal nomor 1 hingga 17 dan soal nomor 22 hingga 25. Kecuali untuk nomor 18 hingga 21 hanya bisa dilihat dengan jelas oleh penderita buta warna. Soal nomor 26 hingga 38 adalah soal dimana seseorang harus melihat susuran garis pada gambar. Orang normal mampu melihat jalur garis pada soal nomor 26 hingga 38 kecuali nomor 27 dan 28 karena kedua gambar ini dapat dilihat jelas oleh penderita buta warna.
+
+Untuk soal nomor 1 dan 38 seharusnya dapat dilihat dengan jelas oleh orang normal dan penderita buta warna parsial kecuali buta warna total. Jadi sebenarnya hanya dengan kedua gambar ini biasanya sudah bisa dibedakan antara penderita buta warna total dengan orang normal + penderita buta warna parsial.
+
+Dengan diagnosis dari tiap soal yang telah dijelaskan diatas maka dapat ditarik penilaian dari hasil yang telah dijawab oleh peserta tes.
+
+
+
+Software ini menyediakan 3 tipe tes. Tes lengkap, tes singkat dan tes dengan soal bentuk bangun dua dimensi.
+
+
+
+Ini adalah salah satu contoh uji tes buta warna Ishihara (soal nomor satu). Tipe soal ini dimulai dari nomor 1 hingga soal nomor 25.
+
+Sedangkan untuk nomor 26 hingga 38, tipe soalnya seperti gambar berikut:
+
+
+
+Hasil dari tes akan ditunjukkan seperti gambar berikut:
+
+
+
+Tidak Cuma ini, dalam software ini disediakan juga test singkat kalau memang anda tidak punya banyak waktu. Pada tes singkat ini, penjelasan sudah disertakan..
+
+
+
+Dan yang terakhir adalah tes buta warna dengan bentuk bangun dua dimensi.
+
+
+
+Silakan download Software ini
+
+http://www.4shared.com/file/hIMr-YdQ/Color_Blind_Test.html

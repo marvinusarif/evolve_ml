@@ -1,0 +1,59 @@
+Manfaat Phototherapy Bagi Bayi Kuning
+Setelah lahir, kadang kulit bayi menjadi kekuningan, biasanya para orang tua akan menjemur bayinya di bawah sinar matahari agar kuning berkurang. Tapi kadang dokter menyarankan anda untuk melakukan phototherapy untuk menghilangkan kuning. Apa sebenarnya phototherapy ini? Haruskah dilakukan?
+
+Sebelum membahas tentang phototherapy, ada baiknya kita tahu mengapa bayi menjadi kuning. Dalam tubuh terdapat zat bilirubin yang merupakan hasil pemecahan hemoglobin darah. Bilirubin sendiri terbagi menjadi 2 yaitu bilirubin tak langsung yang merupakan hasil pemecahan langsung hemoglobin darah dan mudah terikat dengan lemak, dan bilirubin langsung yaitu hasil olahan bilirubin tak langsung oleh organ hati sehingga mudah larut dalam air dan dapat dibuang melalui air kemih dan kotoran (feses). Bila kadar bilirubin tak langsung tinggi maka akan disimpan dalam lemak bawah kulit sehingga akan menyebabkan warna kuning pada kulit. (untuk lebih jelasnya mengenai kenapa bayi kuning, anda dapat membaca artikel “Dok, Bayi Saya menguning” di tanyadok.com). Normalnya bayi memang akan menguning pada usia 2-4 hari setelah lahir.
+
+Lalu kapan kuningnya bayi dianggap tidak normal?
+Bayi kuning dianggap tidak normal bila muncul &lt; 24 jam setelah lahir atau &gt; 2 minggu setelah lahir. Atau warna kuning menyebar hingga ke perut dan anggota gerak (kaki dan tangan), karena normalnya warna kuning hanya terbatas di kepala, wajah dan dada. Bila ada tanda diatas, maka sebaiknya bayi diperiksakan kadar bilirubin tak langsung dan langsung melalui sampel darahnya karena warna kulit tidak akurat dalam menampilkan kadar bilirubin sebenarnya dalam tubuh.
+
+Apa itu phototherapy itu?
+Phototherapy adalah terapi dengan menggunakan penyinaran sinar dengan intensitas tinggi yaitu 425-475nm (biasa terlihat sebagai sinar biru) untuk menghilangkan bilirubin tak langsung dalam tubuh.
+
+Kenapa phototherapy harus dilakukan?
+Karena bila kadar bilirubin tak langsung terlalu tinggi, maka akan menyebabkan penumpukan pada bagian otak (bilirubin tak langsung dapat menembus sawar otak) dan menimbulkan gejala gangguan saraf hingga kematian.
+
+Kapan phototherapy dilakukan?
+Pada bayi premature, maka phototherapy dilakukan bila :
+
+	Berat badan bayi &lt; 1000g
+	Kadar bilirubin tak langsung 7-9mg/dl pada berat badan 1000-1500g
+	Kadar bilirubin tak langsung 10-12mg/dl pada berat badan 1500-2000g
+	Kadar bilirubin tak langsung 13-15mg/dl pada berat badan 2000-2500g
+
+Pada bayi matur (sesuai usia kehamilan normal), phototherapy dilakukan bila :
+
+	Bayi kuning &lt; 24 jam setelah lahir
+	Bayi usia 24-28 jam, kadar bilirubin tak langsung 15-18 mg/dl
+	Bayi usia 48-72 jam, kadar bilirubin tak langsung 18-20 mg/dl
+	Bayi usia &gt; 72 jam. kadar bilirubin tak langsung &gt; 20 mg/dl
+
+Bagaimana phototherapy dilakukan?
+Bayi akan dibaringkan di dalam incubator bila bayi premature dan ranjang bayi bila matur dalam keadaan telanjang. Kemudian diatasnya akan dipasang alat yang memiliki lampu yang akan memancarkan sinar dengan intensitas tinggi. Sinar ini akan menguraikan bilirubin tak langsung menjadi zat yang dapat dibuang keluar dari tubuh melalui air kencing atau empedu. Selama penyinaran, mata dan alat kelamin bayi akan ditutup untuk menghindarkan kerusakan retina dan perubahan struktur genetic pada alat reproduksi (walau belum terbukti). Perlu diingat bahwa phototherapy hanya dapat digunakan untuk bilirubin tak langsung saja, bukan bilirubin langsung.
+
+Kapan phototherapy dikatakan berhasil?
+Phototherapy dikatakan berhasil bila kadar bilirubin tak langsung turun sesuai dengan kadar normalnya untuk usia dan berat badan terkait. Kadar bilirubin tak langsung akan dicek setiap 12-24jam dan pemeriksaan akan diulang 12-24 jam setelah terapi selesai untuk memastikannya. Perubahan warna kulit bukan indikator keberhasilan terapi.
+
+Apa efek samping dari phototherapy?
+
+	Kotoran menjadi encer
+	Diare
+	Kulit menjadi hitam
+	Bercak kemerahan pada kulit
+	Kepanasan karena efek panas dari lampu atau malah kedinginan akibat telanjang
+	Dehidrasi (kehilangan cairan), biasanya dicegah dengan pemberian cairan lebih dari kebutuhannya melalui infuse atau ASI.
+	Bronze Baby syndrome (kulit bayi tampak berwarna perunggu), hal ini terjadi bila penyinaran dilakukan pada kadar bilirubin langsung tinggi.
+
+Apa bedanya phototherapy dengan phototherapy intensif?
+Phototherapy intensih dilakukan pada bayi dengan kadar bilirubin hampir mencapai ambang batas penumpukan pada otak (&gt;25-30mg/dl) dengan persiapan transfuse tukar bila gagal. Prisnsipnya sama dengan phototherapy biasa, hanya ada tambahan selimut fiberoptik pada alasnya sehingga efek sinar menjadi dua kali lipat.
+
+
+
+Bagaimana bila phototherapy gagal?
+
+Bila gagal maka bayi anda harus melakukan transfusi tukar (exchange transfussion)
+
+Phototherapy hanya membantu menurunkan kadar bilirubin tak langsung dalam darah tapi tidak mengobati penyebabnya, sehingga pengobatan harus diteruskan dengan mengobati penyebabnya.
+
+Sumber :
+Richard E, Md. Behrman dkk. 2004. Nelson Textbook of Pediatrics 17th edition. USA : Elsevier Science
+John P, Cloherty dkk. 2008. Manual of Neonatal Care. Lippincott Williams &amp; Wilkins

@@ -1,0 +1,24 @@
+Erythroblastosis Fetalis: Pertentangan darah antara ibu dan janin
+Saat mengandung, terjalin suatu hubungan spesial antara ibu dan janin. Janin menerima segala hal dari sang ibu. Tapi janin terbentuk dari penyatuan gen ibu dan ayah, kadang dapat terjadi pertentangan antara ibu dan janin dan salah satu bentuknya adalah erythroblastosis fetalis ini.
+Apa yang dimaksud erythroblastosis fetalis ?
+Erythroblastosis fetalis adalah peningkatan penghancuran sel darah merah janin akibat antibodi (sel pertahanan tubuh) ibu yang masuk ke janin lewat plasenta dan menghancurkan antigen (tanda pengenal benda asing) yang terdapat di sel darah merah janin. Penyakit ini penyebab penting terjadinya anemia (kurang darah) dan jaundice (bayi kuning) pada bayi baru lahir.
+Kenapa hal ini dapat terjadi ?
+Darah memiliki 60 macam antigen yang berbeda di permukaan selnya, dan antigen yang paling sering menyebabkannya adalah antigen D dari  rhesus dan antigen ABO dari golongan darah, sedangkan antigen lain adalah  CW , CX , DU , K (Kell), M, Duffy, S, P, MNS, Xg, Lutheran, Diego, and Kidd (tapi jarang). Hal inilah yang menyebabkan darah setiap individu berbeda (contoh sederhana adalah perbedaan golongan darah). Janin terbentuk dari penggabungan ayah dan ibu, sehingga bisa saja antigen yang ada pada janin berbeda dengan ibu. Akibatnya imunitas ibu menganggap darah janin sebagai benda asing yang berbahaya dan mengeluarkan antibodi yang nantinya akan menempel pada antigen sel darah merah janin dan menghancurkannya. 
+Kapan erythroblastosis fetalis terjadi ?
+•	Bila ibu rhesus negatif dan rhesus janin positif. Hal ini tak pernah terjadi di kehamilan pertama karena ibu belum tersentisasi dengan antigen janin, tapi gejala akan semakin hebat pada kehamilan berikutnya. Persentasi janin akan rhesus + bila ayah rhesus + adalah 50%, tapi kemungkinan penyakit muncul hanya 10%.
+
+
+
+•	Bila golongan darah ibu berbeda dari golongan darah janin (misal ibu  O dan janin A atau B, atau ibu A dan janin B dan sebaliknya). Penyakit ini dapat muncul pada kehamilan pertama dan menetap untuk kehamilan berikutnya. Presentasi janin berbeda golongan darah bila golongan darah ayah berbeda dengan ibu adalah 20-25%, tetapi hanya 15% yang beresiko terkena dan hanya 0,3-2,2% yangberkembang menjadi penyakit.
+•	Perbedaan antigen lainnya seperti yang disebut diatas, presentasi munculnya adalah 5%.
+Apa gejala dari erythroblastosis fetalis ?
+Gejala yang timbul dapat sangat ringan (hanya diketahui dari hasil laboratorium saja) hingga gejala yang berat (kematian janin). Pada perbedaan rhesus, gejala yang ada adalah bayi terlahir pucat lalu jadi kuning pada hari pertama setelah lahir, terdapat pembesaran hati dan limpa, tanda-tanda gagal jantung ( pembesaran jantung, distress pernafasan), bengkak seluruh tubuh (edema anasarka) dan kegagalan sirkulasi. Bila gejala edema anasarka sudah muncul dari kandungan (biasa disebut hidrops fetalis), maka nantinya dapat menimbulkan kematian dalam rahim atau mati sesaat setelah lahir. Sedangkan pada pebedaan golongan darah, gejala lebih ringan, hanya bayi menjadi kuning 24 jam setelah lahir dan berkembang jadi kernicterus yang berbahaya bagi bayi
+Bagaimana mengetahui janin saya terkena atau tidak ?
+•	Ayah dan ibu menjalani tes incompatibility darah untuk melihat golongan darah mereka bertentangan atau tidak.
+•	Ibu menjalani tes antibodi terhadap antigen D pada minggu kehamilan ke 12-16, 28-32, dan 36. Bila titer meningkat maka positif terkena.
+•	Janin dapat diperiksa dengan Ultrasonografi, amnionsintesis, dan Percutaneus Umbilical Blood Sampling (PUBS), minimal pada usia janin 18-20 minggu.
+Apa yang harus saya lakukan ?
+Untuk janin, dapat dilakukan transfusi PRC (packed Red Cell) melalui vena umbilical bila hematokrit janin &lt; 30% atau sudah timbul hidrops fetalis. Transfusi dilakukan setiap 3-5 minggu sekali dengan target hematokrit 45-55%. Anda dapat  melakukan persalinan bila paru-paru janin matang, timbul fetal distress, timbul komplikasi PUBS dan usia kehamilan 35-37 minggu.
+Pada bayi, bila disebabkan perbedaan rheus, sebaiknya bayi dilahirkan pada rumah sakit dengan fasilitas perawatan neonatal yang baik dan lengkap karena bayi mungkin membutuhkan transfusi darah dan perawatan intensif hingga keadaan stabil. Sedangkan pada perbedaan golongan darah, bayi cukup dilakukan phototherapy dengan sinar blue light atau transfuse darah bila bayi anemia berat.
+Bagaimana mencegah timbul erythroblastosis fetalis pada bayi ?
+Pemberian Human anti-D globulin (RhoGAM) pada masa kehamilan 28-32 minggu dan pada saat persalinan (72 jam sebelum persalinan) akan menurunkan resiko erythroblastosis fetalis menjadi 1%. Tetapi tingkat keberhasilan ini harus didukung dengan perawatan antenatal yang baik, deteksi dini penyakit dan persalinan yang minimal tindakan invasive pada ibu.

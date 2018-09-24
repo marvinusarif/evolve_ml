@@ -1,0 +1,45 @@
+Mengapa Bisa Sesak Nafas Ketika Berada Di Pegunungan?
+Mendaki gunung merupakan salah satu hobi anak-anak muda, biasanya mereka berlomba untuk dapat menjadi yang tercepat sampai ke puncak gunung. Namun, ada satu hal yang perlu diperhatikan, yaitu pada setiap ketinggian di atas 3.000 meter, PO2 (tekanan parsial oksigen) arteri turun di bawah rentang aman. Orang yang secara cepat naik ke ketinggian 3.000 meter atau lebih akan mengalami gejala-gejala yang disebut sebagai acute mountain sickness.
+
+Acute mountain sickness adalah suatu kondisi patologis yang disebabkan oleh paparan akut tekanan udara rendah (pada dataran tinggi), biasanya mulai terjadi pada ketinggian 2.400 meter. Penyebabnya adalah hipoksia, hipoksik, dan alkalosis yang diinduksi oleh hipokapnia. Peningkatan dorongan bernafas untuk memperoleh tambahan oksigen menyebabkan terjadinya alkalosis respiratorik karena karbondioksida yang membentuk asam lebih banyak dikeluarkan daripada yang diproduksi.
+
+Tekanan atmosfer secara progresif berkurang seiring dengan peningkatan ketinggian. Di ketinggian 5.400 meter di atas permukaan laut, tekanan atmosfer hanya 380 mmHg, separuh dari nilainya di atas permukaan laut. Karena proporsi gas oksigen dan nitrogen dalam udara tidak  berubah, PO2 udara inspirasi di ketinggian tersebut adalah 21% dari 380 mmHg atau 80 mmHg mmHg dengan PO2 alveolus lebih rendah, yaitu 45 mmHg.
+
+Gejala-Gejala acute mountain sickness:
+
+	Rasa mual
+	Nafsu makan hilang
+	Bernafas terengah-engah
+	Kecepatan denyut jantung meningkat karena dipicu oleh hipoksia sebagai kompensasi untuk meningkatkan penyaluran oksigen yang tersedia ke jaringan melalui sirkulasi.
+	Disfungsi saraf yang ditandai oleh gangguan penilaian, pusing bergoyang, dan inkoordinasi.
+	Sakit kepala adalah gejala utama untuk mendiagnosis acute mountain sickness.
+
+Mengapa orang dapat tinggal di dataran tinggi?
+Jutaan orang tinggal di tempat yang tingginya melebihi 3.000 meter bahkan penduduk di Andes tinggal di ketinggian yang melebihi 4.800 meter.
+Bagaimana mereka dapat hidup? Mereka melakukan proses aklimatisasi.
+
+Ketika berada di ketinggian, respons kompensasi akut berupa peningkatan pernafasan dan curah jantung secara bertahap selama beberapa hari akan digantikan oleh tindakan kompensasi yang berkembang lebih lambat yang memungkinkan oksigenasi jaringan yang adekuat dan pemulihan keseimbangan asam basa. Produksi sel darah merah meningkat dirangsang oleh eritropoietin sebagai respons terhadap penurunan penyaluran oksigen ke ginjal. Hipoksia juga mendorong sintesis DPG di dalam sel darah merah, sehingga oksigen lebih mudah dibebaskan dari hemoglobin di jaringan. Jumlah kapiler di dalam jaringan meningkat, sehingga jarak yang harus ditempuh oleh oksigen untuk berdifusi dari darah ke sel memendek. Selain itu, sel-sel yang mengalami aklimatisasi mampu menggunakan oksigen secara lebih efisien melalui peningkatan jumlah mitokondria. Ginjal memulihkan pH arteri ke tingkat mendekati normal dengan menahan asam yang dalam keadaan normal dikeluarkan melalui urin.
+
+Namun, beberapa penduduk Andes juga mengalami chronic mountain sickness. Ini adalah bentuk yang lebih parah dari acute mountain sickness. Menurut penelitian ini disebabkan oleh suatu gen. Mereka yang mengalami chronic mountain sickness, mengalami suatu kelainan glikolisis dan mitokondria dari asam trikarboksilat. Dua kondisi serius yang berhubungan dengan penyakit ini adalah:
+
+	High Altitude Pulmonary Oedema (HAPE) terjadi karena vasokonstriksi pada sirkulasi paru-paru yang dengan konstan menyebabkan peningkatan cardiac output dan menyebabkan peningkatan tekanan kapiler. Gejalanya: dyspnea (nafas pendek) parah pada waktu istirahat, batuk yang pada awalnya kering, tetapi kemudian bisa menghasilkan dahak berwarna pink dan berbusa.
+	High Altitude Cerebral Oedema (HACE) disebabkan oleh vasodilatasi pembuluh darah serebral (otak besar) sebagai respons terhadap hipoksia, sehingga terjadi peningkatan aliran darah dan tekanan kapiler.
+
+Bagaimana cara penatalaksanaannya?
+
+	Acute mountain sickness
+Pencegahannya adalah dengan acetazolamide. Jika berkembang menjadi acute mountain sickness maka diberikan parasetamol dan melarang orang tersebut untuk mendaki ke tempat lebih tinggi.
+	High Altitude Pulmonary Oedema (HAPE)
+Diobati dengan nifedipine dan pemberian oksigen.
+	High Altitude Cerebral Oedema (HACE)
+Pemberian oksigen dan dexamethasone untuk pengobatan.
+
+Apa yang dapat disimpulkan?
+Mendaki gunung dapat menyebabkan sesak nafas karena adanya pengurangan tekanan atmosfer di dataran tinggi. Perlu diperhatikan dalam mendaki gunung mulai pada ketinggian 2.400 meter akan terjadi keadaan yang dinamakan acute mountain sickness. Disarankan untuk mendaki gunung secara perlahan-lahan sehingga tubuh dapat melakukan adaptasi terhadap perbedaan tekanan atmosfer tersebut. Jika mulai dirasakan gejala-gejala dari acute mountain sickness segeralah turun dan jangan melanjutkan pendakian jika gejala belum hilang.
+
+Daftar Pustaka:
+1)	Altitude sickness. Available from URL: http://en.wikipedia.org/wiki/Altitude_sickness.
+2)	High Altitude Trekking &amp; Climbing. Available from URL: http://www.traveldoctor.co.uk/altitude.htm
+3)	Lauralee Sherwood. 2001. Fisiologi Manusia dari Sel ke Sistem. Jakarta: EGC.
+4)	ABC of Oxygen: Oxygen at High Altitude. 1998. Available from URL : http://www.bmj.com/cgi/reprint/317/7165/1063.
+5)	Abnormal Energy Regulation in Early Life: Childhood Gene Expression May Predict Subsequent Chronic Mountain Sickness. 2008. Available from URL : http://www.biomedcentral.com/content/pdf/1471-2431-8-47.pdf.

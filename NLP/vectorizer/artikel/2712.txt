@@ -1,0 +1,23 @@
+Teleradiologi: Layanan Medis Elektronik Jarak Jauh
+  Radiologi semakin menjadi kebutuhan utama sebagai salah satu sarana penunjang diagnostik saat ini. Menginterpretasikan (menerjemahkan) foto menjadi sebuah uraian permasalahan, membutuhkan kemampuan khusus seorang dokter ahli radiologi. Karena itu, ketersediaan dokter ahli radiologi untuk dapat memenuhi kebutuhan rumah sakit dalam memberikan layanan interpretasi radiologis menjadi penting, terutama bagi instalasi gawat darurat dalam meberikan layanan medis kegawatdaruratan bahkan pada malam hari atau hari libur.
+
+Setiap detik sangat berharga bagi keselamatan jiwa pasien. Sebagai contoh, pasien stroke di unit gawat darurat yang datang tengah malam, tidak dapat langsung ditangani setelah dilakukan CT Scan, karena tidak ada ahli radiologi untuk membaca hasil Scan tersebut. Padahal, apabila dicurigai terjadi perdarahan, maka perlu dilakukan tindakan pembedahan otak segera untuk meminimalisir kerusakan yang mungkin terjadi.
+
+Kini kondisi tersebut dapat diatasi dengan adanya teleradiologi. Hasil CT Scan bisa dikirim secara elektronik dengan kualitas gambar yang sangat baik, ke dokter radiologi dan dokter bedah saraf sekaligus. Dapat didiskusikan segera sehingga mempercepat penanganan.
+
+
+
+Teleradiologi ini dapat digunakan oleh dokter ahli radiologi yang siap dipanggil sewaktu - waktu. Tekhnologi ini juga dapat digunakan untuk menyiasati keterbatasan jumlah dokter ahli radiologi, mahalnya alat - alat radiologi, keterbatasan fasilitas, jumlah pasien yang banyak, masalah geografik, kebutuhan diagnosis yang cepat, serta pelayanan yang efektif dan efisien.
+
+Sistem yang dibutuhkan dalam teleradiologi, antara lain Picture Archive Communication System (PACS), Image Management and Communication (IMAC), meliputi sistem informasi radiologi, sistem informasi rumah sakit, dan intelijen artifisial.
+
+Sebagai suatu teknologi yang baru diperkenalkan, pasti masih terdapat kontroversi pada penggunaan teleradiologi. Karena itu, pada penggunaanya, diharapkan dapat sejalan dengan standar internasional mengenai teleradiologi. Di Indonesia, teleradiologi telah diterapkan di sejumlah rumah sakit. Saat ini, pemerintah maupun Perhimpunan Dokter Ahli Radiologi sedang merumuskan aturan pelaksanaannya, terutama mengantisipasi pengiriman hasil ke rumah sakit di luar negeri, sebagai dampak globalisasi pelayanan kesehatan.
+
+Sumber:
+
+	
+	http://www.nejm.org/doi/full/10.1056/NEJMp058286
+	http://www.rsna.org/Publications/rsnanews/april06/teleradiology_april06.cfm
+	Michael. C. Beachley, et al. ACR Technical Standard for Teleradiology. ACR;2002:709-718.
+
+&nbsp;

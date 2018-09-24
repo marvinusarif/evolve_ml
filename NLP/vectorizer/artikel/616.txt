@@ -1,0 +1,6 @@
+Proyek Biomasker Yang Dapat Mengembalikan Wajah Korban Kebakaran
+Para peneliti dari UT Arlington dan Northwestern University bekerja sama dengan ahli bedah dari Brooke Army Medical Center pada sebuah proyek bernama BioMask. Idenya adalah tanpa melakukan operasi, pasien tinggal memakai masker yang dilapisi sensor, aktuator dan alat-alat untuk menyalurkan obat-obatan selama beberapa bulan sementara wajah mereka secara perlahan terbentuk kembali. Pada lapisan bawah masker ini akan ada alat untuk memantau pertumbuhan jaringan, memantau infeksi dan melaporkan data ini ke dokter. Papan sistem di masker ini akan mampu untuk secara dinamis mengubah pengobatan, menyalurkan antibiotik atau sel punca di mana mereka dibutuhkan. Tim ini benar-benar berharap untuk dapat membuat masker rekonstruksi wajah menjadi kenyataan pada 2017.
+
+&nbsp;
+
+Sumber: Wired

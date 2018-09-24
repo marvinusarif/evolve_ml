@@ -1,0 +1,62 @@
+Era Baru Informatika Kesehatan Nasional
+
+
+Pernahkah anda dibuat kesal dan bosan karena harus menunggu lama di Rumah
+Sakit atau Instansi kesehatan? Haruskah anda selalu membawa berkas-berkas yang banyak
+saat ingin mengklaim asuransi kesehatan? Pertanyaan-pertanyaan tersebut banyak timbul
+namun kurang menjadi perhatian serius dari pihak terkait. Salah satu akar permasalahan yang
+menyebabkan lamanya akses dan kurang efisiennya pelayanan kesehatan adalah minimnya
+penerapan sistem teknologi informasi kesehatan.
+
+
+ 
+Kesehatan merupakan bidang yang kaya akan data dan informasi penting. Data dan
+informasi kesehatan tersebut tersebar di berbagai penyedia layanan kesehatan, mulai dari
+Puskesmas, Dinas Kesehatan hingga Asuransi Kesehatan. Sehingga, penggunaan teknologi
+informasi dirasa perlu dalam mengolah data dan informasi kesehatan yang jumlahnya nyaris
+tak terbatas. Penggunaan teknologi informasi dan integrasinya dengan aplikasi kesehatan
+akan mempercepat proses pengolahan data-data kesehatan. Terlebih lagi di era globalisasi
+yang semuanya dituntut untuk memberikan pelayanan yang cepat, tepat dan efisien.
+
+
+ 
+Hal yang patut disayangkan adalah adopsi teknologi informasi kesehatan ini
+dirasa lambat di dunia kesehatan. Meski demikian, ada beberapa institusi yang mencoba
+mengaplikasikannya. Institusi tersebut antara lain, Puskesmas dengan Sistem Informasi
+Manajemen Puskesmas (SIMPUS) dan Rekam Kesehatan Elektronik (RKE) di Rumah Sakit.
+Banyak ditemukan di lapangan, implementasi teknologi informasi terkendala ketersediaan
+tenaga informatika kesehatan. Padahal tenaga informatika kesehatan tersebut adalah kunci
+sukses implementasi teknologi informasi di sebuah instiitusi kesehatan.
+
+
+ 
+Data dan informasi kesehatan yang ada saat ini tersebar membentuk pulau-pulau
+informasi yang saling tertutup di berbagai fasilitas kesehatan. Semua data yang harusnya
+bisa saling mendukung bila aksesnya baik, justru menjadi kendala. Kendala tersebut terkait
+dengan standardisasi sistem pertukaran informasi.
+
+
+ 
+Dari permasalahan yang sudah ada, muncul inisiatif untuk menyelenggarakan suatu
+forum informatika kesehatan yang membahas strategi nasional mengatasi permasalahan
+informatika kesehatan. Forum Informatika Kesehatan Indonesia (FIKI) 2010 akan menjadi
+solusi alternatif percepatan membangun standardisasi informatika kesehatan di Indonesia.
+Forum Informatika Kesehatan Indonesia (FIKI) 2010 mempertemukan praktisi,
+pemegang kebijakan, pengembang dan pemakai teknologi informasi dan komunikasi dari
+berbagai latar belakang dalam pengembangan sistem informasi kesehatan yang tepat guna
+FIKI. Kegiatan yang diselenggarakan pertama kali ini dihadiri oleh pembicara kunci dr. Endang Rahayu Sedyaningsih, MPH,Dr.PH (Menteri Kesehatan RI) dan pakar Informatika
+ 
+Kesehatan Prof. Dennis Streveler (Hawaii University).
+
+
+ 
+Acara ini berlangsung tanggal 21-26 Oktober 2010 dengan puncak acara Konferensi 
+Informatika tanggal 25-26 Oktober 2010 di Hotel Santika, Yogyakarta. Peserta konferensi
+berasal dari dalam dan luar negeri. Hasil yang diharapankan dari acara ini yaitu dapat menjadi
+solusi permasalahan informatika kesehatan Nasional. Semoga mimpi Indonesia untuk akses
+kesehatan jadi lebih mudah dan cepat bisa menjadi kenyataan.
+
+
+
+
+

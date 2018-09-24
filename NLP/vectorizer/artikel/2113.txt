@@ -1,0 +1,64 @@
+Vaksin Invasive Pneumococcal Disease
+Penyakit pneumokokal invasif adalah suatu infeksi yang disebabkan oleh bakteri Streptococcus pneumonia. Bakteri jenis ini dapat menyebabkan pneumonia (infeksi paru-paru), bakteremia (infeksi bakteri di darah) dan meningitis (infeksi selaput otak). Bakteri jenis ini juga dapat menyebabkan infeksi telinga pada anak (otitis media). Pneumonia, bakteremia, dan meningitis menjadi penyebab utama kematian pada anak. Hal ini disebabkan karena resistensi terhadap antibiotik, kondisi dimana antibiotik tidak lagi ampuh untuk menangani infeksi pneumokokal. Pada anak dengan resistensi antibiotik menjadi sulit dalam hal pengobatan infeksi penyakit tersebut.ROGER,health gov.1,2
+
+Bakteri Streptococcus pneumonia hidup di rongga hidung dan tenggorokan, seringkali tidak menimbulkan gejala. Bakteri jenis ini ditularkan lewat udara melalui batuk, bersin dan juga melalui ludah dari orang yang terinfeksi (penggunaan bersama alat makan dan gelas minum). Pemberian vaksin IPD (Invasive Pneumococcal Disease) sangat penting untu mencegah terjadinya pneumonia pada anak yang berusia di bawah dua tahun. Selain itu, vaksinasi dapat pula mencegah terjadinya bekteremia dan meningitis yang disebabkan oleh Streptococcus pneumonia pada anak-anak.health gov1,3,4
+
+Vaksinasi IPD dipercaya sebagai langkah protektif terbaik saat ini, mengingat resistensi bakteri pneumokokus terhadap antibiotik semakin meningkat. Anak-anak yang berusia di bawah satu tahun memiliki resiko paling tinggi menderita IPD, sehingga sangat dianjurkan untuk melakukan vaksinasi IPD sedini mungkin.3,4,5
+
+Terdapat 2 jenis vaksin pneumokokus yang beredar di Indonesia, yaitu:
+
+	Vaksin pneumokokus polisakarida berisi polisakarida murni, 23 serotip disebut Pneumococus Polysaccharide Vaccine (PPV23). Vaksin ini biasa diberikan pada anak di atas dua tahun dengan harga yang terjangkau, tetapi kurang efektif jika dibandingkan dengan PCV7.
+	Vaksin pneumokokus generasi kedua yang berisi vaksin polisakarida konjungasi, 7 serotip disebut Pneumococcal Conjungate Vaccine (PCV7). Jenis PCV7 ini dapat diberikan pada anak usia di bawah dua tahun dan lebih efektif daripada PPV23.
+
+Pemberian vaksin biasanya dimulai pada usia anak dua bulan, tetapi dapat diberikan sejak dini, yaitu pada usia 6 minggu. Penjadwalan pemberian dan jumlah dosis yang dibutuhkan  (mencapai 4 kali dosis pemberian) bergantung pada usia anak saat pemberian dosis pertama dari vaksin tersebut. Apabila anak datang setelah berumur ? 7 bulan maka diberikan jadwal dan dosis PCV 13 seperti tertera pada tabel di bawah ini (Tabel 1).2
+
+
+
+
+Umur datang pertama kali
+
+
+Dosis vaksin yang diberikan
+
+
+
+
+7-11 bulan
+
+3 dosis*
+
+
+
+12-23 bulan
+
+
+2 dosis**
+
+
+
+? 24 bulan – 5 tahun
+
+1 dosis
+
+
+
+
+Tabel 1. Jadwal dan Dosis PCV Pada Anak
+Keterangan:
+
+*2 dosis, interval 4 minggu, dosis ketiga diberikan setelah 12 bulan, paling sedikit 2 bulan setelah dosis kedua; **2 dosis, interval minimal 2 bulan
+
+Vaksin Pneumokokus aman diberikan, tidak menyebabkan efek samping yang serius. Efek samping yang ditimbulkan berupa kemerahan, bengkak, nyeri di tempat penyuntikan. Efek sistemik yang sering terjadi berupa demam, gelisah, pusing, tidur tidak tenang, nafsu makan menurun, muntah, diare, urtikaria. Demam ringan sering terjadi tetapi demam tinggi diatas 39?C jarang dijumpai dilaporkan setelah pemberian dosis ketiga. Reaksi berat, seperti reaksi anafilaksis sangat jarang ditemukan. Reaksi KIPI (Kejadian Ikutan Pasca Imunisasi) biasanya terjadi setelah dosis kedua, tetapi tidak berlangsung lama dan akan menghilang dalam waktu tiga hari.1,2
+
+WHO pada tahun 1991, melalui Expanded Programme of Immunisation (EPI) teah menganjurkan pelaporan KIPI tiap negara. Kontrol pelaksanaan vaksin untuk mengurangi programmatic errors, termasuk cara penggunaan alat suntik baik alat sekali pakai maupun alat suntik auto-distruct, dan cara penyuntikan yang benar agar transmisi patogen melalui darah dapat dihindari.6
+
+&nbsp;
+
+Daftar Pustaka
+
+	American Academy of Pediatrics. (2015). Pneumococcal Conjugate Vaccine - Immunization - Publications - Public Information - MOHLTC. [online] Available at: http://www.health.gov.on.ca/en/public/publications/immune/pnem_conjugate.aspx [Accessed 19 May 2015].
+	Satgas Imunisasi, Ikatan Dokter Anak Indonesia. Pedoman Imunisasi di Indonesia. Edisi kelima. Jakarta : Badan Penerbit IDAI, 2014.
+	CDC. (2015). CDC - Surveillance of Pneumococcal - Chapter 11 - Vaccine Preventable Diseases. [online] Available at: http://www.cdc.gov/vaccines/pubs/surv-manual/chpt11-pneumo.html [Accessed 19 May 2015].
+	Rückinger, S., van der Linden, M. and von Kries, R. (2010). Effect of heptavalent pneumococcal conjugate vaccination on invasive pneumococcal disease in preterm born infants.BMC Infect Dis, 10(1), p.12.
+	Ontario Ministry of Health and Long-Term Care. (2015). PNEUMOCOCCAL VACCINE FOR INFANTS AND TODDLERS. [online] Available at: http://www.rogerknapp.com/medical/pneumococcal.htm [Accessed 19 May 2015].
+	Rezeki, S dan Hadinegoro, S. 2000. Kejadian Ikutan Pasca Imunisasi. 2013. [online] http://saripediatri.idai.or.id/pdfile/2-1-2.pdf [Accessed 19 May 2015].

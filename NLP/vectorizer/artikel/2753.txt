@@ -1,0 +1,12 @@
+Aplikasi Tawkon, Hitung Paparan Radiasi HP Anda
+Apakah Sobat takut telepon seluler Anda menyebabkan kanker karena konon banyak paparan radiasi? Inilah yang akan dibantu oleh sebuah aplikasi Android yang akan menghitung seberapa paparan radiasi Anda pada telepon seluler atau HP.
+
+
+
+Aplikasi ini disebut Tawkon (dibaca "talk on"), aplikasi yang akan menghitung perkiraan energi yang dikeluarkan oleh antena telepon dan menghitung seberapa sering Anda menggunakan handphone baik secara konvensional (langsung melalui speaker dalam telepon), melalui headset, atau melalui speakerphone.
+
+Aplikasi ini akan menghitung paparan pada pengguna dengan ukuran Specific Absorption Rate - laju penyerapan spesifik, sebuah ukuran umum untuk menghitung radiasi yang terserap.
+
+Walau demikian, hingga kini radiasi pada telepon seluler masih tanda tanya apakah menyebabkan kanker atau tidak. Yang jelas kita lebih baik waspada bukan?
+
+Disarikan dari Medgadget

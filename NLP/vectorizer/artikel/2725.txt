@@ -1,0 +1,20 @@
+Sistem Informasi Kesehatan Daerah Diimplementasikan
+
+
+Salah satu aspek penting dalam pembangunan masyarakat sehat adalah sistem informasi kesehatan (SIK) yang baik. SIK diperlukan untuk menjalankan upaya kesehatan dan memonitoring agar upaya tersebut efektif dan efisien. Oleh karena itu, data informasi yang akurat, pendataan cermat dan keputusan tepat kini menjadi suatu kebutuhan.
+
+Hal ini disampaikan oleh Kepala Pusat Data dan Informasi kementerian kesehatan, dr. Elizabeth Jane Soepardi, MPH, DSc., dalam jumpa pers siang ini, Jumat (01/07).
+
+“Kementerian Kesehatan, melalui Pusat Data dan Informasi saat ini sedang menyusun Sistem Informasi Kesehatan Daerah (SIKDA) elektronik yang berisi data set yang diharapkan menjadi sebuah standar pencatatan dan pelaporan setiap puskesmas di seluruh Kota/Kabupaten”, ujar dr. Jane.
+
+Menurut dr. Jane, kegiatan pengembangan SIK ini meliputi pengembangan regulasi dan standar (road map, peraturan pemerintah, dan pengembangan petunjuk teknis SIK); pengembangan Bank Data Nasional; dan pengembangan National Health Data Dictionary.
+
+“Kita akan membuat software SIKDA yang open source untuk puskesmas dan kabupaten, serta bersifat inter-operable dengan sistem-sistem pencatatan dan pelaporan yang sudah ada”, jelas dr. Jane.
+
+Software SIKDA yang bersifat generik ini direncanakan akan selesai pada akhir September tahun ini, dan akan dibagikan ke seluruh puskesmas secara gratis. Selanjutnya secara bertahap, akan dibuat komponen SIKDA untuk rumah sakit. Sehingga diharapkan pada akhir tahun 2012, Indonesia telah memiliki SIK yang baik yang merata sampai ke daerah, dimana seluruh unit pelayanan kesehatan yang meliputi puskesmas dan rumah sakit, baik pemerintah maupun swasta, dapat terhubung dan memberikan gambaran kondisi kesehatan secara utuh dan berdasarkan evidence based.
+
+“Manfaat SIKDA elektronik dalam hal adminisntrasi, manfaat tersebut dapat dirasakan baik oleh masyarakat secara langsung maupun oleh petugas sebagai penyelenggara kesehatan, karena waktu tunggu pasien berkurang, alur lebih jelas, dan mengurangi beban administrasi petugas kesehatan sehingga pelayanan menjadi lebih efektif dan efisien. Selanjutnya, dalam hal medis, SIKDA elektronik mampu meminimalisasi terjadinya kesalahan medis, dan secara tidak langsung meningkatkan penggunaan obat generik di masyarakat”, ujar dr. Jane.
+
+Pada kesempatan tersebut, disebutkan pula bahwa beberapa daerah di Indonesia telah lebih dulu berinovasi dan merasakan manfaat atas penggunaan e-health, yaitu penerapan teknologi informasi komunikasi untuk sistem informasi kesehatan, antara lain Kabupaten Purworejo, Kab. Bantul, Kab. Ngawi, Kab. Padang Pariaman, Kota Bandung, Kota Jembrana, Kota Batam, Kota Balikpapan, kota Tomohon, Prov. DIY, Prov. NTB, Prov.Aceh, juga di hampir seluruh RS tipe A, RS vertikal dan� RS swasta.
+
+Sumber Kemenkes RI

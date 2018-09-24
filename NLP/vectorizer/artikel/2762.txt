@@ -1,0 +1,10 @@
+Teknologi Radiasi Terahertz untuk Kanker
+Pernahkah Sobat mendengar kata terahertz? Radiasi terahertz (THz) adalah sebuah spektrum elektromagnetik yang kini sedang banyak diteliti, terutama oleh bagian keamanan atau security untuk memperbaiki deteksi logam. Penggunaan ini oleh kalangan ilmuwan medis, diperkirakan dapat menjadi alat deteksi kanker. Mengapa? Karerna radiasi terahertz dapat menembus jaringan dan memberikan umpan balik, sehingg dapat memberika informasi densitas atau ketebalan jaringan dan kandungan airnya.
+
+
+
+Kini, masalahnya adalah sinyal THz masih dihasilkan dengan alat yang besar. Kini sedang dicari juga oleh para ahli di Cornell mengenai bagaimana menghasilkan gelombang in dengan alat yang terjangkau.
+
+Ya, kita tunggu saja ya perkembangan berikutnya.
+
+Sumber: Medgadget

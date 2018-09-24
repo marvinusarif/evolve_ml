@@ -1,0 +1,30 @@
+Kuman? Bakteri Atau Virus nih?
+Penyakit yang diderita manusia disebabkan oleh banyak hal, misalnya saja penyakit karena umur yang bertambah tua, metabolisme yang kurang baik, racun, dan yang lainnya termasuk diantaranya infeksi oleh organisme mikroskopik (mikroorganisme) yaitu organisme yang tidak dapat dilihat dengan mata telanjang dan hanya bisa kita lihat dengan bantuan alat yang disebut mikroskop.
+Jenis Mikroorganisme ada berbagai macam seperti bakteri, virus, jamur, dan protozoa. Bakteri dan viruslah yang sering kita jumpai dan kita kenal dengan sebutan kuman.
+Mikroorganisme/kuman yang kita kenal dapat menginfeksi manusia diantaranya yang terbanyak dan yang akan dibahas di sini adalah bakteri dan virus.
+Mikroorganisme bakteri dan virus keduanya memiliki ciri khas:
+
+Mampu menjaga kelangsungan hidup spesiesnya agar tidak punah dengan cara menginfeksi satu inang ke inang yang lain dan seterusnya (transmisi)
+Mampu melakukan perlekatan dengan sel tubuh inang yang akan diinfeksinya
+Setelah perlekatannya dengan sel inang tersebut, dia harus mampu masuk ke dalam sel inang dengan cara yang khas sesuai dengan pembagian jenis bakteri tersebut
+Di dalam sel tubuh inang yang diinfeksinya bakteri itu akan mengeluarkan sifat toksigenitasnya (sifat yang mempunyai pengaruh buruk pada inangnya)
+Kemampuannya untuk menghindar dari perlawanan tubuh inangnya juga menjadi ciri khas dari bakteri karena kebutuhannya untuk mempertahankan spesiesnya.
+
+Keadaan sakit yang diderita manusia karena penyakit infeksi disebabkan oleh  sifat bakteri atau virus itu sendiri ataupun oleh reaksi pertahanan tubuh kita dalam usaha untuk mengeliminasi infeksi yang terjadi.
+Lalu apa perbedaan Bakteri dan virus?
+Pertama kali bakteri ditemukan oleh Anthony van Leeuwenhoek (1674) dengan menggunakan mikroskop buatannya sendiri. Istilah bacterium diperkenalkan selanjutanya oleh Ehrenberg (1828), diambil dari kata Yunani yang memiliki arti "small stick".
+Bakteri, dari kata Latin bacterium (jamak, bacteria), adalah kelompok raksasa dari organisme hidup. Mereka kebanyakan uniselular (bersel tunggal), dengan struktur sel yang relatif sederhana tanpa inti sel, cytoskeleton, dan organel (atribut yang terdapat di dalam sel Red.) lain seperti mitokondria (atribut di dalam sel yang bertugas menghasilkan energi) dan kloroplas (atribut di dalam sel yang berfungsi menghasilkan karbohidrat dan oksigen seperti yang terdapat dalam sel tumbuhan hijau).
+Bakteri adalah yang paling berkelimpahan dari semua organisme. Mereka tersebar di mana-mana, di tanah, air, dan sebagai simbiosis dari organisme lain.
+Bakteri tidak hanya melulu menyebabkan penyakit (Bakteri patogen) tetapi bisa saja mereka adalah bagian dari flora normal manusia. Mereka umumnya memiliki dinding sel, seperti sel hewan dan jamur, tetapi dengan komposisi sangat berbeda. Banyak yang bergerak menggunakan flagela (rambut halus yang digunakan untuk bergerak).
+Virus (dari kata benda latin `virus`, berarti racun) adalah mikroorganisme yang sangat kecil (berukuran jauh lebih kecil daripada bakteri) sekitar 20 - 300 nm dan hanya dapat dilihat dengan mikroskop elektron. Virus hanya dapat berkembang biak bila ia memasuki sel yang hidup karena mereka tidak dapat berkembang biak sendiri. Hal ini berbeda dengan bakteri yang tidak mutlak membutuhkan sel hidup untuk membantunya berkembang biak misalnya saja dapat kita lihat pada proses pembusukkan dimana bakteri pembusuk berkembang biak pada orgamisme yang sudah mati.
+Struktur dari virus pun bermacam-macam tetapi dibandingkan dengan bakteri, struktur tubuh virus jauh lebih sederhana. Sifat genetik yang dikandung oleh suatu jenis virus juga lebih sederhana dibandingkan dengan bakteri.
+Tidak ada sifat-sifat penyakit yang khusus dan khas yang menunjukkan apakah penyakit tersebut disebabkan oleh bakteri atau virus, namun kebanyakkan dari penyakit yang disebabkan oleh infeksi virus bersifat `self limited disease` artinya dapat sembuh dengan sendirinya tanpa pengobatan apapun.
+Dalam perkembangbiakannya bakteri dan virus bisa merubah sifat genetiknya, sehingga keturunannya bisa saja merupakan spesies yang sama sekali baru (misalnya saja virus SARS, virus ini merupakan hasil perubahan materi genetik dari virus golongan Coronavirus yang biasanya hanya menimbulkan flu pada musim dingin dan sebagian dari penyakit maag), atau bahkan keturunan selanjutnya akan resisten/tahan terhadap pengobatan antibiotik yang sebelumnya pemberiannya kurang adekuat.
+Keduanya penularannya bisa dicegah dengan banyak cara, dari yang paling sederhana seperti mencuci tangan sampai dengan pemberian vaksin yang dapat merangsang pertahanan tubuh kita untuk melawan bakteri dan virus tertentu.
+Referensi
+
+Current diagnosis and treatment of infectious disease (Lange)
+Textbook Microbiology Mims
+Textbook Microbiology Jawet’s
+
+

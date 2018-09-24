@@ -1,0 +1,12 @@
+Deteksi Kadar Glukosa dengan Bakteri!
+Para ilmuwan telah mengembangkan sebuah sistem biologis yang membantu para penderita diabetes memantau kadar glukosa mereka.  Sistem biologis yang dikembangkan oleh siswa IPTEK Universitas Missouri menggunakan segmen DNA yang tertanam dalam bakteri untuk mendeteksi glukosa.
+
+Untuk proyek ini, para siswa merancang agar bakteri - strain E. coli non virulen - untuk merasakan kehadiran glukosa dengan cara sederhana. Bakteri memancarkan cahaya jika dideteksi adanya glukosa. Jika konsentrasi glukosa melebihi tinggi normal, cahaya akan bertambah terang.
+
+Untuk selanjutnya, penelitian ini dikembangkan agar terjadi perubahan warna pada bakteri berdasarkan tingkat glukosa, dan bakteri tersebut dimasukkan dalam strip tes. Jadi bisa diketahui kadar glukosa berdasarkan warna bakteri tersebut. Sebagai contoh, sebuah strip tes akan berubah menjadi hijau jika tingkat glukosa dalam rentang normal, kuning jika perbatasan normal dan merah jika kadarnya tinggi.
+
+&nbsp;
+
+Sumber-ANI
+
+&nbsp;

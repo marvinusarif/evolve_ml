@@ -1,0 +1,7 @@
+Sekarang Google Earth jelajahi bagian tubuhmu
+Baru saja Google merilis sebuah tampilan demo 3 dimensi untuk anatomi dengan menggunakan browser mutakhir mereka Chrome. Dengan berbagai pengalaman yang mirip dengan Google Earth, kita bisa menjelajahi tubuh manusia sampai kepada lapisan anatomis individual seperti kulit, otot, tulang, dll. Semuanya bisa dipilih untuk ditampilkan, bahkan tampilan semi transparan. Label dapat dimunculkan untuk pembelajaran, dan semua bagian anatomi bisa dicari.
+
+Yang dibutuhkan hanyalah browser dengan WebGL, teknologi grafis 3D terbaru yang membutuhkan plugin dari Chrome versi pengembangan. Sementara Firefox 4 beta juga memiliki fitur ini secara otomatis. Simak video ini untuk lebih terkesima lagi dengan teknologi dari Google.
+
+
+

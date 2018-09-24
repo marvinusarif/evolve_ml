@@ -1,0 +1,14 @@
+Aplikasi Kesehatan Terbaru Samsung
+Sudahkah anda memiliki gadget tercanggih dan terbaru milik Samsung? Inovasi tiada henti dari perusahaan telepon seluler asal Korea Selatan ini kembali menggoda kita untuk memiliki produk keluaran terbarunya, Samsung Galaxy S III.  Kali ini mereka meluncurkan aplikasi kesehatan untuk ponsel cerdas Android miliknya. Aplikasi ini diberi nama 'S Health'. Ya, lagi-lagi produk keluaran Samsung dengan embel-embel 'S' di depannya.
+
+Aplikasi S Health kompatibel dengan sejumlah sensor alat pengukur kesehatan seperti pengukur glukosa darah, monitor tekanan darah dan skala komposisi tubuh. Aplikasi ini dapat bersinkronisasi dengan alat pengukur tersebut untuk kemudian mentransfer berbagai macam hasil pengukuran kesehatan secara otomatis ke Galaxy S III anda melalui Bluetooth atau USB, sehingga memberikan informasi tentang kesehatan pengguna. Ditambah lagi, data juga dapat dimasukkan secara manual untuk yang berkaitan dengan makanan, olahraga, jadwal minum obat, dan data kesehatan lainnya. Aplikasi ini akan mencatat dan bahkan membuat grafik dan tabel kesehatan Anda. Keseluruhan data ini bertujuan untuk membantu "mengatur" apa yang Anda makan dan mengukur dengan tepat seberapa banyak Anda berolahraga.
+
+Fungsi 'sharing' atau berbagi sudah menjadi hal yang umum. Demikian pula pada aplikasi ini. Berbagi kisah sukses pribadi dapat menjadi salah satu pembantu motivasi dalam mencapai hidup sehat yang diinginkan. Untuk membantu pengguna berbagi 'prestasi' mereka, S Health mengintegrasikan jejaring sosial ke dalam aplikasi dan memungkinkan penggunanya untuk update status kesehatan mereka melalui pesan yang akan diposting online melalui Twitter.
+
+Sayangnya, saat ini aplikasi ini baru diluncurkan di Korea dan Inggris, dan diharapkan akan disebarkan ke negara-negara maju lainnya. Sampai saat ini aplikasi S Health dapat kompatibel dengan:
+
+- Lifescan Blood Glucose Meter (OneTouch UltraMini/UltraEasy Blood Glucose Meter) (koneksi melalui USB)
+
+- OMRON Blood Pressure Monitor (HEM-7081-IT) and Body Composition (HBF-206-IT) (koneksi melalui Bluetooth)
+
+- A&amp;D Blood Pressure Monitor (UA-767PBT-C) and Body Composition (UA-321PBT-C) (koneksi melalui Bluetooth)
